@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_08"]
+[Black "DeepSeek-V4-Pro/board_01"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "TIMEOUT"]
+[OpeningId "opening_23"]
+[OpeningName "Symmetrical Tarrasch Defense"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 5 9"]
+
+9. a3 a5 10. b3 cxd4 11. Nb1 Ne4 12. Qd3 Be6 13. h3 Na7 14. Qxd4 b6 15. e3 g5 0-1

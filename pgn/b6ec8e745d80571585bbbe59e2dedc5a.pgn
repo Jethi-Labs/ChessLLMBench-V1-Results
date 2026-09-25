@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_06"]
+[Black "gpt-6-sol/board_09"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_21"]
+[OpeningName "Queen's Gambit Declined, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn2kb1r/pp3p1p/2p2pb1/3p4/3P4/2N1P3/PP3PPP/R3KBNR w KQkq - 0 10"]
+
+10. Nh3 Nd7 11. Nf4 a5 12. Nxg6 fxg6 13. Bd3 O-O-O 14. O-O Bb4 15. Rac1 Bxc3 16. Rxc3 f5 17. Ra3 b6 18. Rc3 Kb7 19. Rc2 c5 20. Kh1 Rc8 21. Rfc1 f4 22. exf4 cxd4 23. Ba6+ Kxa6 24. Rxc8 Rxc8 25. Rxc8 d3 26. Rc1 Nc5 27. Rd1 Kb7 28. Re1 d2 29. Rd1 d4 30. Rxd2 d3 31. Rd1 h5 32. Re1 Kc6 33. Re8 d2 34. Rd8 Nd7 35. h3 d1=Q+ 36. Kh2 Qd2 37. Rc8+ Kd6 38. Kg3 h4+ 39. Kf3 Qxb2 40. a4 Qa3+ 41. Kg4 Qxa4 42. Rc1 Ne5+ 43. Kg5 Nd3 44. Rf1 Qxf4+ 45. Kxg6 Qe4+ 46. Kh6 Qxg2 47. Rd1 Qxh3 48. Rd2 Qf5 49. Re2 Ne5 50. Rxe5 Qxe5 51. Kh7 h3 52. Kg8 h2 53. f4 Qf5 54. Kg7 h1=Q 55. Kg8 Qhh7# 0-1

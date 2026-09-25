@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_02"]
+[Black "gpt-6-astra/board_10"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_06"]
+[OpeningName "Caro-Kann Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1q1kb1r/pp2pppp/2n2n2/3p4/3P1Bb1/1QPB4/PP3PPP/RN2K1NR w KQkq - 5 8"]
+
+8. Nd2 a5 9. Ngf3 a4 10. Qb6 Nd7 11. Qc7 f6 12. Qxc8+ Rxc8 13. O-O g5 14. Be3 e5 15. Bb5 e4 16. Ne1 a3 17. bxa3 Bxa3 18. Rb1 Na5 19. Bxd7+ Bxd7 20. c4 Nxc4 21. Nxc4 dxc4 22. Nc2 Bd6 23. Rxb7 Bc6 24. Rb6 Kd7 25. Nb4 c3 26. Rc1 Ba8 27. Kh1 Rb8 28. Rxb8 Rxb8 29. a3 Rxb4 30. axb4 Bxb4 31. Ra1 Bd5 32. Ra7+ Kd8 33. Rxh7 c2 34. Rh6 Bc3 35. Rxf6 Bxd4 36. Rf8+ Kd7 37. Bc1 Ke6 38. Bxg5 e3 39. Rc8 exf2 40. Rf8 Bc5 41. Rf6+ Ke5 42. Rxf2 Bxf2 43. Bd2 Ke4 44. Bc1 Be6 45. Bb2 Bd4 46. Bc1 Be3 47. Bb2 Bd4 48. Bc1 Be3 49. Bb2 Kd3 50. h3 Kc4 51. Ba3 Kb3 52. Bd6 c1=Q+ 53. Kh2 Bg1+ 54. Kg3 Qe1+ 55. Kf3 Qe3# 0-1

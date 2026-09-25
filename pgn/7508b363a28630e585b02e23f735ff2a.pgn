@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_02"]
+[Black "gpt-6-luna/board_09"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_16"]
+[OpeningName "Bishop's Opening, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp2ppp/2np1n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 6"]
+
+6. a3 a5 7. Na4 Ba7 8. O-O d5 9. exd5 Nxd5 10. Re1 f6 11. d4 Nb6 12. Nxb6 Bxb6 13. c3 h5 14. Qc2 Qe7 15. Qg6+ Kf8 16. dxe5 Nxe5 17. Nxe5 fxe5 18. Rxe5 Bxf2+ 19. Kxf2 Qf6+ 20. Qxf6+ gxf6 21. Re1 c6 22. Bf4 b5 23. Bd6+ Kg7 24. Re7+ Kg6 25. Bf7+ Kg5 26. Be8 Ra6 27. Rae1 f5 28. Rg7+ Kh6 29. Rg6+ Kh7 30. Re7# 1-0

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_08"]
+[Black "gpt-5_6-luna/board_09"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_07"]
+[OpeningName "Ruy Lopez, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1b1kbnr/1pp3pp/p4p2/2p5/4P3/1N6/PPP2PPP/RNBR2K1 b kq - 0 9"]
+
+9... h5 10. Be3 c4 11. Nd4 c5 12. Ne2 b5 13. Nbc3 b4 14. Nd5 Kf7 15. Nb6 Rb8 16. Nxc4 g5 17. a4 g4 18. Nd6+ Bxd6 19. Rxd6 c4 20. Rc6 b3 21. Rxc4 f5 22. cxb3 fxe4 23. Bf4 Rxb3 24. Rxc8 h4 25. Rb1 a5 26. Rc7+ Kg6 27. Bd2 Nf6 28. Nf4+ Kh6 29. Bxa5 Ne8 30. Rc6+ Kg5 31. Ne6+ Kh5 32. Rbc1 Rh6 33. Ng7+ Kg5 34. R1c5+ Kf4 35. Rf5# 1-0

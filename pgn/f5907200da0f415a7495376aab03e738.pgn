@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_10"]
+[Black "grok-4_6/board_02"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_22"]
+[OpeningName "Slav Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp2pppp/2n2n2/3p1b2/3P1B2/2N2N2/PP2PPPP/R2QKB1R w KQkq - 6 7"]
+
+7. Ng1 Qb6 8. h3 Qxb2 9. Qc2 Bxc2 10. Nb1 Qxa1 11. e4 Qxb1+ 12. Kd2 Nxe4+ 13. Ke3 Qxf1 14. Nf3 Qxf2# 0-1

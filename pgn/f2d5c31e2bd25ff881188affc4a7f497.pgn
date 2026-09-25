@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_08"]
+[Black "grok-4_6/board_08"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_16"]
+[OpeningName "Bishop's Opening, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp2ppp/2np1n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 6"]
+
+6. Be3 Bxe3 7. Bxf7+ Kxf7 8. fxe3 Qe7 9. Nb5 Bg4 10. Ng1 Bxd1 11. c4 Bc2 12. Kd2 Nb4 13. a3 Nxd3 14. Kxc2 Nf2 15. Ne2 Nxh1 16. Rxh1 Nxe4 17. g3 Rhb8 18. a4 Qd7 19. Rf1+ Kg6 20. Nf4+ exf4 21. gxf4 Kh5 22. b3 Qh3 23. Nxc7 Qxf1 24. Ne6 Qe2+ 25. Kb1 Nc3+ 26. Kc1 Qxe3+ 27. Kc2 Qxe6 28. Kxc3 Qf5 29. h3 Qxf4 30. b4 Kh4 31. Kb3 Kxh3 32. c5 dxc5 33. bxc5 Kg2 34. a5 Qd4 35. c6 bxc6+ 36. Kc2 Rb2+ 37. Kc1 Qd2# 0-1

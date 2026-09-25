@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_02"]
+[Black "grok-4_6/board_04"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "ILLEGAL_MOVE"]
+[OpeningId "opening_48"]
+[OpeningName "Nimzowitsch Defense, Exchange Structure"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp1nppp/8/3qP3/4p3/2B5/PPP2PPP/R2QKB1R w KQkq - 1 10"]
+
+0-1

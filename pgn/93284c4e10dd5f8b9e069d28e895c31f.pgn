@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_10"]
+[Black "gpt-5_6-luna/board_07"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "BOT_CRASH"]
+[OpeningId "opening_34"]
+[OpeningName "Colle System, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qk2r/pbpn1ppp/1p1bpn2/3p4/3P4/1P1BPN2/PBPN1PPP/R2QK2R w KQkq - 4 8"]
+
+8. h4 a5 9. a4 1-0

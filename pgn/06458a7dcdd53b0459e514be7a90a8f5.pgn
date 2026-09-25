@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_02"]
+[Black "Mistral-Large-3/board_05"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "ILLEGAL_MOVE"]
+[OpeningId "opening_09"]
+[OpeningName "Scotch Game, Mieses Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r3kb1r/p1ppqp1p/b1p3p1/3nP3/2P5/1P6/P3QPPP/RNB1KB1R w KQkq - 0 10"]
+
+10. cxd5 Bxe2 11. Kxe2 1-0

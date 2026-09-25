@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-luna/board_01"]
+[Black "gpt-6-astra/board_02"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "BOT_CRASH"]
+[OpeningId "opening_17"]
+[OpeningName "Vienna Game, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk1nr/ppp2pbp/2np2p1/4p3/4P3/2NP2P1/PPP2PBP/R1BQK1NR w KQkq - 0 6"]
+
+0-1

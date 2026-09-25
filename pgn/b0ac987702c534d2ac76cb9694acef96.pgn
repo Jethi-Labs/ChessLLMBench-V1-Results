@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_05"]
+[Black "DeepSeek-V4-Flash/board_05"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_21"]
+[OpeningName "Queen's Gambit Declined, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn2kb1r/pp3p1p/2p2pb1/3p4/3P4/2N1P3/PP3PPP/R3KBNR w KQkq - 0 10"]
+
+10. Ba6 f5 11. Bxb7 f4 12. Bxc6+ Nxc6 13. Nge2 f3 14. g3 fxe2 15. Rg1 a6 16. Rc1 a5 17. f3 a4 18. Rg2 a3 19. b3 f6 20. Nxd5 f5 21. Nc7+ Kd7 22. Nb5 f4 23. gxf4 h6 24. Nc3 h5 25. Kd2 e1=Q+ 26. Kxe1 h4 27. Rxg6 h3 28. d5 Nb4 29. e4 Nxa2 30. Rc2 Nc1 31. Rg4 a2 32. f5 a1=Q 33. Ne2 Na2+ 34. Kd2 Nb4 35. Rc7+ Kd6 36. Rd7+ Kc5 37. Rc7+ Nc6 38. Rxc6+ Kb4 39. Rb6+ Ka3 40. Kc2 Bb4 41. Nc1 Be1 42. Ra6+ Ba5 43. b4 Rxa6 44. Kd3 Bxb4 45. f4 Be1 46. Ke2 Bd2 47. Rg3+ Bc3 48. e5 Ra4 49. Kd1 Rb4 50. Re3 Rb1 51. e6 Rxc1+ 52. Ke2 Rb1 53. Re4 Be1 54. Kf3 Bd2 55. Ke2 Bc1 56. Kd3 Bb2 57. Re3 Bc1 58. Rf3 Bb2 59. Re3 Bc1 60. Re4 Bb2 61. Re3 1/2-1/2

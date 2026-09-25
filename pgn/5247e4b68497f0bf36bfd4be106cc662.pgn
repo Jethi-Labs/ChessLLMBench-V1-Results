@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_03"]
+[Black "gpt-5_6-terra/board_02"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. Nf3 c5 2. Nc3 Nf6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. dxc3 Qxd1+ 7. Kxd1 gxf6 8. Be3 Nd7 9. Bd3 a5 10. Kc1 e5 11. Rd1 a4 12. a3 h5 13. h4 b6 14. Be4 Ra7 15. b4 Be7 16. Bf5 Ba6 17. Kb2 Bc4 18. Rd2 Rg8 19. Rad1 Be6 20. Bxe6 fxe6 21. g3 e4 22. Ne1 Rg4 23. Bf4 e5 24. Bh6 c4 25. Re2 Ra6 26. Red2 Ra7 27. Re2 Ra6 28. Red2 Nf8 29. Be3 Ne6 30. Rd5 Nc7 31. Rd7 Ne6 32. Rb7 f5 33. Bxb6 f4 34. gxf4 exf4 35. Rb8+ Kf7 36. b5 Rg8 37. Rb7 Raa8 38. Rdd7 Rae8 39. Ra7 Rg1 40. Rxa4 Rxe1 41. Rxc4 Kg6 42. a4 Bxh4 43. a5 Kh6 44. a6 Rf8 45. Rc6 Rf6 46. a7 Nc5 47. Rxf6+ Bxf6 48. Bxc5 Bxc3+ 49. Kxc3 Ra1 50. b6 e3 51. fxe3 fxe3 52. Bxe3+ Kg6 53. b7 Rxa7 54. Bxa7 Kf5 55. b8=Q h4 56. Qf8+ Kg4 57. Rg7+ Kh3 58. Qf3+ Kh2 59. Bb8# 1-0

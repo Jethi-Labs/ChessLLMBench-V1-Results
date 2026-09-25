@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_01"]
+[Black "grok-4_3/board_03"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "TIMEOUT"]
+[OpeningId "opening_14"]
+[OpeningName "Sicilian Defense, Moscow Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r3kb1r/pp1q1ppp/2n1pn2/3p4/3PP3/5N2/PP3PPP/RNBQR1K1 w kq - 0 10"]
+
+10. exd5 Nxd5 11. Qc2 Nb6 12. Qd3 a6 13. Re3 e5 14. Nxe5 Nxe5 15. Rxe5+ Kd8 16. Qe3 1-0

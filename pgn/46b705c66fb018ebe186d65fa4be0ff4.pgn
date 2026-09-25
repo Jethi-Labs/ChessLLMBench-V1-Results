@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_03"]
+[Black "Mistral-Large-3/board_06"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_35"]
+[OpeningName "Symmetrical English, Four Knights"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp1p1ppp/1qn1pn2/8/2PN4/2N3P1/PP2PP1P/R1BQKB1R w KQkq - 1 7"]
+
+7. e3 Rb8 8. h4 Ng4 9. Qxg4 Qxd4 10. exd4 b5 11. cxb5 Bb7 12. bxc6 a6 13. Qf4 Rd8 14. cxb7 f6 15. b8=Q Bb4 16. Qxb4 g6 17. Qxf6 d6 18. Qxe6+ Kf8 19. Bh6# 1-0

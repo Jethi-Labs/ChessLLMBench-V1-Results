@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-sol/board_08"]
+[Black "gpt-6-luna/board_08"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_24"]
+[OpeningName "Catalan Opening, Open Mainline"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/2p1bppp/p3pn2/1p6/2QP4/5NP1/PP2PPBP/RNB2RK1 w - b6 0 9"]
+
+9. Qd3 c5 10. b3 Nc6 11. Nc3 b4 12. Ne5 Nxd4 13. Bxa8 bxc3 14. e3 Ng4 15. exd4 Nxe5 16. Qxc3 cxd4 17. Qe1 f6 18. f4 Nd3 19. Qd2 Nxc1 20. Rfxc1 d3 21. Kh1 Qd4 22. Rd1 Rd8 23. Rac1 g5 24. Rc4 Qd7 25. Be4 Bb7 26. Bxb7 Qxb7+ 27. Kg1 Qb6+ 28. Kh1 h5 29. Rdc1 e5 30. Rc6 Qb5 31. fxg5 fxg5 32. Rc7 Qd5+ 33. Kg1 Qd4+ 34. Kh1 Qb4 35. R1c3 e4 36. Qd1 d2 37. R3c4 Qd6 38. R7c6 Qd3 39. Rxa6 Qf3+ 40. Qxf3 exf3 41. Rg6+ Kf8 42. Rf4+ gxf4 43. Rg8+ Kxg8 44. h4 fxg3 45. a4 d1=Q# 0-1

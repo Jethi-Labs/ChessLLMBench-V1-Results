@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-sol/board_08"]
+[Black "gpt-6-luna/board_08"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_12"]
+[OpeningName "Scandinavian Defense, 3...Qa5 Mainline"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn2k2r/ppp2ppp/4pn2/q4b2/1bBP4/2N2N2/PPPB1PPP/R2QK2R w KQkq - 2 8"]
+
+8. a3 Bxc3 9. Bxc3 Qb6 10. O-O Ne4 11. Nh4 Nxc3 12. bxc3 O-O 13. Nxf5 exf5 14. Qf3 a5 15. Rfb1 Qd6 16. Rxb7 g6 17. Rab1 Nd7 18. Qd5 Nf6 19. Qxd6 cxd6 20. R1b6 Rac8 21. Bb3 Ne4 22. a4 d5 23. Ra6 Nxc3 24. Rxa5 Ne2+ 25. Kf1 Nxd4 26. Rxd5 Ne6 27. h4 h5 28. g3 Rb8 29. Rdd7 Rxb7 30. Rxb7 Nc5 31. Rc7 Ne4 32. Bd5 Nf6 33. Bb3 Ne4 34. a5 Kg7 35. a6 Kg8 36. a7 Nd2+ 37. Kg2 Nxb3 38. Rb7 Na1 39. Rb8 Nxc2 40. a8=Q Rxb8 41. Qxb8+ Kh7 42. Qb3 Ne1+ 43. Kf1 Nf3 44. Qxf3 Kg8 45. Qc3 Kf8 46. Qe3 Kg7 47. Qe7 Kg8 48. f4 Kg7 49. Qe8 g5 50. hxg5 h4 51. gxh4 Kg6 52. Kf2 Kh7 53. h5 Kg7 54. Kg2 f6 55. g6 Kh6 56. Qh8# 1-0

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_06"]
+[Black "grok-4_6/board_03"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_08"]
+[OpeningName "Ruy Lopez, Berlin Wall Ending"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bk1b1r/ppp2ppp/2p5/4Pn2/8/5N2/PPP2PPP/RNB2RK1 w - - 0 9"]
+
+9. a3 Ke8 10. b3 Bc5 11. c3 Be6 12. g3 Bxb3 13. h3 Nxg3 14. a4 Nxf1 15. c4 Bxc4 16. h4 Ng3 17. a5 Ne2+ 18. Kf1 Nxc1+ 19. Ke1 Nd3+ 20. Kd1 Nxf2+ 21. Kc1 Be3+ 22. Nbd2 Ne4 23. h5 Nxd2 24. a6 Nxf3+ 25. Kb1 Bd3+ 26. Ka2 Bxa6 27. e6 fxe6 28. h6 Bxh6 29. Rb1 Bb5 30. Ra1 Be3 31. Rb1 Bc4+ 32. Rb3 Nd4 33. Ka1 Bxb3 34. Kb1 Kf7 35. Ka1 Bc4 36. Kb1 Rad8 37. Ka1 Nf5 38. Kb1 Rd2 39. Ka1 Bd4+ 40. Kb1 c5 41. Kc1 Bc3 42. Kb1 e5 43. Kc1 Nd4 44. Kb1 e4 45. Kc1 Rb2 46. Kd1 e3 47. Kc1 Rd8 48. Kd1 e2+ 49. Kc1 e1=Q# 0-1

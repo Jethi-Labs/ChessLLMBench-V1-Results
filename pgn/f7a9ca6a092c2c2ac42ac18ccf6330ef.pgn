@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_05"]
+[Black "gpt-6-astra/board_04"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "TIMEOUT"]
+[OpeningId "opening_06"]
+[OpeningName "Caro-Kann Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1q1kb1r/pp2pppp/2n2n2/3p4/3P1Bb1/1QPB4/PP3PPP/RN2K1NR w KQkq - 5 8"]
+
+8. c4 Nxd4 9. a3 Nxb3 10. Be3 Nxa1 11. b3 Nxb3 0-1

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_01"]
+[Black "gpt-6-luna/board_02"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_36"]
+[OpeningName "Symmetrical English, Pure Mirror"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/pp1pnpbp/2n1p1p1/2p5/2P5/2N1P1P1/PP1PNPBP/R1BQK2R w KQkq - 2 7"]
+
+7. Ne4 d6 8. a3 O-O 9. Qa4 f5 10. b4 Bxa1 11. f3 fxe4 12. fxe4 a5 13. d4 cxd4 14. g4 d3 15. Nc3 Bxc3+ 16. Kd1 Rf2 17. Qc2 dxc2# 0-1

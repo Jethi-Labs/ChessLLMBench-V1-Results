@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-sol/board_01"]
+[Black "gpt-5_6-terra/board_03"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_43"]
+[OpeningName "Petroff Defense, Queen Exchange Line"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnb1k2r/ppp1bppp/3p1n2/6B1/8/3P1N2/PPP1BPPP/RN2K2R w KQkq - 1 9"]
+
+9. Nc3 Nc6 10. O-O Nb4 11. a3 Nbd5 12. Nxd5 Nxd5 13. Bxe7 Nf4 14. Bxd6 Nxe2+ 15. Kh1 cxd6 16. Rae1 a5 17. Rxe2+ Kd7 18. Rfe1 Kc6 19. Re7 Rf8 20. Ng5 Be6 21. Nxe6 fxe6 22. f3 e5 23. Rxg7 h5 24. c4 b5 25. cxb5+ Kxb5 26. Rg5 h4 27. d4 a4 28. dxe5 dxe5 29. Rgxe5+ Kc6 30. Rc1+ Kd6 31. Re4 h3 32. Rd4+ Ke5 33. Re4+ Kd5 34. Rd1+ Kc5 35. Rc1+ Kd5 36. Rd1+ Kc5 37. Rc1+ Kd5 1/2-1/2

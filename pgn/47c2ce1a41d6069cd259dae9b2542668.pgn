@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_10"]
+[Black "gpt-5_6-sol/board_03"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_14"]
+[OpeningName "Sicilian Defense, Moscow Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r3kb1r/pp1q1ppp/2n1pn2/3p4/3PP3/5N2/PP3PPP/RNBQR1K1 w kq - 0 10"]
+
+10. Nbd2 Bb4 11. a4 dxe4 12. Ng5 Qd5 13. f3 Qxd4+ 14. Kf1 e3 15. Nb3 Qxd1 16. Bxe3 Qxb3 17. h3 Bxe1 18. g4 Qxe3 19. h4 Qf2# 0-1

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_10"]
+[Black "gpt-6-astra/board_10"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_44"]
+[OpeningName "French Defense, Early Queen Exchange Structure"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnb2rk1/ppp2ppp/4pn2/3q4/3P4/2B2N2/PPP2PPP/R2QKB1R w KQ - 1 8"]
+
+8. Qe2 Nc6 9. Rg1 Ne4 10. Qc4 Nxc3 11. Qxc3 Rd8 12. Bd3 Nxd4 13. Nxd4 Qxd4 14. Bxh7+ Kxh7 15. Qxc7 Qxb2 16. Qxd8 Qxa1+ 17. Qd1 Qxa2 18. Qh5+ Kg8 19. Kd2 a5 20. Qb5 Qd5+ 21. Qxd5 exd5 22. Rb1 a4 23. Kc1 a3 24. Kd2 a2 25. Ra1 g5 26. Kc1 d4 27. Kb2 Be6 28. Rd1 f5 29. Ka1 Rc8 30. Rxd4 Rxc2 31. Rd8+ Kf7 32. Rd1 Rxf2 33. Rg1 b5 34. Rc1 b4 35. Rc7+ Kf6 36. Rc1 b3 37. Rb1 b2+ 38. Rxb2 Rf1+ 39. Rb1 axb1=Q# 0-1

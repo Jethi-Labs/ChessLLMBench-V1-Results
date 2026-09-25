@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_07"]
+[Black "gpt-5_6-terra/board_10"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "TIMEOUT"]
+[OpeningId "opening_44"]
+[OpeningName "French Defense, Early Queen Exchange Structure"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnb2rk1/ppp2ppp/4pn2/3q4/3P4/2B2N2/PPP2PPP/R2QKB1R w KQ - 1 8"]
+
+8. Bd3 Nc6 9. O-O Ne4 10. Qe1 f5 11. Kh1 g5 12. Qe3 g4 13. Bxe4 Qxe4 14. Qg5+ Kf7 15. Qh5+ Ke7 16. Qxh7+ Ke8 17. Qg6+ Ke7 18. Qg5+ Kf7 19. Qh5+ Ke7 20. Nh4 Rf7 21. Ng6+ Kd6 22. Nf4 Ke7 23. Qg5+ Kd6 24. Qg8 Ke7 25. Nxe6 Qxe6 26. Rfe1 Rf8 27. Rxe6+ Bxe6 28. Qg5+ Kd7 29. Qh6 a5 30. Qc1 b5 31. Qg5 b4 32. Bd2 Kc8 33. Qf4 Rd8 34. Be3 a4 35. Qh6 Rd6 36. Bf4 Nd8 37. Bxd6 cxd6 38. d5 Bxd5 39. Qxd6 Be4 40. Qxb4 Nc6 41. Qc3 Rb8 42. Rd1 Rb4 43. f3 gxf3 44. gxf3 Kc7 45. fxe4 Rxe4 46. Rd5 f4 47. Rc5 Re6 48. Qa5+ Kd6 49. Rd5+ Ke7 50. Qc7+ Kf6 51. Qxf4+ Ke7 52. Qh4+ Kf8 53. Rf5+ Kg7 54. Qg4+ Rg6 55. Qxa4 Rd6 56. Rg5+ Kf7 57. Qc4+ 1-0

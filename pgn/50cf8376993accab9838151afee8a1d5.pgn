@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_3/board_10"]
+[Black "DeepSeek-V4-Flash/board_07"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_30"]
+[OpeningName "Gruenfeld Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/pp2ppbp/6p1/2p5/3PP3/2P2N2/P3BPPP/1RBQK2R b K - 3 9"]
+
+9... e5 10. dxc5 Nd7 11. Qxd7 Bxd7 12. Nxe5 Bxe5 13. Rxb7 Bxh2 14. Rxh2 Qe8 15. Rxd7 Qxd7 16. Rxh7 Kxh7 17. a3 Rae8 18. f3 Rxe4 19. fxe4 Qc6 20. g3 Qxc5 21. a4 Qxc3+ 22. Bd2 Qxg3+ 23. Kd1 Qb3+ 24. Kc1 f5 25. exf5 gxf5 26. a5 Qe6 27. a6 Qxe2 28. Be1 Qxe1+ 29. Kb2 Qa5 30. Kb1 Qxa6 31. Kc1 Qh6+ 32. Kb1 a5 33. Ka1 Qe6 34. Kb1 f4 35. Ka1 Qe7 36. Kb1 a4 37. Ka1 Qd6 38. Kb1 Qd7 39. Ka1 f3 40. Kb1 Qc6 41. Ka1 Qa6 42. Kb1 Qa7 43. Ka1 a3 44. Kb1 f2 45. Ka1 Qd4+ 46. Kb1 Qc4 47. Ka1 Qb4 48. Ka2 Qb6 49. Kxa3 Qb5 50. Ka2 Qb6 51. Ka1 Qb5 52. Ka2 Qb6 53. Ka1 Qb5 54. Ka2 1/2-1/2

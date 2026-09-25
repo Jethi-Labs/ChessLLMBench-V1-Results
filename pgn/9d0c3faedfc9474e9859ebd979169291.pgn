@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_3/board_04"]
+[Black "Mistral-Large-3/board_07"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_34"]
+[OpeningName "Colle System, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qk2r/pbpn1ppp/1p1bpn2/3p4/3P4/1P1BPN2/PBPN1PPP/R2QK2R w KQkq - 4 8"]
+
+8. a3 a6 9. c3 b5 10. g3 e5 11. dxe5 b4 12. exd6 bxc3 13. Bxc3 a5 14. dxc7 a4 15. bxa4 d4 16. e4 g6 17. cxd8=Q+ Rxd8 18. Bxd4 Ng4 19. h3 Ngf6 20. g4 h6 21. h4 h5 22. gxh5 gxh5 23. a5 Bc6 24. a4 Nc5 25. Bc2 Ncxe4 26. Nxe4 Nxe4 27. Bxh8 Rxd1+ 28. Bxd1 Kf8 29. a6 Nc5 30. a5 Nxa6 31. Ng1 Bxh1 32. f3 Kg8 33. f4 Kxh8 34. Nh3 Nc5 35. f5 Be4 36. a6 Nd3+ 37. Kd2 Bxf5 38. a7 Be4 39. a8=Q+ Bxa8 40. Ng1 Be4 41. Ne2 Ne5 42. Nc1 Bg6 43. Na2 Nc4+ 44. Ke2 Ne5 45. Nc1 Be4 46. Na2 Bd3+ 47. Ke1 Bg6 48. Nc1 Kg7 49. Na2 Nd3+ 50. Kf1 Ne5 51. Nc1 Kg8 52. Na2 Bd3+ 53. Be2 Bxe2+ 54. Kxe2 Ng6 55. Nc3 Nxh4 56. Nb1 Nf5 57. Nd2 Nd4+ 58. Kd1 h4 59. Nb1 h3 60. Ra2 Nf3 61. Nd2 Nd4 62. Nb1 Nf3 63. Nd2 Nd4 64. Nb1 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-luna/board_09"]
+[Black "DeepSeek-V4-Pro/board_08"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_07"]
+[OpeningName "Ruy Lopez, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1b1kbnr/1pp3pp/p4p2/2p5/4P3/1N6/PPP2PPP/RNBR2K1 b kq - 0 9"]
+
+9... Bd6 10. a4 Bg4 11. f3 Be6 12. g4 Bxb3 13. cxb3 Ne7 14. h4 Ng6 15. h5 Ne5 16. Nd2 Ra7 17. Rb1 O-O 18. Ra1 Rf7 19. Rb1 Re7 20. Ra1 Nxf3+ 21. Nxf3 Rxe4 22. g5 Rb4 23. Ra3 Rg4+ 24. Kf1 c4 25. Be3 Bxa3 26. Bxa7 Bxb2 27. Rd8+ Kf7 28. Rd7+ Ke6 29. Rxc7 Rf4 30. Kg2 cxb3 31. Rxb7 Rxa4 32. Rxb3 Be5 33. Nxe5 fxe5 34. Bg1 Rg4+ 35. Rg3 Rh4 36. Rh3 Rg4+ 37. Rg3 Rh4 38. Rh3 Rg4+ 39. Rg3 1/2-1/2

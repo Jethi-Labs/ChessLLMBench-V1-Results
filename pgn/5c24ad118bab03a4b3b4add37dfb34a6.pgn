@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-luna/board_05"]
+[Black "Mistral-Large-3/board_06"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_23"]
+[OpeningName "Symmetrical Tarrasch Defense"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 5 9"]
+
+9. dxc5 Nh5 10. Qxd5 Re8 11. Qxh5 Bg4 12. Qxg4 Qd1 13. Rxd1 Bf6 14. Qd7 Be5 15. Nxe5 h5 16. Qxf7+ Kh7 17. Qxh5+ Kg8 18. Bd5+ Kf8 19. Ng6# 1-0

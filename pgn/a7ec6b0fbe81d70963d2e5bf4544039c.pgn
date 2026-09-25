@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_3/board_02"]
+[Black "gpt-5_6-sol/board_04"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_46"]
+[OpeningName "Gruenfeld Defense, Qb3 Line"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1q1rk1/1b2ppbp/p4np1/1pP5/4P3/1QN2N2/PP2BPPP/R1B1K2R w KQ - 1 11"]
+
+11. Bxb5 axb5 12. a3 Ra5 13. a4 Nxe4 14. g3 Nxc5 15. Qxb5 Rxb5 16. axb5 Qd3 17. b3 Bxf3 18. h3 Bxc3+ 19. Bd2 g5 20. b4 Bxd2# 0-1

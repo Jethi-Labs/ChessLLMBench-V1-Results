@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-sol/board_04"]
+[Black "DeepSeek-V4-Pro/board_10"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. Nc3 Nf6 2. e3 d6 3. Nf3 Be6 4. Ng5 Bf5 5. Bc4 Bg6 6. O-O Nc6 7. Nd5 Nxd5 8. Bxd5 Na5 9. Nxf7 Bxf7 10. Bxf7+ Kxf7 11. Qh5+ Kf6 12. Qxa5 Kg6 13. Qd5 Qc8 14. c4 Kh6 15. d4 Qg4 16. Qxb7 Rc8 17. Qxa7 Qg5 18. e4 Qxc1 19. Raxc1 Kh5 20. Qb7 Re8 21. Qb5+ Kg4 22. Qf5+ Kh4 23. g3# 1-0

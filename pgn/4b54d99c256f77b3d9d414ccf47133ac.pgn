@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_08"]
+[Black "grok-4_6/board_03"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_17"]
+[OpeningName "Vienna Game, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk1nr/ppp2pbp/2np2p1/4p3/4P3/2NP2P1/PPP2PBP/R1BQK1NR w KQkq - 0 6"]
+
+6. Nf3 Bg4 7. Be3 Nf6 8. O-O Qe7 9. Qd2 Kd7 10. Kh1 Bxf3 11. Bxf3 Nd4 12. Bxd4 exd4 13. Ne2 Qe5 14. Nf4 Bh6 15. Rab1 Kc6 16. Rbc1 Bg5 17. Rb1 Kb5 18. Rbc1 Ka6 19. Rb1 Nh5 20. Bxh5 gxh5 21. Qb4 Bxf4 22. Qa4+ Qa5 23. Qxa5+ Kxa5 24. gxf4 Rhe8 25. Rg1 Rg8 26. Rxg8 Rxg8 27. e5 dxe5 28. fxe5 Rg5 29. Re1 Rf5 30. Re2 Rf4 31. Rd2 Rh4 32. Rd1 Rg4 33. Re1 Rf4 34. Re2 Ka4 35. Rd2 Rf5 36. Re2 Kb5 37. Kg1 Rg5+ 38. Kf1 Rg8 39. e6 f6 40. e7 Re8 41. Re4 Kc5 42. Rf4 Kb5 43. Rxf6 Rxe7 44. Rf5+ Kb4 45. Rd5 Re8 46. Rxd4+ Kc5 47. Rd7 Rh8 48. Rxc7+ Kb6 49. Rc3 Rb8 50. Rb3+ Kc5 51. Kg1 Kc6 52. Ra3 Rf8 53. Rxa7 Rf4 54. Ra3 Rf7 55. Ra5 h4 56. Rh5 Re7 57. Rxh4 Kc7 58. Rb4 Re8 59. Rc4+ Kb8 60. Rc3 Re6 61. Kh1 Ra6 62. Ra3 Rb6 63. Rb3 Ra6 64. Ra3 b6 65. Rxa6 Kb7 66. Ra4 h6 67. Rh4 Ka6 68. Rh3 h5 69. Rxh5 Ka7 70. Rh4 Ka8 71. Ra4+ Kb8 72. Ra3 Kb7 73. Rb3 Kc6 74. Rb4 Kc5 75. Rb3 Kc6 76. Rb4 b5 77. Rb3 Kc5 78. c3 Kc6 79. d4 Kd5 80. Rb4 Ke4 81. Rb3 Kd5 82. Rb4 Ke4 83. Rb3 b4 84. Rxb4 Kd3 85. Rb3 Kc2 86. Rb4 Kd3 87. Rb3 Kc2 88. Rb4 Kb1 89. a3 Kc2 90. Rb5 Kc1 91. Rb3 Kc2 92. Rb4 Kd1 93. Rb3 Kc2 94. Rb4 Kb1 95. Rb3 Kc2 1/2-1/2

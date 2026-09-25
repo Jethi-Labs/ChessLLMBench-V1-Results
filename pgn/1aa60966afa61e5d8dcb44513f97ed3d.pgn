@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_01"]
+[Black "gpt-6-luna/board_07"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "FIFTY_MOVE"]
+[OpeningId "opening_29"]
+[OpeningName "Nimzo-Indian Defense, 4.e3"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp3ppp/2n1pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQ1RK1 w - - 2 8"]
+
+8. cxd5 Nxd5 9. Nxd5 Qxd5 10. e4 Qd6 11. e5 Qe7 12. Bg5 f6 13. exf6 gxf6 14. Be3 a5 15. Bh6 Rd8 16. a3 cxd4 17. axb4 Nxb4 18. Be4 e5 19. Kh1 Be6 20. Bd2 Bc4 21. Rg1 d3 22. Qa4 Ra6 23. Rae1 b5 24. Bxb4 Qa7 25. Qd1 axb4 26. Re2 Ra1 27. Qxa1 Qxa1 28. Rxa1 dxe2 29. Ra8 Rxa8 30. Bxa8 f5 31. Ne1 Kf7 32. Bc6 e4 33. Bd7 f4 34. Bf5 e3 35. fxe3 fxe3 36. Bxh7 Kg7 37. Bb1 Kh6 38. Be4 b3 39. Nf3 Be6 40. Bc6 Bg4 41. Ne1 b4 42. Bd5 Bd7 43. Bxb3 Bb5 44. Bd5 Kg5 45. Be4 Bc4 46. Nf3+ Kf4 47. Bc6 b3 48. Bb7 Kf5 49. Ba8 Kg4 50. Be4 Kf4 51. Bc6 Ba6 52. Bd5 Bd3 53. Bxb3 Be4 54. Ne1 Bf5 55. Bc4 Bd7 56. Nf3 e1=Q+ 57. Nxe1 Ke5 58. Nc2 Ke4 59. Nb4 Bg4 60. Bb5 e2 61. Nc2 Kd5 62. Kg1 Bf5 63. Ne1 Bg4 64. Kf2 Kc5 65. Bxe2 Bxe2 66. Kxe2 Kc4 67. Kd2 Kd5 68. Nf3 Ke4 69. Ke2 Kf5 70. Kd3 Kf4 71. Kd4 Kg4 72. Ke5 Kh5 73. Kd6 Kg6 74. Kc7 Kf5 75. Nd2 Kf4 76. Nc4 Ke4 77. Kb7 Kd5 78. Nb6+ Kc5 79. Nd7+ Kc4 80. Ne5+ Kb3 81. Kb8 Kxb2 82. Nf3 Kc3 83. Ng5 Kd4 84. Nh3 Ke4 85. Nf2+ Kf4 86. Nd1 Kg4 87. Nc3 Kf5 88. Kb7 Kf4 89. Nd5+ Kg5 90. Kb8 Kf5 91. Ne3+ Kf4 92. Nc4 Ke4 93. Ka7 Kf5 94. Kb7 Ke4 95. Ka8 Kd4 96. Nb2 Kc3 97. h4 Kd4 98. h5 Ke5 99. g4 Kf6 100. Nd3 Kg5 101. Nf4 Kxf4 102. h6 Kxg4 103. h7 Kf4 104. h8=Q Ke4 105. Qc3 Kd5 106. Kb7 Kd6 107. Kb8 Kd7 108. Qf6 Ke8 109. Qg7 Kd8 110. Kb7 Ke8 111. Qa1 Kf7 112. Qh8 Ke6 113. Kb8 Kf5 114. Qh4 Ke5 115. Qg4 Kd6 116. Qf5 Kc6 117. Ka7 Kd6 118. Kb7 Ke7 119. Qb1 Kf6 120. Kb8 Ke5 121. Qb4 Kf5 122. Qd4 Ke6 123. Qc5 Kd7 124. Qd5+ Ke7 125. Qf5 Kd6 126. Ka7 Ke7 127. Kb7 Kd8 128. Kc6 Ke7 129. Qb1 Ke6 130. Qe4+ Kf6 131. Kb7 Kg5 132. Kb8 Kf6 133. Qd3 Ke6 134. Qb3+ Kd6 135. Qb5 Ke6 136. Qg5 Kd6 137. Ka7 Ke6 138. Qf4 Kd5 139. Kb6 Ke6 140. Qc1 Kf5 141. Ka7 Ke4 142. Qc3 Kf5 143. Qg3 Ke4 144. Kb8 Kd4 145. Qb3 Ke4 146. Qh3 Kf4 147. Qa3 Kf5 148. Qg3 Ke4 149. Kb7 Kd5 150. Ka8 Kc6 151. Qb3 Kd7 152. Kb7 Kd6 153. Kb8 Ke5 154. Ka7 1/2-1/2

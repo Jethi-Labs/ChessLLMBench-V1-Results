@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_08"]
+[Black "grok-4_3/board_01"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_30"]
+[OpeningName "Gruenfeld Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/pp2ppbp/6p1/2p5/3PP3/2P2N2/P3BPPP/1RBQK2R b K - 3 9"]
+
+9... cxd4 10. Qxd4 Bxd4 11. cxd4 g5 12. Bxg5 a6 13. Bc4 a5 14. a3 a4 15. g3 b6 16. h3 b5 17. Ba2 h6 18. h4 hxg5 19. hxg5 Bg4 20. Nd2 Qxd4 21. Rh8+ Kxh8 22. Nf1 Qxe4+ 23. Ne3 Qh1+ 24. Kd2 Bd1 25. Bd5 Rd8 26. g6 fxg6 27. Rb4 Bh5 28. Rd4 Rxd5 29. Rxd5 g5 30. Rd8+ Kg7 31. Nf5+ Kf6 32. Rd6+ exd6 33. Ne3 g4 34. Nc2 Bg6 35. Ne3 Bh5 36. Nc2 Bg6 37. Ne3 Bh5 1/2-1/2

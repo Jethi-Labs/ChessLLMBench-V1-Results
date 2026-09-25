@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_04"]
+[Black "gpt-5_6-terra/board_05"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_38"]
+[OpeningName "English Opening, Reversed Sicilian"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp1bppp/1nn5/4p3/8/2N2NP1/PP1PPPBP/R1BQ1RK1 w kq - 4 8"]
+
+8. Qb3 a5 9. Qb5 f6 10. Ne4 Qd5 11. Nxf6+ gxf6 12. Qxd5 Nxd5 13. Nxe5 Nd4 14. Bxd5 Nxe2+ 15. Kh1 fxe5 16. Be4 Nxc1 17. Raxc1 Bd6 18. Bd5 Rf8 19. Rc2 h5 20. Bg2 a4 21. Bd5 Ra5 22. Bg2 Bf5 23. Rcc1 Bd3 24. Rfd1 Rb5 25. Rc3 Be2 26. Re1 Rxb2 27. Rxe2 Rb1+ 28. Bf1 Rxf1+ 29. Kg2 Rd1 30. Kh3 b5 31. Rc6 Rf3 32. Kg2 Ra3 33. Kh3 Rxa2 34. Re3 Rdxd2 35. Re1 Rxf2 36. Rh1 Ke7 37. Kh4 Rxh2+ 38. Rxh2 Rxh2+ 39. Kg5 Kd7 40. Rc1 c5 41. Rb1 b4 42. Rf1 a3 43. Rf7+ Be7+ 44. Kg6 a2 45. Rf1 e4 46. Ra1 c4 47. Kf5 e3 48. Rd1+ Bd6 49. Kg6 e2 50. Rg1 b3 51. Kh7 b2 52. Kg8 b1=Q 53. Rxb1 axb1=Q 54. Kf7 Qh7+ 55. Kf6 e1=Q 56. g4 Be7# 0-1

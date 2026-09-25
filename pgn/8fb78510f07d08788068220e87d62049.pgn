@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_06"]
+[Black "gpt-5_6-luna/board_09"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. a3 a5 2. b3 d5 3. c3 b5 4. d3 f5 5. e3 h5 6. f3 g5 7. g3 c5 8. h3 e5 9. a4 b4 10. c4 d4 11. e4 f4 12. g4 h4 13. Nd2 Bd6 14. Ne2 Kf7 15. Nb1 Kg6 16. Nd2 Na6 17. Nb1 Nc7 18. Nd2 Na6 19. Nb1 Nc7 20. Nd2 Na6 1/2-1/2

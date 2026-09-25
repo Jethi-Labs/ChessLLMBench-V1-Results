@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_05"]
+[Black "DeepSeek-V4-Pro/board_05"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "TIMEOUT"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. a3 a6 2. b3 b6 3. c3 a5 4. d3 a4 5. e3 axb3 6. f3 e6 7. g3 b2 8. h3 bxa1=Q 9. a4 Nc6 10. c4 Nf6 11. d4 Qxb1 12. e4 b5 13. f4 b4 14. g4 b3 0-1

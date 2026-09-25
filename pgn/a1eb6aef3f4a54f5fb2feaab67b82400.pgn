@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_08"]
+[Black "gpt-6-astra/board_09"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "FIFTY_MOVE"]
+[OpeningId "opening_14"]
+[OpeningName "Sicilian Defense, Moscow Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r3kb1r/pp1q1ppp/2n1pn2/3p4/3PP3/5N2/PP3PPP/RNBQR1K1 w kq - 0 10"]
+
+10. e5 Ne4 11. Nbd2 Nxd2 12. Bxd2 Be7 13. a3 a5 14. Rc1 O-O 15. g4 Rfc8 16. a4 Nb4 17. b3 Rxc1 18. Bxc1 Rc8 19. h4 b5 20. axb5 Qxb5 21. Bd2 Nc2 22. Rf1 f6 23. Qb1 fxe5 24. dxe5 Qd3 25. Qd1 Qxb3 26. Bxa5 Qa4 27. Ne1 Bxh4 28. f4 Qe4 29. Qd3 Qe3+ 30. Qxe3 Nxe3 31. Rf3 Nxg4 32. Nd3 Be7 33. Rh3 g6 34. Bd2 h5 35. Be3 Nxe3 36. Rxe3 h4 37. Re1 Rc2 38. Rc1 Rxc1+ 39. Nxc1 g5 40. fxg5 Kf7 41. Ne2 Bxg5 42. Kg2 Kg6 43. Nd4 Bf4 44. Nxe6 Bxe5 45. Nc5 Kf5 46. Nd3 d4 47. Kh3 Bg3 48. Nc1 Ke4 49. Kg4 d3 50. Nb3 Ke3 51. Na5 d2 52. Nc4+ Kd3 53. Nxd2 Kxd2 54. Kh3 Ke3 55. Kg4 Ke4 56. Kh3 Kf5 57. Kg2 Kg4 58. Kg1 h3 59. Kh1 Kf4 60. Kg1 Ke5 61. Kh1 Kf5 62. Kg1 Be5 63. Kh1 Ke4 64. Kg1 Bg3 65. Kh1 Bf4 66. Kg1 Be5 67. Kh1 h2 68. Kg2 Kd5 69. Kh1 Kd4 70. Kg2 Ke4 71. Kh1 Kd5 72. Kg2 Kd4 73. Kh1 Bc7 74. Kg2 Kd5 75. Kh1 Kc4 76. Kg2 Bd6 77. Kh1 Kb3 78. Kg2 Bf4 79. Kh1 Kc2 80. Kg2 Kc3 81. Kh1 Kd4 82. Kg2 Kd3 83. Kh1 Ke3 84. Kg2 Ke2 85. Kh1 Kd3 86. Kg2 Be5 87. Kh1 Kc4 88. Kg2 Kc5 89. Kh1 Kc6 90. Kg2 Bd6 91. Kh1 Kd5 92. Kg2 Ke4 93. Kh1 Ke3 94. Kg2 Bf4 95. Kh1 Be5 96. Kg2 Bd6 97. Kh1 Kd4 98. Kg2 Kd5 99. Kh1 Kc4 100. Kg2 Be5 101. Kh1 Kc5 102. Kg2 Kb4 103. Kh1 Ka5 104. Kg2 Kb5 105. Kh1 Bf4 106. Kg2 Kc5 107. Kh1 Kd5 108. Kg2 Ke5 109. Kh1 Kf5 110. Kg2 Ke6 111. Kh1 Ke7 112. Kg2 Be5 113. Kh1 Kd6 114. Kg2 Kd7 115. Kh1 Bf4 116. Kg2 Kc6 117. Kh1 Kd7 1/2-1/2

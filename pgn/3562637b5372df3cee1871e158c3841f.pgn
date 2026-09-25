@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_06"]
+[Black "gpt-5_6-sol/board_06"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_01"]
+[OpeningName "Four Knights Game, Symmetrical Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp2ppp/2np1n2/1B2p3/1b2P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 0 7"]
+
+7. Bxc6 bxc6 8. Bd2 Be6 9. Kh1 h5 10. Ng5 Bg4 11. Nf3 a5 12. Qe2 Bc5 13. Bg5 Rb8 14. Rab1 g6 15. Be3 Nd7 16. Bh6 Re8 17. Bd2 Be6 18. Be3 f5 19. Ng5 f4 20. Nxe6 Rxe6 21. Bd2 h4 22. Nd1 a4 23. Nc3 Rb4 24. Qf3 g5 25. Rfe1 Qf8 26. Re2 Rh6 27. Qg4 Qd8 28. Qh3 Nf6 29. Qf5 Nd7 30. Qg4 Rg6 31. Qh5 Qe8 32. Bc1 Nf6 33. Qxg6+ Qxg6 34. Bd2 Qh5 35. Kg1 Bd4 36. Ree1 Ng4 37. Nd1 Rb6 38. Bc3 c5 39. Bxd4 exd4 40. f3 Ne3 41. Nxe3 dxe3 42. Re2 g4 43. fxg4 Qxg4 44. Kf1 f3 45. gxf3 Qxf3+ 46. Kg1 Qxe2 47. Kh1 Qf3+ 48. Kg1 h3 49. Rf1 Qg2# 0-1

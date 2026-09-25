@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_04"]
+[Black "DeepSeek-V4-Flash/board_07"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_06"]
+[OpeningName "Caro-Kann Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1q1kb1r/pp2pppp/2n2n2/3p4/3P1Bb1/1QPB4/PP3PPP/RN2K1NR w KQkq - 5 8"]
+
+8. h3 Bd7 9. a4 Rg8 10. Nf3 Nb8 11. g4 Nc6 12. g5 Nxd4 13. Nxd4 Bxh3 14. gxf6 exf6 15. Bxh7 Qxc3+ 16. Nxc3 Bc8 17. Bxg8 Be6 18. Qxb7 Kd8 19. Qxa8+ Bc8 20. Nxd5 f5 21. Bc7+ Kd7 22. Qc6# 1-0

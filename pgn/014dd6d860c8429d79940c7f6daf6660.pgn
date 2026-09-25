@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_08"]
+[Black "gpt-5_6-terra/board_02"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_15"]
+[OpeningName "Alekhine Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp1bppp/1n1p4/8/2PP4/2NB4/PP3PPP/R1BQK1NR w KQ - 4 8"]
+
+8. Qh5 g6 9. Qe2 c5 10. dxc5 dxc5 11. Bh6 Re8 12. O-O-O Bg5+ 13. Bxg5 Qxg5+ 14. f4 Qxf4+ 15. Qd2 Qxd2+ 16. Rxd2 Re1+ 17. Kc2 Nc6 18. Rf2 f5 19. Kd2 Nb4 20. Re2 Ra1 21. Re8+ Kf7 22. Re5 Nd7 23. Re2 Nxa2 24. Nb5 Nb4 25. Nd6+ Kf6 26. Ne8+ Kf7 27. Nd6+ Kf6 28. Ne8+ Kf7 29. Nd6+ 1/2-1/2

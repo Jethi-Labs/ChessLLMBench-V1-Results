@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_10"]
+[Black "DeepSeek-V4-Flash/board_09"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. a3 b6 2. d4 e6 3. Bh6 gxh6 4. Nd2 Qh4 5. c4 Qxd4 6. g3 Bb7 7. Ndf3 Qxb2 8. Rb1 Qxa3 9. g4 Bb4+ 10. Qd2 Bxd2+ 11. Kxd2 Qa2+ 12. Kc1 Be4 13. Ng5 Qc2# 0-1

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_05"]
+[Black "grok-4_6/board_06"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_04"]
+[OpeningName "Petroff Defense, 3.d4 Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qk2r/pppb1ppp/3b4/3p4/3Pn3/3B4/PPP2PPP/RNBQ1RK1 w kq - 2 8"]
+
+8. a3 Qh4 9. b3 Qxh2# 0-1

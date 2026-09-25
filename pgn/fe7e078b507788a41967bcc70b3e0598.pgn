@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-sol/board_08"]
+[Black "gpt-5_6-terra/board_06"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_49"]
+[OpeningName "Queen's Gambit Accepted, Queenless Ending"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnb1k2r/1p3ppp/p3pn2/2b5/2B5/4PN2/PP3PPP/RNBR2K1 w kq - 0 9"]
+
+9. a4 O-O 10. Nc3 Nc6 11. h4 e5 12. Nd5 Be6 13. Nxf6+ gxf6 14. Bxe6 fxe6 15. Bd2 e4 16. Rac1 b6 17. Ne1 h5 18. a5 Rfc8 19. b4 Be7 20. axb6 Rab8 21. Rc4 f5 22. f3 Rxb6 23. fxe4 Bxb4 24. exf5 Bxd2 25. Rxd2 Rb1 26. Kf2 exf5 27. Rdc2 Rb6 28. Nf3 Rc7 29. Ne5 Nxe5 30. Rxc7 Ng4+ 31. Kf3 Rb3 32. Re7 Kf8 33. Rcc7 a5 34. g3 a4 35. Kf4 Rb5 36. Kg5 a3 37. Rh7 Kg8 38. Rcg7+ Kf8 39. Ra7 Kg8 40. Rhc7 f4+ 41. Kxf4 Rb8 42. Rxa3 Rf8+ 43. Kg5 Re8 44. Kg6 Kf8 45. Raa7 Nxe3 46. Rg7 Re6+ 47. Kh7 Rh6+ 48. Kxh6 Nf5+ 49. Kg6 Nxg7 50. Rxg7 Ke8 51. Kxh5 Kd8 52. Kg5 Kc8 53. h5 Kb8 54. h6 Ka8 55. h7 Kb8 56. h8=Q# 1-0

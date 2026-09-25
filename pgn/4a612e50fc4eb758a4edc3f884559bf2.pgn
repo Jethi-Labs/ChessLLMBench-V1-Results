@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_3/board_07"]
+[Black "Mistral-Large-3/board_01"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. a3 a6 2. b3 a5 3. c3 a4 4. bxa4 b6 5. d3 b5 6. axb5 c5 7. e3 Ra6 8. bxa6 d5 9. a7 Bf5 10. a8=Q h5 11. Qb3 g6 12. Qbxb8 e6 13. Qxd8# 1-0

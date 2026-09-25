@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_06"]
+[Black "gpt-5_6-luna/board_09"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_18"]
+[OpeningName "Center Game, Simplified"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqr1k1/pppp1ppp/2n2n2/8/1b2P3/2N1Q3/PPPB1PPP/2KR1BNR w - - 9 8"]
+
+8. Be2 Bxc3 9. h3 Bd4 10. h4 Bxe3 11. Bc4 Bxf2 12. Bb4 Nxb4 13. g3 Be3+ 14. Rd2 Bxd2+ 15. Kd1 Nxe4 16. Bb5 Nf2+ 17. Kxd2 Nxh1 18. Bf1 Qf6 19. Ba6 Nxa6 20. h5 Qd4+ 21. Kc1 Re1# 0-1

@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_02"]
+[Black "grok-4_6/board_02"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. a4 Nf6 2. Nc3 Na6 3. Nf3 Nc5 4. d4 Nce4 5. Nd2 Nxc3 6. bxc3 Rg8 7. e4 d6 8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. h4 Qc6 11. c4 Qb6 12. c3 O-O-O 13. a5 Qc6 14. d5 Qa6 15. f4 Rd7 16. g4 Rh8 17. g5 Ne8 18. Ra4 Kd8 19. h5 Kc8 20. e5 Kb8 21. Qg4 Rd8 22. Qf5 dxe5 23. fxe5 b5 24. cxb5 e6 25. bxa6 exf5 26. c4 Be7 27. O-O Bxg5 28. Rxf5 Be3+ 29. Kh1 Rd7 30. Rf3 Bg5 31. Rb4+ Ka8 32. Rfb3 Rd8 33. Rb7 Rg8 34. Rf3 f6 35. exf6 Bxf6 36. Ne4 Bd4 37. Be3 Bxe3 38. Rxe3 Rd7 39. Rg3 Re7 40. Rg4 Rxe4 41. Rxe4 Nd6 42. Re7 Nxb7 43. axb7+ Kxb7 44. d6 Rc8 45. Rxg7 Kc6 46. dxc7 Rxc7 47. h6 Rb7 48. a6 Rc7 49. Kg2 Kb6 50. Rxc7 Kxc7 51. Kf3 Kb6 52. Ke4 Kxa6 53. Kd5 Kb6 54. Kd6 Kb7 55. Kd7 Kb6 56. Kd6 Kb7 57. Kd7 Kb6 58. Kd6 1/2-1/2

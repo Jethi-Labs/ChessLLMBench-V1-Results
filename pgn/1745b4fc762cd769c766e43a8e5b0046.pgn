@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_03"]
+[Black "DeepSeek-V4-Flash/board_07"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "STALEMATE"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. Nf3 f5 2. Nd4 f4 3. d3 e5 4. Nf3 Nc6 5. Qd2 Bc5 6. Nc3 Nge7 7. e3 fxe3 8. fxe3 Kf8 9. Ne4 Rg8 10. Nxc5 Nf5 11. Ne4 Rh8 12. Qf2 Qe7 13. Nd4 Qe8 14. Qxf5+ Qf7 15. Qxf7+ Kxf7 16. Nxc6 bxc6 17. Be2 d6 18. Bh5+ Ke7 19. O-O Rd8 20. Rf7+ Ke6 21. Rxc7 Bd7 22. Bg4+ Ke7 23. Kh1 c5 24. Rb1 Rac8 25. Rb7 d5 26. Nc3 h5 27. Nxd5+ Kd6 28. Bf3 Bc6 29. Rxa7 Bxd5 30. Bxd5 Kxd5 31. Rxg7 h4 32. Re7 Ra8 33. Ra1 Kd6 34. Rh7 Rh8 35. Rg7 Raf8 36. Bd2 Ke6 37. Rc7 Rc8 38. Rxc8 Rxc8 39. Re1 Rf8 40. Kg1 Rc8 41. Re2 Rf8 42. d4 Rb8 43. Bc3 exd4 44. exd4+ Kd6 45. Re4 Kc6 46. Rxh4 cxd4 47. Rh6+ Kb5 48. Rh5+ Kc4 49. Rh4 Rb5 50. Rxd4+ Kc5 51. Kh1 Rb6 52. Rd7 Ra6 53. a3 Ra4 54. Rc7+ Kb5 55. Rb7+ Kc4 56. Bg7 Ra5 57. Rb4+ Kc5 58. Bd4+ Kd5 59. Be3 Ke5 60. Rh4 Rd5 61. Rh5+ Ke4 62. Rxd5 Kxd5 63. Kg1 Kc4 64. Kf2 Kd5 65. Kg3 Kc4 66. Kh4 Kb5 67. Kg5 Kc4 68. Kg6 Kd5 69. Kh7 Ke6 70. Kg8 Kd7 71. a4 Kc6 72. Ba7 Kd5 73. Bf2 Ke6 74. a5 Ke5 75. a6 Kf4 76. Kg7 Kg4 77. a7 Kf4 78. a8=Q Kg4 79. Qf3+ Kg5 80. b3 1/2-1/2

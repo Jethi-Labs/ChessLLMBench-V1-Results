@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_03"]
+[Black "Mistral-Large-3/board_04"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_37"]
+[OpeningName "Symmetrical English, Hedgehog Structure"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1qk2r/pb2bppp/1p1ppn2/8/2PQ4/2N2NP1/PP2PPBP/R1B2RK1 w kq - 0 9"]
+
+9. Bg5 Bxf3 10. Bxf3 Nc6 11. Bxc6+ Kf8 12. Bxa8 Qxa8 13. Nb5 Qf3 14. exf3 d5 15. Nxa7 dxc4 16. Qxb6 e5 17. Bxf6 Bxf6 18. Qb8+ Ke7 19. Qxh8 c3 20. bxc3 e4 21. Qxh7 exf3 22. Qd3 Bxc3 23. Nc6+ Kf8 24. Qd8# 1-0

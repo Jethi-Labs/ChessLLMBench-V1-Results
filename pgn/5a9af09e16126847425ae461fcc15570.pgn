@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-luna/board_03"]
+[Black "gpt-5_6-terra/board_09"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_34"]
+[OpeningName "Colle System, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qk2r/pbpn1ppp/1p1bpn2/3p4/3P4/1P1BPN2/PBPN1PPP/R2QK2R w KQkq - 4 8"]
+
+8. a4 a5 9. c4 c5 10. h4 h5 11. O-O g6 12. g3 Bc6 13. Ne5 Nxe5 14. dxe5 Be7 15. exf6 Bxf6 16. Bxf6 Qxf6 17. cxd5 exd5 18. f4 Qe6 19. Re1 f5 20. Qe2 Qd6 21. Reb1 Rh6 22. Rf1 Kd7 23. Ba6 c4 24. Bb5 Bxb5 25. axb5 c3 26. Nf3 Rc8 27. Rfc1 Qb4 28. Nd4 Rc7 29. Qf3 Qd6 30. Nc6 Rxc6 31. bxc6+ Qxc6 32. Rd1 Ke6 33. Rd4 Qc5 34. Raa4 c2 35. Ra1 c1=Q+ 36. Rxc1 Qxc1+ 37. Rd1 Qc5 38. Ra1 d4 39. e4 Kf7 40. e5 d3+ 41. Kh1 d2 42. Qd3 Qc1+ 43. Qf1 Qc2 44. Qc4+ Qxc4 45. bxc4 Rh8 46. Rb1 Rc8 47. Rd1 Rd8 48. Kg1 a4 49. Kf1 a3 50. Ke2 a2 51. Ra1 d1=Q+ 52. Rxd1 Rxd1 53. Kxd1 a1=Q+ 54. Kc2 Qa2+ 55. Kc3 Qa3+ 56. Kd4 Qxg3 57. Kd5 Qd3+ 58. Kc6 Qxc4+ 59. Kxb6 Qxf4 60. Kb5 Qxe5+ 61. Ka4 Qg3 62. Kb4 f4 63. Kc4 f3 64. Kd3 f2+ 65. Ke2 Qf4 66. Kd1 f1=Q+ 67. Kc2 Q1c1+ 68. Kb3 Qfc4# 0-1

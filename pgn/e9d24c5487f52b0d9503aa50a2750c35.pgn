@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_08"]
+[Black "gpt-5_6-luna/board_06"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_22"]
+[OpeningName "Slav Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp2pppp/2n2n2/3p1b2/3P1B2/2N2N2/PP2PPPP/R2QKB1R w KQkq - 6 7"]
+
+7. Qb3 Ne4 8. a3 g5 9. e3 gxf4 10. g3 Nxc3 11. Ng1 Ne4 12. Bg2 Qa5+ 13. Qc3 Nxc3 14. bxc3 Qxc3+ 15. Ke2 Bd3+ 16. Kf3 Qxa1 17. Nh3 Qxa3 18. Rg1 fxe3 19. fxe3 e5 20. dxe5 Nxe5+ 21. Kf4 Qd6 22. e4 d4 23. Kf5 a5 24. Ng5 f6 25. Bh1 fxg5 26. Bg2 Be7 27. h3 Rf8# 0-1

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_10"]
+[Black "Mistral-Large-3/board_06"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_23"]
+[OpeningName "Symmetrical Tarrasch Defense"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 5 9"]
+
+9. Bg5 Bd6 10. Nxd5 a5 11. dxc5 Na7 12. cxd6 Ne4 13. Bxd8 g5 14. Ne7+ Kg7 15. Qd4+ Nf6 16. Bxa5 Bh3 17. Bxh3 g4 18. d7 Rfb8 19. Nf5+ Kh8 20. Qxf6+ Kg8 21. Ne7+ Kf8 22. Bxg4 Re8 23. Ng6+ hxg6 24. Qh8+ Ke7 25. Qe5+ Kf8 26. Qh8+ Ke7 27. Qe5+ Kf8 28. Qh8+ 1/2-1/2

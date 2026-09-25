@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-sol/board_04"]
+[Black "gpt-6-luna/board_08"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_09"]
+[OpeningName "Scotch Game, Mieses Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r3kb1r/p1ppqp1p/b1p3p1/3nP3/2P5/1P6/P3QPPP/RNB1KB1R w KQkq - 0 10"]
+
+10. Qb2 Nb6 11. Nd2 d6 12. f4 O-O-O 13. c5 Bxf1 14. cxb6 Bxg2 15. bxa7 Qh4+ 16. Kd1 c5 17. Rf1 Qxh2 18. a3 Bd5 19. e6 Be7 20. exf7 Qh5+ 21. Ke1 Bh4+ 22. Rf2 Rhe8+ 23. fxe8=R Rxe8+ 24. Ne4 Rxe4+ 25. Kd2 Bxf2 26. Qh8+ Kd7 27. Kc2 Re2+ 28. Bd2 Be4+ 29. Kc1 Qh1+ 30. Be1 Qxe1# 0-1

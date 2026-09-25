@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_03"]
+[Black "grok-4_3/board_10"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_11"]
+[OpeningName "Philidor Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp1bppp/3p1n2/8/3NP3/2N5/PPP1BPPP/R1BQ1RK1 b - - 6 7"]
+
+7... d5 8. exd5 a6 9. Bf3 a5 10. Re1 a4 11. Qd3 a3 12. bxa3 b6 13. d6 b5 14. dxe7 b4 15. exd8=Q b3 16. Qxc7 b2 17. Bxb2 g6 18. Bxa8 g5 19. Qxb8 g4 20. Qe5 g3 21. Qg5+ Kh8 22. Qxf6+ Kg8 23. Qxg3+ Bg4 24. Qxg4# 1-0

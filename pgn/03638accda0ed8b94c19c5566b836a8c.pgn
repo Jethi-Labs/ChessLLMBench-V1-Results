@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_3/board_10"]
+[Black "Mistral-Large-3/board_10"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_28"]
+[OpeningName "Nimzo-Indian Defense, Classical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1q1rk1/pbpp1ppp/1p2pn2/6B1/2PP4/P1Q5/1P2PPPP/R3KBNR w KQ - 2 8"]
+
+8. Bxf6 d5 9. Bxd8 b5 10. cxb5 a6 11. bxa6 Rxa6 12. Bxc7 Rd6 13. Bxd6 h6 14. Bxf8 f5 15. Bxg7 h5 16. b3 Na6 17. e3 e5 18. Bxa6 Kh7 19. Bxb7 h4 20. dxe5 f4 21. exf4 Kg8 22. Bxd5+ Kh7 23. f3 Kg6 24. g3 hxg3 25. hxg3 Kxg7 26. a4 Kf8 27. b4 Kg7 28. g4 Kf8 29. a5 Kg7 30. b5 Kf8 31. f5 Kg7 32. f4 Kf8 33. g5 Kg7 34. a6 Kf8 35. b6 Kg7 36. e6+ Kg8 37. f6 Kf8 38. f5 Kg8 39. g6 Kf8 40. a7 Kg8 41. a8=Q# 1-0

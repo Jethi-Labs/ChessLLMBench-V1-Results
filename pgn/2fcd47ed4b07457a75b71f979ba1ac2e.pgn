@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_06"]
+[Black "gpt-5_6-sol/board_01"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_37"]
+[OpeningName "Symmetrical English, Hedgehog Structure"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1qk2r/pb2bppp/1p1ppn2/8/2PQ4/2N2NP1/PP2PPBP/R1B2RK1 w kq - 0 9"]
+
+9. a4 O-O 10. e4 Nbd7 11. h4 a5 12. b3 e5 13. Qe3 h5 14. Nd2 Nc5 15. f4 Ng4 16. Qe2 g6 17. Nd5 f5 18. Nxe7+ Qxe7 19. exf5 Bxg2 20. Qxg2 Ne3 21. Qc6 Nxf1 22. Nxf1 Nxb3 23. Rb1 Nxc1 24. Rxc1 gxf5 25. Qxb6 exf4 26. Qd4 fxg3 27. Nxg3 Qe6 28. Qd5 Qxd5 29. cxd5 f4 30. Ne4 Rf5 31. Rc6 Rd8 32. Kf2 Kf8 33. Ng5 Ke7 34. Ne6 Rb8 35. Rc7+ Kf6 36. Ra7 f3 37. Rxa5 Rb2+ 38. Kf1 f2 39. Rb5 Ra2 40. Rb1 Rxa4 41. Nc7 Ke5 42. Rd1 Rxh4 43. Kg2 f1=Q+ 44. Rxf1 Rg4+ 45. Kh2 Rxf1 46. Nb5 Ke4 47. Nxd6+ Kf3 48. Nf5 Rg2+ 49. Kh3 Rh1# 0-1

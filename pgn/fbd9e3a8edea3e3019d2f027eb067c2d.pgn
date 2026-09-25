@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_07"]
+[Black "DeepSeek-V4-Flash/board_03"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_01"]
+[OpeningName "Four Knights Game, Symmetrical Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp2ppp/2np1n2/1B2p3/1b2P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 0 7"]
+
+7. a3 a5 8. b3 b6 9. g3 g6 10. h3 d5 11. a4 h6 12. d4 exd4 13. g4 dxc3 14. h4 Ne5 15. g5 dxe4 16. gxf6 g5 17. Ne1 c5 18. f3 g4 19. h5 Be6 20. fxg4 c4 21. g5 hxg5 22. Ng2 Qd2 23. bxc4 Qxd1 24. Ne3 Nd3 25. Nxd1 g4 26. cxd3 e3 27. Nxe3 Kh8 28. Nd5 g3 29. Be3 Bh3 30. Bh6 Bxf1 31. Bxf8 Be2 32. Nf4 Bf3 33. Bxb4 g2 34. Bxc3 Rd8 35. d4 Rd5 36. Nxd5 Bxh5 37. Kxg2 Kh7 38. Nxb6 Kg6 39. Nd5 Kf5 40. Bxa5 Kg4 41. Bc3 Kh4 42. Rh1+ Kg5 43. Rh2 Be2 44. Kg3 Bg4 45. Bc6 Be2 46. Rxe2 Kh5 47. Rh2+ Kg6 48. Be8 Kg5 49. Bxf7 Kf5 50. Kh4 Ke4 51. Bg6+ Kf3 52. Bf7 Ke4 53. Bg6+ Kf3 54. Bf7 Ke4 1/2-1/2

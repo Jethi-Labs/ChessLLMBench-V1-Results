@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_09"]
+[Black "gpt-6-astra/board_10"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_15"]
+[OpeningName "Alekhine Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp1bppp/1n1p4/8/2PP4/2NB4/PP3PPP/R1BQK1NR w KQ - 4 8"]
+
+8. Qb3 Nc6 9. Be3 Be6 10. Nd5 Na5 11. Nxe7+ Qxe7 12. Qb5 Naxc4 13. Bxc4 Bxc4 14. Qb4 a5 15. Qc3 f5 16. Kd1 f4 17. Bc1 Qg5 18. Qf3 Bd5 19. Qh3 Qxg2 20. Qxg2 Bxg2 21. Ne2 Bxh1 22. Nxf4 Rae8 23. Nh3 Re4 24. Be3 Rxe3 25. fxe3 Rf1+ 26. Kc2 Be4+ 27. Kd2 Rxa1 28. Ng5 Rxa2 29. Nxe4 Rxb2+ 30. Kc1 Rxh2 31. Nc3 h5 32. Nb5 Nc4 33. Nxc7 Nxe3 34. Nb5 d5 35. Nd6 b6 36. Nb5 g5 37. Nd6 g4 38. Ne8 g3 39. Nf6+ Kg7 40. Nxh5+ Rxh5 41. Kd2 g2 42. Kxe3 g1=Q+ 43. Kf4 Qf2+ 44. Kg4 Rh4+ 45. Kg5 Qf4# 0-1

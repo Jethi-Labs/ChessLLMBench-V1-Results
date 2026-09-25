@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-sol/board_08"]
+[Black "gpt-6-astra/board_05"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_34"]
+[OpeningName "Colle System, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qk2r/pbpn1ppp/1p1bpn2/3p4/3P4/1P1BPN2/PBPN1PPP/R2QK2R w KQkq - 4 8"]
+
+8. O-O b5 9. Bxb5 e5 10. dxe5 c6 11. Bxc6 Bxc6 12. exd6 O-O 13. Nd4 a6 14. Nxc6 d4 15. Nxd8 d3 16. Bxf6 dxc2 17. Qxc2 Nxf6 18. Nc6 a5 19. Qd3 a4 20. Nc4 a3 21. Nb6 Rae8 22. d7 Nxd7 23. Nxd7 h6 24. Nxf8 h5 25. Qh7+ Kxf8 26. Qh8# 1-0

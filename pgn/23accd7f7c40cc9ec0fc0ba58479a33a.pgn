@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_01"]
+[Black "gpt-6-sol/board_06"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "FIFTY_MOVE"]
+[OpeningId "opening_47"]
+[OpeningName "Slav Defense, Chebanenko Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qkb1r/3n1ppp/p1p1pn2/1p1p4/2PP2b1/1PN1PN2/P3BPPP/R1BQ1RK1 w kq - 2 9"]
+
+9. h3 Bxf3 10. Bxf3 Bb4 11. Qc2 O-O 12. a3 Bxc3 13. Qxc3 bxc4 14. bxc4 Rb8 15. a4 Nb6 16. cxd5 cxd5 17. Ba3 Re8 18. Qa5 Qc8 19. Rfb1 Nc4 20. Rxb8 Nxa5 21. Rxc8 Rxc8 22. Be2 Nc4 23. Rc1 a5 24. Bc5 Nd7 25. Be7 Ndb6 26. Ra1 f5 27. h4 Kf7 28. Bg5 g6 29. Bh6 Nb2 30. Bb5 Rc4 31. Bxc4 dxc4 32. Bf4 c3 33. Bc7 N6c4 34. Kf1 Nd3 35. Ke2 Nb4 36. Rc1 c2 37. f3 h5 38. g3 Ke8 39. e4 Kd7 40. Bf4 Ke7 41. Bc7 Kd7 42. exf5 gxf5 43. Bb8 Nb2 44. Kd2 Nxa4 45. Ba7 Nb2 46. Rxc2 Nxc2 47. Kxc2 Nc4 48. Kb3 Nd2+ 49. Ka4 Nxf3 50. Kxa5 Kc8 51. Kb5 f4 52. gxf4 Nxh4 53. Kc6 Ng6 54. Kd6 h4 55. d5 exd5 56. f5 Nf8 57. Kxd5 h3 58. Bg1 Kd7 59. Ke5 Ke7 60. Kf4 Nd7 61. Bh2 Nc5 62. Kg4 Kf6 63. Bf4 Nd7 64. Kxh3 Kxf5 65. Kg3 Ke4 66. Kg4 Nc5 67. Bd2 Ne6 68. Bh6 Nc7 69. Bf8 Ne6 70. Bb4 Nf4 71. Kg5 Nd3 72. Bd6 Ne1 73. Kg6 Kd5 74. Bb4 Nd3 75. Bc3 Ke4 76. Kf6 Nf4 77. Ba1 Nd3 78. Ke6 Nc5+ 79. Kd6 Nb7+ 80. Ke7 Kd5 81. Kf6 Nd6 82. Bb2 Nc4 83. Bc1 Ke4 84. Ke6 Ne5 85. Bb2 Nd3 86. Bf6 Nf4+ 87. Kd6 Nd5 88. Bg7 Ne3 89. Kc5 Nd5 90. Bb2 Nf4 91. Bf6 Nd5 92. Bg7 Ne7 93. Ba1 Nd5 94. Bh8 Nf4 95. Bc3 Nd5 96. Ba1 Nf4 97. Kd6 Nd5 98. Be5 Ne3 99. Ke6 Nc4 100. Bc3 Na3 101. Bf6 Nb5 102. Bb2 Nc7+ 103. Kd6 Nd5 104. Ba1 Nf4 105. Bc3 Nd5 106. Be1 Nf4 107. Bd2 Ne2 108. Kc5 Nd4 109. Bb4 Ne6+ 110. Kd6 Nf4 111. Be1 Nd5 112. Kc5 Ne3 113. Bc3 Nf5 114. Bf6 Ne3 1/2-1/2

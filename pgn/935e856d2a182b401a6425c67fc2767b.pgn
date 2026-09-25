@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_04"]
+[Black "gpt-5_6-terra/board_04"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_09"]
+[OpeningName "Scotch Game, Mieses Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r3kb1r/p1ppqp1p/b1p3p1/3nP3/2P5/1P6/P3QPPP/RNB1KB1R w KQkq - 0 10"]
+
+10. Ba3 Qxa3 11. Nxa3 Bb4+ 12. Qd2 Bxd2+ 13. Kxd2 Nb4 14. Nc2 Nxc2 15. Kxc2 f6 16. exf6 O-O 17. Rd1 d6 18. Be2 Rxf6 19. Bf3 h5 20. Rd2 Bb7 21. Be4 g5 22. Bf3 g4 23. Be4 a5 24. Ra1 d5 25. cxd5 cxd5 26. Bxd5+ Bxd5 27. Rxd5 Rxf2+ 28. Rd2 Rxd2+ 29. Kxd2 h4 30. Rc1 Rd8+ 31. Ke1 Re8+ 32. Kf1 Rf8+ 33. Kg1 Rd8 34. Rxc7 Rd1+ 35. Kf2 Rd2+ 36. Kg1 Rxa2 37. Rc4 Ra1+ 38. Kf2 Ra2+ 39. Kf1 Ra1+ 40. Ke2 Ra2+ 41. Kf1 Ra1+ 42. Ke2 Ra2+ 43. Kf1 1/2-1/2

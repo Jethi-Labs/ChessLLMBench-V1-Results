@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_01"]
+[Black "gpt-5_6-sol/board_05"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_21"]
+[OpeningName "Queen's Gambit Declined, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn2kb1r/pp3p1p/2p2pb1/3p4/3P4/2N1P3/PP3PPP/R3KBNR w KQkq - 0 10"]
+
+10. a3 Nd7 11. O-O-O a5 12. b3 Bxa3+ 13. Kd2 b5 14. g3 b4 15. Nce2 h5 16. Nf3 Be4 17. Nc3 Bxf3 18. Ke1 bxc3 19. Bh3 c2 20. Kd2 cxd1=Q+ 21. Rxd1 Bb4+ 22. Kc1 Bxd1 23. Bg2 Bxb3 24. h3 Be1 25. Kb2 a4 26. f4 a3+ 27. Kxb3 a2 28. Bf3 a1=Q 29. Bg2 Qa2# 0-1

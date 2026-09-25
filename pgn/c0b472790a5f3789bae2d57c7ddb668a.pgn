@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_04"]
+[Black "gpt-6-astra/board_01"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_06"]
+[OpeningName "Caro-Kann Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1q1kb1r/pp2pppp/2n2n2/3p4/3P1Bb1/1QPB4/PP3PPP/RN2K1NR w KQkq - 5 8"]
+
+8. Nd2 h6 9. Ne2 g5 10. Be5 Qd7 11. Bxf6 exf6 12. O-O Na5 13. Qb5 Qxb5 14. Bxb5+ Nc6 15. Bxc6+ bxc6 16. Nc1 Bf5 17. Ncb3 Be7 18. Kh1 h5 19. Rae1 Bd3 20. Rg1 Kd7 21. Re3 Bf5 22. Nf3 Rab8 23. Re2 Bd6 24. Rd1 Bg4 25. Rd3 Rhe8 26. Rxe8 Rxe8 27. a3 Bxf3 28. gxf3 Rb8 29. Nc5+ Bxc5 30. dxc5 Rxb2 31. c4 Ke6 32. Kg2 dxc4 33. Rd6+ Ke5 34. Rd7 c3 35. Rxf7 c2 36. Re7+ Kd5 37. Re1 Rb1 38. Re7 c1=Q 39. Rxa7 Qg1+ 40. Kh3 g4+ 41. fxg4 Qxg4# 0-1

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_08"]
+[Black "gpt-6-astra/board_08"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_05"]
+[OpeningName "French Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp2ppp/3b1n2/3p4/3P4/3B1N2/PPP2PPP/RNBQ1RK1 w - - 6 7"]
+
+7. Na3 Nc6 8. c4 Bxa3 9. bxa3 dxc4 10. Bxc4 Bg4 11. Bb2 Bxf3 12. gxf3 Nd5 13. Kh1 Re8 14. Bb5 Qf6 15. h3 Qh6 16. Qb3 Qxh3+ 17. Kg1 Nf4 18. Qxf7+ Kxf7 19. Bc4+ Kf8 20. d5 Qg2# 0-1

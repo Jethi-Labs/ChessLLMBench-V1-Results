@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_01"]
+[Black "DeepSeek-V4-Flash/board_09"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_06"]
+[OpeningName "Caro-Kann Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1q1kb1r/pp2pppp/2n2n2/3p4/3P1Bb1/1QPB4/PP3PPP/RN2K1NR w KQkq - 5 8"]
+
+8. f3 Bf5 9. Bxf5 Qxf5 10. Qxb7 Qc8 11. Qxc8+ Rxc8 12. b4 Nd7 13. b5 Na5 14. h4 f6 15. g4 e6 16. Ne2 g6 17. a4 Nb3 18. Ra2 Na5 19. h5 gxh5 20. Rxh5 h6 21. Nd2 Nb7 22. a5 Nd8 23. Rb2 Nf7 24. b6 axb6 25. axb6 Ra8 26. b7 Ra1+ 27. Kf2 Bd6 28. Bxd6 Nxd6 29. b8=Q+ Nxb8 30. Rxb8+ Kd7 31. Rxh8 Ra2 32. Ke3 f5 33. R5xh6 fxg4 34. R8h7+ Kc8 35. fxg4 Ne8 36. Rxe6 Kd8 37. Rh8 Kc7 38. Rhxe8 Rb2 39. g5 Ra2 40. g6 Ra6 41. Rxa6 Kb7 42. Rae6 Ka7 43. g7 Kb7 44. R8e7+ Ka8 45. g8=Q# 1-0

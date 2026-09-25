@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_03"]
+[Black "gpt-6-luna/board_05"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_27"]
+[OpeningName "Queen's Indian Defense"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1qk2r/p3bppp/bpp1pn2/3p4/2PP4/1PB2NP1/P3PPBP/RN1QK2R w KQkq d6 0 9"]
+
+9. Ne5 Bxc4 10. bxc4 a5 11. Nd2 g5 12. O-O h5 13. Kh1 h4 14. gxh4 dxc4 15. Nxc6 Nxc6 16. Bxc6+ Nd7 17. Nxc4 g4 18. Ne5 f5 19. Bxd7+ Qxd7 20. Nxd7 Bb4 21. Bxb4 b5 22. Nb6 a4 23. Nxa8 Kd7 24. Nb6+ Kc6 25. Bc5 a3 26. Qb3 Rxh4 27. Qxe6+ Kb7 28. e3 Kb8 29. Qc8+ Ka7 30. f3 Rxh2+ 31. Kxh2 g3+ 32. Kg1 g2 33. Na8# 1-0

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-sol/board_06"]
+[Black "gpt-6-luna/board_07"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_10"]
+[OpeningName "Italian Game, Giuoco Pianissimo"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp2ppp/2np1n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 2 7"]
+
+7. Na4 a5 8. Nxc5 dxc5 9. Be3 b6 10. h4 Ba6 11. Bxa6 Rxa6 12. a4 Qd6 13. Nd2 h5 14. f3 Nd4 15. c3 Nc6 16. Nc4 Qd7 17. Qe2 Rd8 18. Rfd1 g6 19. b3 Ra7 20. Ra3 Ne8 21. g4 Nd6 22. gxh5 Nxc4 23. bxc4 gxh5 24. Qg2+ Kh7 25. Bg5 Rg8 26. Qe2 f6 27. f4 Qe8 28. Kh1 fxg5 29. fxg5 Rf8 30. Rg1 Kg6 31. Rg3 Rf4 32. Qh2 Qd7 33. Kg1 Nd8 34. Kg2 Ne6 35. Kg1 Qd6 36. Qh3 c6 37. Rb3 Rb7 38. Rb2 Rff7 39. Rf3 Rf4 40. Rg3 Rff7 41. Rd2 b5 42. cxb5 cxb5 43. axb5 Rxb5 44. Ra2 Nf4 45. Qf1 Qd7 46. c4 Qd4+ 47. Kh1 Rb3 48. Qg1 Rxd3 49. Qxd4 Rxd4 50. Rxa5 Rxe4 51. Rxc5 Ne6 52. Rc6 Rxh4+ 53. Kg2 Re7 54. Rc8 Kf5 55. g6 Nf4+ 56. Kg1 Ne2+ 57. Kg2 Nxg3 58. Kxg3 Rg4+ 59. Kf2 e4 60. Rf8+ Kxg6 61. Ke3 Rg3+ 62. Ke2 h4 63. c5 e3 64. Rh8 Rg2+ 65. Ke1 Rg1+ 66. Ke2 Rg2+ 67. Ke1 h3 68. Rxh3 Rb7 69. Rg3+ Rxg3 70. c6 Rb2 71. Kf1 Rf2+ 72. Ke1 Rg1# 0-1

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_05"]
+[Black "gpt-6-sol/board_04"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_16"]
+[OpeningName "Bishop's Opening, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp2ppp/2np1n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 6"]
+
+6. a3 Na5 7. b3 Nxc4 8. g3 Ng4 9. h3 Nxf2 10. a4 Nxd1 11. b4 Bxb4 12. d4 Bxc3+ 13. Nd2 Nxd2 14. g4 Qf6 15. h4 Qf2+ 16. Kxd1 Bxg4# 0-1

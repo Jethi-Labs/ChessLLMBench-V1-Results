@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_08"]
+[Black "grok-4_3/board_03"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "TIMEOUT"]
+[OpeningId "opening_18"]
+[OpeningName "Center Game, Simplified"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqr1k1/pppp1ppp/2n2n2/8/1b2P3/2N1Q3/PPPB1PPP/2KR1BNR w - - 9 8"]
+
+8. f3 a6 9. a3 Ba5 10. b4 Bb6 11. Qe1 a5 12. Na2 axb4 13. Bxb4 Nxb4 14. Qxb4 c6 15. g4 g6 16. h4 1-0

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_07"]
+[Black "grok-4_6/board_08"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_08"]
+[OpeningName "Ruy Lopez, Berlin Wall Ending"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bk1b1r/ppp2ppp/2p5/4Pn2/8/5N2/PPP2PPP/RNB2RK1 w - - 0 9"]
+
+9. Nc3 Be6 10. Nd5 Bxd5 11. Nd2 Nd4 12. Rb1 Bxa2 13. Ra1 Bd5 14. Kh1 Nxc2 15. Ra5 Bb4 16. Ra4 Re8 17. Rxb4 Nxb4 18. f4 Nd3 19. Nf3 Bxf3 20. gxf3 Kc8 21. Be3 Nxb2 22. Kg2 Nc4 23. Bxa7 Rxa7 24. Re1 Nb6 25. Rg1 Nd5 26. h3 Nxf4+ 27. Kf1 Ra1+ 28. Kf2 Nxh3+ 29. Kg2 Nxg1 30. f4 Ne2 31. f5 Rxe5 32. f6 Nf4+ 33. Kf2 gxf6 34. Kf3 Nd5 35. Kf2 Rg5 36. Ke2 Rg7 37. Kd2 Kb8 38. Ke2 Ra7 39. Kd1 Rg2 40. Kc1 Ra1# 0-1

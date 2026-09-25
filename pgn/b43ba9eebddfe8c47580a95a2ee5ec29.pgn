@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_09"]
+[Black "grok-4_6/board_01"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "TIMEOUT"]
+[OpeningId "opening_27"]
+[OpeningName "Queen's Indian Defense"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1qk2r/p3bppp/bpp1pn2/3p4/2PP4/1PB2NP1/P3PPBP/RN1QK2R w KQkq d6 0 9"]
+
+9. Nbd2 Nbd7 10. Kf1 Bb7 11. Qc2 O-O 12. Rb1 Kh8 13. Ra1 Bd6 14. Rb1 Qc7 15. Ra1 Rac8 16. Rb1 Rfe8 17. Ng5 Re7 18. Ngf3 e5 19. dxe5 Nxe5 20. cxd5 cxd5 21. Nxe5 Bxe5 22. Nc4 dxc4 23. Bxb7 Qxb7 24. Rg1 cxb3 25. Rxb3 Nd5 26. Qd3 Bxc3 27. e4 Nb4 28. Qb1 Rxe4 29. Rxc3 Rxc3 30. Rg2 Qc6 31. Kg1 Rc1+ 32. Qxc1 b5 33. Qd2 Nxa2 34. Qd8+ Re8 35. Qd2 b4 36. Kf1 Qe4 37. Rg1 Rc8 38. Rg2 Rc1+ 39. Qxc1 Nxc1 40. f4 b3 41. h3 Nd3 0-1

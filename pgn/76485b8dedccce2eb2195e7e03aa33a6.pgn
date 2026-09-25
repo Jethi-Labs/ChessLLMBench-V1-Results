@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_3/board_05"]
+[Black "gpt-5_6-luna/board_09"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_01"]
+[OpeningName "Four Knights Game, Symmetrical Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp2ppp/2np1n2/1B2p3/1b2P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 0 7"]
+
+7. Bxc6 bxc6 8. Nxe5 dxe5 9. a3 Bd6 10. b3 a5 11. f3 h5 12. g3 Bc5+ 13. d4 Bxd4+ 14. Qxd4 Qxd4+ 15. Be3 Qxe3+ 16. Rf2 Qxc3 17. h3 Qxa1+ 18. Rf1 Qd4+ 19. Rf2 Qa1+ 20. Rf1 Qd4+ 21. Rf2 Qa1+ 1/2-1/2

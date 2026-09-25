@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_09"]
+[Black "gpt-6-sol/board_04"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "FIFTY_MOVE"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. a4 Nc6 2. f4 e6 3. h4 Bd6 4. d4 Qf6 5. e3 Nge7 6. c4 Nf5 7. c5 Be7 8. g4 Ng3 9. g5 Qf5 10. Bd3 Qd5 11. Rh2 Nb4 12. Nc3 Nxd3+ 13. Qxd3 Qc6 14. e4 Nh5 15. b4 d6 16. b5 Qd7 17. Qd1 g6 18. Be3 a5 19. Nf3 O-O 20. e5 d5 21. Nd2 Ng7 22. Qe2 Nf5 23. Qd3 Nxe3 24. Qxe3 Rb8 25. Ra3 Qe8 26. Rb3 c6 27. b6 Ra8 28. Rh3 Bd7 29. Qd3 Kh8 30. h5 Kg8 31. h6 Rd8 32. Rh4 Ra8 33. Ke2 Kh8 34. Ra3 Ra6 35. Rb3 Qd8 36. Rg4 Ra8 37. Rh4 Kg8 38. Ra3 Ra6 39. Rb3 Qe8 40. Rg4 Qc8 41. Rh4 Qe8 42. Rg4 Qc8 43. Rh4 Qa8 44. Ra3 Re8 45. Rb3 Qd8 46. Rg4 Rf8 47. Rh4 Ra8 48. Ra3 Re8 49. Rg4 Qb8 50. Rh4 Ra6 51. Rb3 Qa8 52. Rg4 Qd8 53. Rh4 Kh8 54. Rg4 Rf8 55. Rh4 Re8 56. Rg4 Rf8 57. Rh4 Qb8 58. Ke3 Kg8 59. Kf2 Be8 60. Rg4 Bd7 61. Rh4 Qe8 62. Rg4 Bd8 63. Rh4 Qe7 64. Rg4 Qe8 65. Rh4 Be7 66. Rg4 Qd8 67. Rb2 Qc8 68. Rb3 Kh8 69. Rh4 Ra8 70. Rg4 Re8 71. Rh4 Qd8 72. Rg4 Kg8 73. Rh4 Ra6 74. Rg4 Bc8 75. Rh4 Rf8 76. Rg4 Re8 77. Rh4 Bd7 78. Rg4 Rf8 79. Nf1 Be8 80. Ne3 Kh8 81. Rb2 1/2-1/2

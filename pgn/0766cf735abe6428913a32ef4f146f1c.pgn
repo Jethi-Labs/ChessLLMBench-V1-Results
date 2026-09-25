@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_09"]
+[Black "grok-4_6/board_09"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_32"]
+[OpeningName "King's Indian Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbr2k1/ppp2pbp/5np1/4p3/2P1P3/2N2N2/PP2BPPP/R1B1K2R w KQ - 0 9"]
+
+9. Nxe5 Nxe4 10. Nxe4 Bxe5 11. Bg5 Rd4 12. Nd2 Nc6 13. O-O-O Be6 14. Nf3 Rxd1+ 15. Rxd1 Kg7 16. b4 Bc3 17. b5 Nb4 18. a3 Bg4 19. axb4 Bxb4 20. h3 Bf5 21. Nd4 Ba3+ 22. Kd2 Bb4+ 23. Ke3 Re8+ 24. Kf3 Be4+ 25. Kg3 Bd6+ 26. Bf4 Bxf4+ 27. Kxf4 Bxg2 28. Bg4 Kh6 29. Kg3 Be4 30. f3 f5 31. fxe4 fxg4 32. hxg4 Rxe4 33. Kf3 Re8 34. Ra1 Ra8 35. Rh1+ Kg7 36. Ne6+ Kh8 37. Ng5 Rf8+ 38. Kg3 h5 39. gxh5 gxh5 40. Rxh5+ Kg8 41. Ne6 Rc8 42. Rg5+ Kf7 43. Nc5 Rb8 44. Rf5+ Ke7 45. Re5+ Kf7 46. Kf4 b6 47. Rf5+ Kg6 48. Nd7 Rb7 49. Ne5+ Kh7 50. Rf7+ Kh8 51. Rd7 Kg8 52. Ng6 Rb8 53. Kg5 Rf8 54. Kh6 Rf7 55. Rd8+ Rf8 56. Rxf8# 1-0

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_01"]
+[Black "DeepSeek-V4-Pro/board_06"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_33"]
+[OpeningName "London System, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1qk2r/ppp2ppp/3bpnb1/3p4/3P4/3BPNB1/PPP2PPP/RN1QK2R w KQkq - 6 7"]
+
+7. Nbd2 Bxg3 8. a3 Bxd3 9. c3 e5 10. h3 e4 11. Nh4 a6 12. a4 a5 13. c4 dxc4 14. d5 c3 15. d6 c2 16. d7+ Nfxd7 17. Qh5 c1=R+ 18. Qd1 Rxa1 19. Nb3 b6 20. Nc1 b5 21. fxg3 b4 22. Ng6 b3 23. Kf2 c6 24. g4 c5 25. Nxh8 c4 26. Rh2 c3 27. Ne2 c2 28. g3 c1=R 29. g5 f6 30. h4 f5 31. h5 f4 32. g6 f3 33. Nxc1 h6 34. Ne2 Nc5 35. Nc1 Nxa4 36. Na2 Nxb2 37. Qb1 a4 38. Nf7 a3 39. Nb4 a2 40. Qc1 Nd1+ 41. Kg1 b2 42. Nxa2 b1=R 43. Nc3 f2+ 44. Rxf2 Nxf2 45. Nd1 Nh1 46. Qc7 Nf2 47. g4 Nh1 48. Nh8 Nf2 49. g5 hxg5 50. Qb6 g4 51. Qa6 g3 52. Qxa1 g2 53. Qxb1 Nh1 54. Qc2 Nf2 55. Nb2 Nd1 56. Nxd3 Nb2 57. Ne1 Nd1 58. Nxg2 Nb2 59. Ne1 Nd1 60. Ng2 Nb2 61. Ne1 Nd1 62. Ng2 1/2-1/2

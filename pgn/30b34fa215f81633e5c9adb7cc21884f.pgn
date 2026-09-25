@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_01"]
+[Black "gpt-6-luna/board_04"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_17"]
+[OpeningName "Vienna Game, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk1nr/ppp2pbp/2np2p1/4p3/4P3/2NP2P1/PPP2PBP/R1BQK1NR w KQkq - 0 6"]
+
+6. a4 h5 7. b4 Nxb4 8. h4 a5 9. f4 exf4 10. Nb1 Bxa1 11. c4 fxg3 12. Bb2 Bxb2 13. e5 dxe5 14. c5 Qxd3 15. Bc6+ bxc6 16. Rh3 Nc2+ 17. Qxc2 Qxc2 18. Nf3 Qc1+ 19. Ke2 Ba6# 0-1

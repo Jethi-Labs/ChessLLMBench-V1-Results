@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_3/board_03"]
+[Black "Mistral-Large-3/board_06"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_28"]
+[OpeningName "Nimzo-Indian Defense, Classical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1q1rk1/pbpp1ppp/1p2pn2/6B1/2PP4/P1Q5/1P2PPPP/R3KBNR w KQ - 2 8"]
+
+8. b3 Kh8 9. e3 d6 10. f3 g6 11. g3 Qd7 12. Bxf6+ Kg8 13. h3 Be4 14. fxe4 c5 15. b4 cxb4 16. axb4 Na6 17. Rxa6 d5 18. cxd5 g5 19. Bxg5 Rfb8 20. Qc6 exd5 21. Qxd7 Rd8 22. Bxd8 h6 23. exd5 Kh8 24. Bxb6 Re8 25. Qxe8+ Kh7 26. Rxa7 Kg6 27. Qxf7+ Kg5 28. e4 h5 29. h4+ Kg4 30. b5 Kxg3 31. e5 Kg4 32. d6 Kg3 33. d5 Kg4 34. e6 Kg3 35. d7 Kg4 36. d6 Kg3 37. e7 Kg4 38. d8=Q Kg3 39. d7 Kg4 40. e8=Q Kg3 41. Ne2+ Kg4 42. Nc1 Kg3 43. Na2 Kg4 44. Nc1 Kg3 45. Na2 Kg4 46. Nc1 1/2-1/2

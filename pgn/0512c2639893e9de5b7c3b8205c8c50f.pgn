@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_07"]
+[Black "DeepSeek-V4-Flash/board_03"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_32"]
+[OpeningName "King's Indian Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbr2k1/ppp2pbp/5np1/4p3/2P1P3/2N2N2/PP2BPPP/R1B1K2R w KQ - 0 9"]
+
+9. Bg5 a5 10. Nxe5 b6 11. Bxf6 b5 12. Bxd8 b4 13. Bxc7 a4 14. Bxb8 g5 15. Nxf7 g4 16. Bxg4 bxc3 17. Bxc8 cxb2 18. Bf5 bxa1=Q+ 19. Kd2 h5 20. Rxa1 h4 21. Be5 Bh6+ 22. Nxh6+ Kf8 23. Bf6 Rc8 24. Bxc8 h3 25. Bxh3 Ke8 26. Rb1 Kf8 27. Rb8# 1-0

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-luna/board_08"]
+[Black "grok-4_6/board_08"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_45"]
+[OpeningName "Four Knights Game, Forcing Line"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqkbnr/pp3ppp/2p3n1/3BP3/3P4/2N5/PPP2PPP/R1BQK2R w KQkq - 0 9"]
+
+9. a3 cxd5 10. b3 N8e7 11. f3 Nf5 12. g3 Be6 13. h3 Nxg3 14. Rg1 Nf5 15. a4 Qh4+ 16. Kf1 Nxd4 17. b4 Bxh3+ 18. Rg2 Bxg2+ 19. Kxg2 Nxe5 20. f4 Nef3 21. a5 Qh2+ 22. Kf1 Qg1# 0-1

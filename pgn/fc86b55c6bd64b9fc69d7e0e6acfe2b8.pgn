@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_01"]
+[Black "gpt-5_6-terra/board_01"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. f3 Na6 2. e4 c5 3. Bxa6 bxa6 4. h4 e5 5. h5 d5 6. exd5 Qxd5 7. Kf2 g6 8. hxg6 fxg6 9. Nh3 Nf6 10. Ng5 h5 11. Qf1 Bh6 12. d3 Qd4+ 13. Ke2 Bf5 14. Qf2 a5 15. Qxd4 cxd4 16. Bd2 Rb8 17. b3 Rc8 18. Rc1 Nd5 19. Kf2 Ne3 20. Ne4 Nxc2 21. Bxh6 Nxa1 22. Nd6+ Kd7 23. Rxc8 Rxc8 24. Nxc8 Bxd3 25. Na3 Kxc8 26. Bd2 Bf5 27. Bxa5 Kd7 28. Kg3 g5 29. b4 Be6 30. b5 h4+ 31. Kf2 Bxa2 32. Bd2 g4 33. fxg4 e4 34. Ke2 Be6 35. g5 d3+ 36. Kd1 Bg4+ 37. Ke1 Kc8 38. g6 Nc2+ 39. Nxc2 dxc2 40. g7 Be6 41. Bg5 Kb8 42. Ke2 Bb3 43. Kd2 a6 44. bxa6 Ka7 45. Kc3 c1=Q+ 46. Bxc1 Be6 47. Be3+ Kxa6 48. Bf4 Kb7 49. Be5 Bg8 50. Bd4 Ka8 51. Bg1 Kb8 52. Bf2 Kb7 53. Bxh4 Kb8 54. g3 Kb7 55. g4 Ka7 56. g5 Kb8 57. g6 Kb7 58. Kd4 Be6 59. Kxe4 Ka8 60. Ke5 Bb3 61. Kf6 Ba2 62. Ke7 Kb8 63. Be1 Ka8 64. Kf8 Kb8 65. g8=Q Bxg8 66. Kxg8 Ka8 67. g7 Kb8 68. Bd2 Kb7 69. Bc1 Kc6 70. Bb2 Kb7 71. Ba1 Ka7 72. Bb2 Ka6 73. Ba1 Ka5 74. Bb2 Ka4 75. Ba1 Ka3 76. Bc3 Kb3 77. Ba1 Ka2 78. Bc3 Kb3 79. Ba1 Ka2 80. Bc3 Kb3 1/2-1/2

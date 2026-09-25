@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_3/board_10"]
+[Black "Mistral-Large-3/board_01"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_15"]
+[OpeningName "Alekhine Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp1bppp/1n1p4/8/2PP4/2NB4/PP3PPP/R1BQK1NR w KQ - 4 8"]
+
+8. Bxh7+ Kxh7 9. a3 d5 10. cxd5 Nxd5 11. Nxd5 f6 12. Nxe7 g6 13. Nxc8 g5 14. Nxa7 f5 15. Bxg5 Nc6 16. Bxd8 Re8+ 17. Ne2 f4 18. Nxc6 b5 19. Bxc7 Kh8 20. Bxf4 Rxa3 21. bxa3 Rc8 22. f3 Rxc6 23. g3 Rb6 24. h3 Kh7 25. a4 bxa4 26. Rxa4 Rb3 27. Qxb3 Kg6 28. g4 Kg7 29. h4 Kg6 30. d5 Kg7 31. g5 Kf7 32. h5 Kg7 33. d6 Kh7 34. g6+ Kg7 35. h6+ Kxg6 36. d7 Kf6 37. d8=Q+ Kg6 38. h7 Kf5 39. h8=Q Kg6 40. Nc1 Kf5 41. Na2 Kg6 42. Nc1 Kf5 43. Na2 Kg6 44. Nc1 1/2-1/2

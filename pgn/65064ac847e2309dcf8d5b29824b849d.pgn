@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_04"]
+[Black "grok-4_3/board_01"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_18"]
+[OpeningName "Center Game, Simplified"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqr1k1/pppp1ppp/2n2n2/8/1b2P3/2N1Q3/PPPB1PPP/2KR1BNR w - - 9 8"]
+
+8. Bd3 d5 9. Qg5 d4 10. Nce2 Bxd2+ 11. Rxd2 a6 12. Nf3 a5 13. c3 h6 14. Qh4 dxc3 15. Nxc3 Nxe4 16. Qxd8 Nxd8 17. Bxe4 a4 18. Bc2 a3 19. bxa3 Rxa3 20. Nb5 Rxa2 21. Bh7+ Kxh7 22. Rxa2 c6 23. Nd6 Re6 24. Nxc8 c5 25. Rd1 Nc6 26. Nd6 Nb4 27. Ra7 Nc6 28. Rxb7 f6 29. Rc7 h5 30. Rxc6 c4 31. Nd4 Re5 32. f4 Re3 33. Nxc4 Rc3+ 34. Kb2 Rxc4 35. Rxc4 h4 36. Rc5 h3 37. gxh3 f5 38. Rxf5 g6 39. Rg5 Kh6 40. Rdg1 Kg7 41. h4 Kf6 42. Rxg6+ Ke7 43. h5 Kd7 44. h6 Kc7 45. h7 Kb7 46. Rh6 Ka7 47. Rg7+ Ka8 48. h8=Q# 1-0

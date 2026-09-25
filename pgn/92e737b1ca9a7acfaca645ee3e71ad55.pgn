@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-luna/board_05"]
+[Black "grok-4_6/board_01"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_09"]
+[OpeningName "Scotch Game, Mieses Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r3kb1r/p1ppqp1p/b1p3p1/3nP3/2P5/1P6/P3QPPP/RNB1KB1R w KQkq - 0 10"]
+
+10. f4 Qh4+ 11. g3 Bb4+ 12. Kd1 Qe7 13. a3 Bc3 14. Ra2 Ba5 15. b4 Bxb4 16. axb4 Nxb4 17. Ra1 O-O 18. Qe1 Bb7 19. h4 c5 20. Rg1 Bf3+ 21. Kd2 Nc6 22. Ra6 d6 23. Qf2 Nb4 24. Qxf3 Nxa6 25. Qc6 Nb4 26. Qb7 dxe5 27. Bd3 Rfd8 28. Qe4 Nxd3 29. Kc3 Qf6 30. fxe5 Qxe5+ 31. Qxe5 Nxe5 32. Bf4 f6 33. Bxe5 fxe5 34. Re1 Rf8 35. Rxe5 Rf3+ 36. Kc2 Rxg3 37. Rxc5 Rc8 38. Ra5 Rg2+ 39. Nd2 Kh8 40. Rg5 Rh2 41. Kc3 Rxh4 42. Nf3 Rh3 43. Kc2 Rxf3 44. Ra5 Ra8 45. Rb5 Re8 46. Ra5 Re2+ 47. Kd1 Rb2 48. Kc1 Rg2 49. Rd5 Rc3+ 50. Kb1 Rxc4 51. Rd8+ Kg7 52. Rd7+ Kh6 53. Rd1 Kh5 54. Rh1+ Rh4 55. Rc1 Rb4+ 56. Ka1 Rg3 57. Ka2 Ra4+ 58. Kb2 c6 59. Rxc6 Kh4 60. Rc2 Kh3 61. Rc1 Kh2 62. Rc2+ Rg2 63. Rxg2+ Kxg2 64. Kb3 Rf4 65. Kc2 Kg1 66. Kd2 Rc4 67. Kd3 Ra4 68. Kc3 Rh4 69. Kb2 g5 70. Kb1 Rh3 71. Kc1 Rb3 72. Kc2 Ra3 73. Kb2 Rg3 74. Kc1 Rg2 75. Kd1 Rb2 76. Kc1 Rb7 77. Kc2 Kh1 78. Kc1 g4 79. Kc2 g3 80. Kc3 g2 81. Kd3 g1=Q 82. Kc4 Qg5 83. Kd4 Qg1+ 84. Kd5 Qg6 85. Kd4 Qe6 86. Kd3 Rc7 87. Kd2 Kg1 88. Kd3 Qe1 89. Kd4 Qe7 90. Kd3 Qc5 91. Ke4 Rf7 92. Kd3 Re7 93. Kd2 Rd7+ 94. Ke1 Qe7# 0-1

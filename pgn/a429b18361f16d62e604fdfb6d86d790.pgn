@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_06"]
+[Black "grok-4_3/board_04"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_18"]
+[OpeningName "Center Game, Simplified"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqr1k1/pppp1ppp/2n2n2/8/1b2P3/2N1Q3/PPPB1PPP/2KR1BNR w - - 9 8"]
+
+8. a3 a6 9. axb4 a5 10. b3 a4 11. f3 axb3 12. cxb3 b6 13. g3 b5 14. h3 d6 15. f4 d5 16. g4 d4 17. h4 d3 18. e5 g6 19. f5 g5 20. h5 h6 21. e6 Nd4 22. e7 c6 23. exd8=R c5 24. Rxe8+ Kg7 25. Rxc8 c4 26. Rxa8 Nc2 27. bxc4 Na1 28. c5 Nb3+ 29. Kb1 Na1 30. c6 Nc2 31. c7 Na1 32. c8=R Nc2 33. Nge2 Na1 34. Nc1 Nc2 35. N1a2 Na1 36. Nc1 Nc2 37. N1a2 Na1 38. Nc1 1/2-1/2

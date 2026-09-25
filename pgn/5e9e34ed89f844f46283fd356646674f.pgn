@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_06"]
+[Black "grok-4_3/board_07"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. Nc3 a6 2. Nf3 a5 3. d4 a4 4. e3 b6 5. Bb5 a3 6. bxa3 c6 7. Ne5 cxb5 8. Qf3 d5 9. Qxf7# 1-0

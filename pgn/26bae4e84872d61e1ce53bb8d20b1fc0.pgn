@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-sol/board_01"]
+[Black "grok-4_3/board_04"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_32"]
+[OpeningName "King's Indian Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbr2k1/ppp2pbp/5np1/4p3/2P1P3/2N2N2/PP2BPPP/R1B1K2R w KQ - 0 9"]
+
+9. h4 Rd1+ 10. Kxd1 a6 11. Nxe5 a5 12. Nd3 a4 13. f3 b6 14. e5 a3 15. exf6 b5 16. fxg7 b4 17. Nxb4 g5 18. hxg5 c6 19. bxa3 c5 20. Nbd5 Na6 21. Bd3 h6 22. gxh6 f5 23. h7+ Kf7 24. g8=Q# 1-0

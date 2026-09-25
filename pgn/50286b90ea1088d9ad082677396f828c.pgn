@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_05"]
+[Black "gpt-6-sol/board_09"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_48"]
+[OpeningName "Nimzowitsch Defense, Exchange Structure"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp1nppp/8/3qP3/4p3/2B5/PPP2PPP/R2QKB1R w KQkq - 1 10"]
+
+10. a4 O-O 11. f3 e3 12. g3 a5 13. h3 Be6 14. b4 Qxd1+ 15. Rxd1 Nd5 16. Rxd5 Bxd5 17. f4 Bxh1 18. g4 axb4 19. h4 bxc3 20. a5 Bf3 21. g5 Rxa5 22. f5 Ra1# 0-1

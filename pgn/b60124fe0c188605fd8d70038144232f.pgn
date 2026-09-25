@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_04"]
+[Black "gpt-5_6-terra/board_03"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_25"]
+[OpeningName "Catalan Opening, Closed"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/pp2bppp/2p1pn2/3p4/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 0 7"]
+
+7. Ne1 dxc4 8. Bh1 e5 9. b3 cxb3 10. Kg2 bxa2 11. Ba3 axb1=Q 12. Ra2 Qxd1 13. e3 Qd5+ 14. Kg1 Qxa2 15. Bb2 Qxb2 16. Nc2 Qdxc2 17. h4 exd4 18. f3 Qh2# 0-1

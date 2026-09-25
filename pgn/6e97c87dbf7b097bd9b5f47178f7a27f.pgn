@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_07"]
+[Black "DeepSeek-V4-Flash/board_02"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_06"]
+[OpeningName "Caro-Kann Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1q1kb1r/pp2pppp/2n2n2/3p4/3P1Bb1/1QPB4/PP3PPP/RN2K1NR w KQkq - 5 8"]
+
+8. Qxb7 Qxb7 9. g3 Qxb2 10. Bxh7 Rxh7 11. Nf3 Qxa1 12. O-O Bxf3 13. Nd2 Qxf1+ 14. Kxf1 Rxh2 15. Nxf3 Rxf2+ 16. Kxf2 Ne4+ 17. Kf1 Nxc3 18. Ng5 Nxa2 19. Nh7 Nxd4 20. Nxf8 Kxf8 21. Be5 Nb3 22. Bxg7+ Kxg7 23. Kf2 Kh8 24. Kf1 Rg8 25. Kf2 Rxg3 26. Kxg3 Nb4 27. Kh2 Nd4 28. Kh1 Ndc2 29. Kh2 Na3 30. Kh1 Nc4 31. Kg1 Nc6 32. Kh1 N4e5 33. Kh2 Ng6 34. Kg1 Nce5 35. Kh1 Ng4 36. Kg1 N4e5 37. Kh1 Ng4 38. Kg1 N4e5 1/2-1/2

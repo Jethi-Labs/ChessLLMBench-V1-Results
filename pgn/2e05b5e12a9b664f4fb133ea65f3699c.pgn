@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_04"]
+[Black "grok-4_3/board_01"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_34"]
+[OpeningName "Colle System, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qk2r/pbpn1ppp/1p1bpn2/3p4/3P4/1P1BPN2/PBPN1PPP/R2QK2R w KQkq - 4 8"]
+
+8. Ng1 b5 9. Nb1 b4 10. c3 bxc3 11. Bf1 cxb2 12. a4 bxa1=Q 13. Be2 a6 14. Bh5 Nxh5 15. Ne2 Nhf6 16. f3 c6 17. Qc1 a5 18. g4 c5 19. Rf1 cxd4 20. Nd2 Qxc1+ 21. Kf2 Qxd2 22. exd4 h5 23. g5 Qxg5 24. Ra1 Bxh2 25. Nc1 Qb6 26. Ke1 g6 27. Rb1 Qxd4 28. Na2 e5 29. Rb2 Qxb2 30. b4 Qg1# 0-1

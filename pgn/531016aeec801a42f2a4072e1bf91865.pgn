@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_02"]
+[Black "DeepSeek-V4-Flash/board_05"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_28"]
+[OpeningName "Nimzo-Indian Defense, Classical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1q1rk1/pbpp1ppp/1p2pn2/6B1/2PP4/P1Q5/1P2PPPP/R3KBNR w KQ - 2 8"]
+
+8. h4 b5 9. cxb5 a6 10. Bxf6 a5 11. Bxd8 a4 12. Bxc7 e5 13. dxe5 d6 14. exd6 f6 15. Qc4+ Bd5 16. Qxd5+ Rf7 17. Qxa8 f5 18. Qxb8+ Rf8 19. Qxf8+ Kxf8 20. d7 f4 21. d8=Q+ Kf7 22. Qd7+ Kf6 23. Bd8+ Kg6 24. h5+ Kh6 25. Qd6+ g6 26. Qf8# 1-0

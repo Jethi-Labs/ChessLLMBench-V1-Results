@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_09"]
+[Black "gpt-5_6-luna/board_06"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "TIMEOUT"]
+[OpeningId "opening_07"]
+[OpeningName "Ruy Lopez, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1b1kbnr/1pp3pp/p4p2/2p5/4P3/1N6/PPP2PPP/RNBR2K1 b kq - 0 9"]
+
+9... Bd6 10. Nc3 Ne7 11. Be3 b6 12. Kh1 g5 13. Nd5 Nxd5 14. exd5 h5 15. Re1 O-O 16. Red1 Re8 17. Bd2 Re2 18. Re1 Rxe1+ 19. Rxe1 Bf5 20. Rc1 b5 21. Bc3 Bf4 22. Bd2 Bxd2 23. Nxd2 Rd8 24. c3 Rxd5 25. Nf1 Bd3 26. Re1 Rf5 27. Kg1 b4 28. Ne3 Rf4 29. Nd5 Rf5 30. Ne7+ Kh8 31. Rd1 Re5 32. Nc6 Rd5 33. cxb4 cxb4 34. Nxb4 Rd4 35. Nxd3 a5 36. Kh1 a4 37. Rd2 g4 38. Rd1 h4 39. Rd2 f5 40. Rd1 f4 41. f3 gxf3 42. gxf3 h3 43. Nf2 Rxd1+ 44. Nxd1 Kg7 45. Nc3 Kg6 46. Nd5 Kf5 47. Nxc7 Ke5 48. Nb5 Kd5 49. Nc3+ Kd4 50. Nxa4 Ke3 51. b4 Kxf3 52. b5 Ke2 53. Nc3+ Kd3 54. Nd1 f3 55. Nf2+ Ke2 56. Kg1 Ke3 57. b6 Kf4 58. b7 Kf5 59. b8=Q Kf6 60. Qg3 Kf5 61. Qxf3+ Kg6 62. Ne4 Kh6 63. Qxh3+ Kg6 64. Qd7 Kh6 65. Qe7 Kg6 66. Ng3 Kh6 67. Ne4 Kg6 0-1

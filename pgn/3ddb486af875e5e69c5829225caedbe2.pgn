@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_04"]
+[Black "DeepSeek-V4-Pro/board_10"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_33"]
+[OpeningName "London System, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1qk2r/ppp2ppp/3bpnb1/3p4/3P4/3BPNB1/PPP2PPP/RN1QK2R w KQkq - 6 7"]
+
+7. Ng1 Bxd3 8. c3 Bxb1 9. Bh4 Be4 10. b3 Bxg2 11. Qb1 Bxh1 12. a3 Be4 13. Ra2 Bxb1 14. f3 Bxa2 15. Kd2 Bxb3 16. Be1 Nc6 17. Kd3 Bxh2 18. Bh4 Bxg1 19. Be1 Bc4+ 20. Kd2 Qd6 21. Kd1 Bxe3 22. Bg3 Qxa3 23. Be5 Qxc3 24. f4 Bd3 25. Bxf6 Qb2 26. Be5 Qg2 27. Ke1 Qf2+ 28. Kd1 Qd2# 0-1

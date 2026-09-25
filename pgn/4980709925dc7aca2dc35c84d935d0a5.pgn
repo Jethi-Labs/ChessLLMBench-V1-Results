@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_06"]
+[Black "gpt-6-luna/board_02"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_16"]
+[OpeningName "Bishop's Opening, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp2ppp/2np1n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 6"]
+
+6. Na4 O-O 7. Nxc5 dxc5 8. Be3 Qd6 9. h3 h5 10. O-O a5 11. c3 b6 12. Bb5 Na7 13. Ba4 b5 14. Bc2 Nc6 15. Qe2 a4 16. a3 Bd7 17. Bg5 g6 18. Qe3 Nh7 19. Bh4 Ra5 20. Nd2 Rfa8 21. f4 exf4 22. Qe2 g5 23. Qxh5 gxh4 24. Qxh4 c4 25. Qxf4 cxd3 26. Qxd6 cxd6 27. Bxd3 Ne5 28. Be2 Nf8 29. h4 Bc6 30. h5 Kg7 31. c4 bxc4 32. Nxc4 Nxc4 33. Bxc4 R8a7 34. Bd5 Bxd5 35. exd5 Rxd5 36. Rad1 Rxh5 37. Rxd6 Ne6 38. Rc1 Rb5 39. Rd2 Rab7 40. Rcc2 f5 41. g3 Ng5 42. Rg2 Kf6 43. Rc6+ Ke5 44. Rcc2 Ne4 45. Rce2 Kd4 46. Rc2 Rg7 47. Kh2 Rb3 48. Rc8 Rbxg3 49. Rxg3 Nxg3 50. Ra8 Nf1+ 51. Kh1 Ng3+ 52. Kh2 Nf1+ 53. Kh1 Ng3+ 54. Kh2 1/2-1/2

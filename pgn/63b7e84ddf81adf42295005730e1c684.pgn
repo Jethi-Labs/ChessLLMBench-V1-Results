@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_10"]
+[Black "gpt-6-luna/board_06"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_28"]
+[OpeningName "Nimzo-Indian Defense, Classical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1q1rk1/pbpp1ppp/1p2pn2/6B1/2PP4/P1Q5/1P2PPPP/R3KBNR w KQ - 2 8"]
+
+8. Nf3 Bxf3 9. Qxf3 Nc6 10. O-O-O h5 11. e3 Na5 12. Be2 a6 13. Bxf6 Qxf6 14. Qxf6 gxf6 15. h4 c5 16. dxc5 bxc5 17. Rxd7 Rad8 18. Rhd1 Rxd7 19. Rxd7 f5 20. Rc7 f4 21. exf4 Nb3+ 22. Kb1 f5 23. Bxh5 a5 24. Bd1 Nd2+ 25. Kc1 Nxc4 26. Bb3 Nd6 27. Bxe6+ Kh8 28. Rxc5 Rf6 29. Bb3 Ne4 30. Rxa5 Nxf2 31. Bc2 Rh6 32. b4 Rxh4 33. Rxf5 Rg4 34. Rh5+ Kg7 35. Rg5+ Kf6 36. Rxg4 Nxg4 37. b5 Ke6 38. b6 Kd6 39. Ba4 Ne3 40. b7 Kc7 41. Bc6 Nf5 42. g4 Nd6 43. f5 Nf7 44. a4 Nd8 45. f6 Nxc6 46. f7 Kxb7 47. f8=Q Nb8 48. Qf7+ Kc6 49. Qc4+ Kd7 50. g5 Kd8 51. g6 Nd7 52. g7 Nf6 53. Qf7 Ng8 54. Qxg8+ Ke7 55. Qd5 Kf6 56. g8=Q Ke7 57. Qgf7# 1-0

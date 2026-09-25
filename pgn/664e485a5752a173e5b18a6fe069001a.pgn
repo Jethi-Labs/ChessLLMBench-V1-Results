@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_06"]
+[Black "gpt-5_6-luna/board_05"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_22"]
+[OpeningName "Slav Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp2pppp/2n2n2/3p1b2/3P1B2/2N2N2/PP2PPPP/R2QKB1R w KQkq - 6 7"]
+
+7. Qb3 Qb6 8. Qxb6 axb6 9. e3 Nh5 10. Nxd5 Ra5 11. Nxb6 Nxf4 12. exf4 e6 13. a3 Bb4+ 14. Kd1 Bg4 15. Nc4 Ra4 16. Ne5 Bxf3+ 17. Nxf3 Ra5 18. g3 b5 19. Rc1 Kd7 20. axb4 Nxb4 21. Ne5+ Ke7 22. Rc7+ Kd8 23. Rxf7 Ra1+ 24. Kd2 g6 25. Rb7 Kc8 26. Rxb5 Na6 27. b4 Nc7 28. Ra5 Rb1 29. Ba6+ Nxa6 30. Rxb1 Nc7 31. Rc1 Kb8 32. b5 Kb7 33. h4 Rd8 34. Kd3 Rd5 35. Rc5 Rxc5 36. dxc5 Nd5 37. Kc4 Kb8 38. Nc6+ Kc8 39. Ra7 h6 40. b6 h5 41. b7+ Kd7 42. b8=Q+ Kxc6 43. Qd6# 1-0

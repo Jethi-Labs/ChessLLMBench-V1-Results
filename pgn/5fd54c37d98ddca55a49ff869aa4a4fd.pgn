@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_10"]
+[Black "grok-4_3/board_01"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_18"]
+[OpeningName "Center Game, Simplified"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqr1k1/pppp1ppp/2n2n2/8/1b2P3/2N1Q3/PPPB1PPP/2KR1BNR w - - 9 8"]
+
+8. Nf3 Nxe4 9. Nxe4 Rxe4 10. Qxe4 Bxd2+ 11. Rxd2 d6 12. Bb5 Nb8 13. Nd4 d5 14. Qf4 a6 15. Ba4 a5 16. Bb5 a4 17. Rhd1 a3 18. bxa3 Rxa3 19. Kb1 b6 20. Ka1 c6 21. Qxb8 cxb5 22. Kb2 b4 23. Qf4 b5 24. Nxb5 Ra5 25. Rxd5 Rxa2+ 26. Kxa2 Be6 27. Qxb4 Bxd5+ 28. Ka1 f6 29. Qa4 f5 30. Nc3 Qa8 31. Rxd5 Qxa4+ 32. Nxa4 f4 33. Rf5 f3 34. Rxf3 g6 35. Nb6 g5 36. Rg3 g4 37. Rxg4+ Kf7 38. Nc4 h6 39. Nd6+ Ke6 40. Rg6+ Kd5 41. Rxh6 Kd4 42. Re6 Kc3 43. Re2 Kb4 44. Ka2 Kc3 45. Ka3 Kd4 46. Ka4 Kc3 47. Ka3 Kd4 48. Ka4 Kc3 49. Ka3 1/2-1/2

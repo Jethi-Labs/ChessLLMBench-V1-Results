@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_06"]
+[Black "gpt-6-astra/board_04"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_16"]
+[OpeningName "Bishop's Opening, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp2ppp/2np1n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 6"]
+
+6. Na4 Bb6 7. Nxb6 axb6 8. Be3 Ng4 9. Bc1 Nf6 10. Be3 Ng4 11. Bg5 Nf6 12. h4 h6 13. Bxf6 Qxf6 14. a4 Ke7 15. c3 Bg4 16. b4 g6 17. b5 Na5 18. Ba2 h5 19. d4 c5 20. dxe5 dxe5 21. Bd5 Rhd8 22. Rg1 Kf8 23. Qe2 Rd7 24. Rh1 Bxf3 25. Qxf3 Qxf3 26. gxf3 Rd6 27. c4 f5 28. Rg1 f4 29. Rg5 Re8 30. Ra3 Kg7 31. Rc3 Kf6 32. Ke2 Red8 33. Rd3 Ra8 34. Rc3 Nc6 35. bxc6 bxc6 36. Ra3 cxd5 37. exd5 b5 38. cxb5 c4 39. Rg1 Rxd5 40. b6 Rad8 41. b7 Rd2+ 42. Kf1 Rb8 43. Rc3 Rd4 44. a5 Rxb7 45. a6 Rb2 46. Ra3 Rd3 47. Rxd3 cxd3 48. Kg2 Ra2 49. Rd1 Rxa6 50. Rxd3 g5 51. Kh3 Ra2 52. hxg5+ Kxg5 53. Kg2 Ra7 54. Rd8 Rc7 55. Rg8+ Kf5 56. Rh8 Kg6 57. Kf1 Rc2 58. Ke1 Ra2 59. Re8 Ra5 60. Rh8 Ra1+ 61. Ke2 Ra2+ 62. Ke1 Ra5 63. Kd1 Kg5 64. Rg8+ Kf6 65. Rh8 Ra1+ 66. Kd2 Rf1 67. Ke2 Rh1 68. Rh6+ Kf5 69. Rh8 h4 70. Rf8+ Ke6 71. Re8+ Kf6 72. Rf8+ Ke7 73. Rb8 h3 74. Rb7+ Kf6 75. Rb6+ Kf5 76. Rh6 h2 77. Kd2 Kg5 78. Rh7 Kf6 79. Rh8 Kg6 80. Kd3 Rd1+ 81. Ke4 h1=Q 82. Rxh1 Rxh1 83. Kxe5 Kg5 84. Kd5 Kf5 85. Kd4 Rh2 86. Kd5 Rxf2 87. Kd4 Rxf3 88. Kd5 Re3 89. Kd4 Re4+ 90. Kc5 f3 91. Kd5 f2 92. Kd6 f1=Q 93. Kd5 Qd3+ 94. Kc5 Rc4+ 95. Kb5 Qb3+ 96. Ka5 Ra4# 0-1

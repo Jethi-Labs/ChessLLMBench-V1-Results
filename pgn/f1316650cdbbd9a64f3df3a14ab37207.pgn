@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_3/board_04"]
+[Black "Mistral-Large-3/board_01"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_26"]
+[OpeningName "Semi-Slav Defense, Meran"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/p2n1ppp/2pbpn2/1p6/3P4/2NBPN2/PP3PPP/R1BQK2R w KQkq - 2 9"]
+
+9. a3 Nh5 10. b3 Bxa3 11. g4 Bb4 12. Bb2 c5 13. gxh5 c4 14. bxc4 e5 15. Bf5 e4 16. Ng1 bxc4 17. h3 Qg5 18. Bxe4 Nb6 19. Ne2 Nd7 20. h4 Qa5 21. f3 Nc5 22. dxc5 Bg4 23. fxg4 Rb8 24. Ba3 a6 25. Bxb4 Rb5 26. Bxa5 Rb4 27. Bc6+ Kf8 28. Bxb4 f6 29. e4 g5 30. e5 a5 31. e6 Rg8 32. h6 Rg6 33. Qd6+ Kg8 34. Qb8# 1-0

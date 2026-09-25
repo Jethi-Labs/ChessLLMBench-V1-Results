@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_04"]
+[Black "gpt-6-luna/board_03"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_04"]
+[OpeningName "Petroff Defense, 3.d4 Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qk2r/pppb1ppp/3b4/3p4/3Pn3/3B4/PPP2PPP/RNBQ1RK1 w kq - 2 8"]
+
+8. c4 Qh4 9. g3 Qf6 10. Be3 Bh3 11. cxd5 Bxf1 12. Qxf1 Ng5 13. Qe2 O-O 14. f4 Nh3+ 15. Kg2 Qh6 16. f5 Bf4 17. gxf4 Nxf4+ 18. Bxf4 Qxf4 19. Qf2 Qg5+ 20. Qg3 Qc1 21. Qf2 Rad8 22. Be4 g6 23. fxg6 fxg6 24. Qd2 Qf1+ 25. Kg3 Qg1+ 26. Bg2 Rxd5 27. Nc3 Rxd4 28. Rxg1 Rxd2 29. Bxb7 Rxb2 30. Bd5+ Kh8 31. Rg2 Rb4 32. h4 Rd4 33. Be4 c5 34. a4 Rb8 35. Rf2 Rb3 36. Rf8+ Kg7 37. Rf3 Rxc3 38. Rxc3 Rxe4 39. Rxc5 Rxa4 40. Rc7+ Kh6 41. Kh3 a5 42. Rc2 Ra1 43. Rc8 a4 44. Ra8 Kh5 45. Ra5+ Kh6 46. Ra8 a3 47. Ra7 a2 48. Kh2 g5 49. hxg5+ Kxg5 50. Ra5+ Kf4 51. Ra4+ Kf5 52. Ra5+ Ke4 53. Ra8 h5 54. Ra7 h4 55. Ra8 Kf4 56. Ra7 Kf5 57. Ra4 Kf6 58. Ra6+ Kf5 59. Ra4 Ke5 60. Kg2 Ke6 61. Kh2 Kf5 62. Ra8 Kg5 63. Ra4 Kf6 64. Rf4+ Kg5 65. Ra4 Kf5 66. Ra8 Kg4 67. Rg8+ Kf4 68. Rf8+ Ke5 69. Re8+ Kd4 70. Ra8 Kc4 71. Ra3 Kb4 72. Ra6 Kb3 73. Rb6+ Kc4 74. Ra6 Kb3 75. Rb6+ Kc2 76. Ra6 Kc3 77. Ra8 Kb3 78. Rb8+ Kc4 79. Ra8 Kb3 80. Rb8+ Kc4 81. Ra8 Kd5 82. Ra6 Kc5 83. Ra7 Kb5 84. Ra8 Kc5 85. Ra4 Kb6 86. Ra8 Kc6 87. Ra5 Kd6 88. Ra7 Kc5 89. Ra8 Kd4 90. Ra3 Kc5 91. Ra8 Kb5 92. Rb8+ Ka4 93. Ra8+ Kb5 94. Kg2 Kc6 95. Ra4 Kb6 96. Kh2 Kb5 97. Ra8 Kc5 98. Kg2 Kb4 99. Kh2 Kc4 100. Rc8+ Kd3 101. Ra8 Ke4 102. Kg2 h3+ 103. Kh2 Kd5 104. Ra6 Kc4 105. Ra3 Kc5 106. Ra6 Kb4 107. Ra7 Kb5 108. Ra8 Kc6 109. Ra7 Kb6 110. Ra4 Kc6 111. Ra5 Kb6 112. Ra4 Kc6 113. Ra5 Kd6 114. Ra8 Kc5 115. Ra3 Kb4 116. Ra8 Kb5 117. Ra7 Kb4 118. Ra8 Kb3 119. Rb8+ Kc4 120. Rc8+ Kd5 121. Ra8 Kd4 122. Ra7 Kd5 123. Ra6 Kc4 124. Ra7 Kd4 125. Ra8 Ke4 126. Ra4+ Ke3 127. Ra5 Ke4 128. Ra8 Kd3 129. Rd8+ Ke3 130. Ra8 Kd3 131. Ra5 Kc4 132. Ra8 Kb3 133. Rb8+ Kc4 134. Rc8+ Kd5 135. Ra8 Kd4 136. Ra4+ Kc5 137. Ra8 Kb4 138. Ra7 Kb3 139. Rb7+ Kc3 140. Rc7+ Kd4 141. Ra7 Kc3 142. Ra8 Kc2 143. Rc8+ Kd2 144. Ra8 Ke3 145. Ra4 Kf3 146. Ra7 Ke3 147. Ra8 Ke4 148. Ra6 Ke5 149. Ra8 Kf4 150. Ra3 Re1 151. Rxa2 Re3 152. Ra8 Kg4 153. Rg8+ Kf4 154. Rg7 Rd3 155. Rg8 Rb3 156. Rg6 Rd3 157. Rg8 Rb3 158. Rg6 Re3 159. Rg7 Rb3 160. Rg6 1/2-1/2

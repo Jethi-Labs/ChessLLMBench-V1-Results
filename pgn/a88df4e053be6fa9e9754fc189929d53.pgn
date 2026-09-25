@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-sol/board_01"]
+[Black "DeepSeek-V4-Pro/board_01"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "TIMEOUT"]
+[OpeningId "opening_49"]
+[OpeningName "Queen's Gambit Accepted, Queenless Ending"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnb1k2r/1p3ppp/p3pn2/2b5/2B5/4PN2/PP3PPP/RNBR2K1 w kq - 0 9"]
+
+9. a3 b5 10. Bd3 Nc6 11. b4 Na7 12. bxc5 Ne4 13. Bxe4 Nc6 14. Bxc6+ Ke7 15. Bxa8 Bb7 16. Bxb7 Rb8 17. Bxa6 Rb7 18. Bxb7 b4 19. c6 bxa3 20. c7 a2 21. c8=Q Kf6 22. Qd8+ 1-0

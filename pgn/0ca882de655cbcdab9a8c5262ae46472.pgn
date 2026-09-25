@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_06"]
+[Black "gpt-6-astra/board_09"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_45"]
+[OpeningName "Four Knights Game, Forcing Line"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqkbnr/pp3ppp/2p3n1/3BP3/3P4/2N5/PPP2PPP/R1BQK2R w KQkq - 0 9"]
+
+9. h4 cxd5 10. Qd2 Nxh4 11. Qf4 Nxg2+ 12. Kf1 Nxf4 13. Ne2 Nxe2 14. f3 Nxd4 15. Bf4 g5 16. Rd1 Nxf3 17. Rd3 gxf4 18. Ke2 Nxe5 19. Kf2 Nxd3+ 20. Kf3 Qb6 21. Rf1 Qe3+ 22. Kg2 Qh3+ 23. Kg1 Bc5+ 24. Rf2 Bxf2# 0-1

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_05"]
+[Black "gpt-5_6-sol/board_08"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_38"]
+[OpeningName "English Opening, Reversed Sicilian"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp1bppp/1nn5/4p3/8/2N2NP1/PP1PPPBP/R1BQ1RK1 w kq - 4 8"]
+
+8. a4 O-O 9. Qb3 Be6 10. Nd5 Bxd5 11. Nxe5 Bxb3 12. Nxf7 Rxf7 13. Be4 Bxa4 14. Bxh7+ Kxh7 15. e3 Bb4 16. b3 Bxb3 17. Ra5 Bxa5 18. h3 Nc4 19. f3 Bxd2 20. Rf2 Bxc1 21. Kh2 Qd1 22. Ra2 Bxa2 23. f4 Nxe3 24. h4 Qe2+ 25. Kh3 Qg2# 0-1

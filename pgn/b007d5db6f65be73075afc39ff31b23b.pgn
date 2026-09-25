@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-luna/board_09"]
+[Black "gpt-5_6-terra/board_06"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_33"]
+[OpeningName "London System, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1qk2r/ppp2ppp/3bpnb1/3p4/3P4/3BPNB1/PPP2PPP/RN1QK2R w KQkq - 6 7"]
+
+7. a4 O-O 8. c4 Bxd3 9. Bxd6 Qxd6 10. Qxd3 Qb4+ 11. Nbd2 dxc4 12. Qxc4 Qxb2 13. Rb1 Qa3 14. Rxb7 Nbd7 15. g4 Nb6 16. Qf1 Qc1+ 17. Ke2 Qc6 18. Rxb6 axb6 19. g5 Nd5 20. h4 Rxa4 21. e4 Qb5+ 22. Kd1 Ra1+ 23. Kc2 Nb4+ 24. Kb2 Rxf1 25. Rxf1 f5 26. e5 c5 27. dxc5 Nc6+ 28. Kc3 Qxc5+ 29. Kb2 Nb4 30. Nb3 Nd3+ 31. Ka2 Qc2+ 32. Ka3 Ra8+ 33. Na5 Rxa5# 0-1

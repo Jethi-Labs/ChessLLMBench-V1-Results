@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_08"]
+[Black "gpt-6-luna/board_01"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_26"]
+[OpeningName "Semi-Slav Defense, Meran"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/p2n1ppp/2pbpn2/1p6/3P4/2NBPN2/PP3PPP/R1BQK2R w KQkq - 2 9"]
+
+9. Nxb5 cxb5 10. Qe2 b4 11. Bd2 h5 12. O-O a5 13. Rab1 Nd5 14. Kh1 f5 15. Bc4 h4 16. Bxd5 exd5 17. Rg1 Ba6 18. Qd1 g5 19. Qc2 g4 20. Ne5 Nxe5 21. dxe5 Bxe5 22. Qxf5 Qf6 23. Qxf6 Bxf6 24. Bc1 Bd3 25. Ra1 Be4 26. a3 b3 27. Rd1 h3 28. Rd2 hxg2+ 29. Kg1 Be5 30. h3 Bh2+ 31. Kxh2 Rxh3+ 32. Kg1 Rh1# 0-1

@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_06"]
+[Black "gpt-5_6-terra/board_07"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. Nc3 d5 2. e4 dxe4 3. Nxe4 a5 4. a4 f5 5. Nc5 e5 6. Nd3 e4 7. Ne5 Nf6 8. f4 Nbd7 9. Bc4 Nxe5 10. fxe5 Qd4 11. exf6 Qxc4 12. d3 Qc6 13. Qh5+ g6 14. Qg5 Qxc2 15. dxe4 Bb4+ 16. Bd2 Qxb2 17. Rd1 fxe4 18. g4 Bxd2+ 19. Rxd2 Qa1+ 20. Rd1 Qxa4 21. Qe5+ Be6 22. Qxe6+ Kf8 23. Qe7+ Kg8 24. Qg7# 1-0

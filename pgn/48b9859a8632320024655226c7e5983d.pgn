@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_09"]
+[Black "grok-4_6/board_02"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_15"]
+[OpeningName "Alekhine Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp1bppp/1n1p4/8/2PP4/2NB4/PP3PPP/R1BQK1NR w KQ - 4 8"]
+
+8. a4 Nc6 9. a5 Nd7 10. Nge2 Nf6 11. f4 Kh8 12. Ra4 Bg4 13. h3 Bxe2 14. Nxe2 d5 15. c5 Ne4 16. g3 Bf6 17. Qc2 Re8 18. O-O Qd7 19. g4 Rab8 20. g5 Bd8 21. Rf3 Qf5 22. Kg2 Qg6 23. b4 Qe6 24. b5 Ne7 25. Re3 Nf5 26. Rxe4 dxe4 27. Bc4 Qd7 28. d5 Nh4+ 29. Kg3 Nf3 30. Rb4 Qe7 31. Bb3 Ne1 32. Qc3 Nd3 33. Rc4 Qd7 34. Rxe4 Rxe4 35. Qxd3 Re6 36. Bc4 Re7 37. Kh2 Ra8 38. Bd2 Rc8 39. Nd4 Rb8 40. Nf5 Re8 41. h4 Be7 42. Nxe7 Rxe7 43. f5 Ra8 44. Bc3 Ree8 45. Qd4 Rg8 46. f6 g6 47. c6 bxc6 48. dxc6 Qxd4 49. Bxd4 Rgf8 50. a6 Kg8 51. Bc3 Rfe8 52. Bd5 Rab8 53. Bc4 Re4 54. Bf1 Rxh4+ 55. Kg3 Rh1 56. Kg2 Rh5 57. Bd2 Rh4 58. Be3 Ra8 59. Kg3 Rb4 60. Kh2 Re4 61. Bd2 Kh8 62. Kg1 Rd4 63. Be3 Rd1 64. Kf2 Rd5 65. Bc4 Rf5+ 66. Kg2 Re5 67. Kf2 Kg8 68. Bd3 Rd8 69. Bc4 Re4 70. Bf1 Ra8 71. Bd3 Rb4 72. Be2 Kh8 73. Bd2 Rb3 74. Be3 Rb2 75. Bd4 Rc2 76. Kf1 Rd2 77. Be3 Rb2 78. Bf4 Re8 79. Bd3 Rb3 80. Be2 Rb1+ 81. Kf2 Rb2 82. Be3 Rc2 83. b6 axb6 84. a7 Ra8 85. Bd4 Rxa7 86. Ke1 Raa2 87. Bd1 Rxc6 88. Bb3 Rc1+ 89. Bd1 Rh2 90. Be5 Rh1+ 91. Ke2 b5 92. Bf4 Rcxd1 93. Bxc7 Rc1 94. Bf4 Rcf1 95. Bd2 Rf5 96. Be3 Rh4 97. Kd3 Rc4 98. Kd2 Rc7 99. Ke2 Rc3 100. Bd2 Rg3 101. Kd1 Rc5 102. Bf4 Rgxg5 103. Bxg5 Rxg5 104. Ke2 Rf5 105. Ke1 Rxf6 106. Kd2 Rf3 107. Ke2 b4 108. Ke1 b3 109. Kd2 b2 110. Kc2 Rb3 111. Kxb3 b1=Q+ 112. Kc3 Qe4 113. Kb2 Qd3 114. Ka2 Qc3 115. Kb1 Kg7 116. Ka2 Qb4 117. Ka1 Kg8 118. Ka2 Kh8 119. Ka1 Qe1+ 120. Kb2 Qb4+ 121. Kc1 Kg8 122. Kc2 Qc4+ 123. Kd1 Qa2 124. Ke1 Kh8 125. Kf1 Qh2 126. Ke1 Qg2 127. Kd1 Qf2 128. Kc1 Qa2 129. Kd1 Qg2 130. Ke1 Kg8 131. Kd1 Qf2 132. Kc1 Kh8 133. Kd1 Qe3 134. Kc2 Qa3 135. Kd2 Qf3 136. Kc1 Qe2 137. Kb1 Qd2 138. Ka1 Qf2 139. Kb1 Qe2 140. Kc1 Kg7 141. Kb1 Qd2 142. Ka1 Kg8 143. Kb1 Kg7 144. Ka1 Kg8 145. Kb1 Kg7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_06"]
+[Black "gpt-5_6-luna/board_03"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_03"]
+[OpeningName "Petroff Defense, Classical Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQ1RK1 w - - 4 8"]
+
+8. Ne5 Nc6 9. a3 Nxd4 10. b4 Bxe5 11. Re1 Nxc2 12. h3 Nxe1 13. Ba6 Bxa1 14. Bf4 bxa6 15. b5 Nxg2 16. h4 Nxf4 17. a4 Qxh4 18. Qh5 Qxf2+ 19. Kh1 Qg2# 0-1

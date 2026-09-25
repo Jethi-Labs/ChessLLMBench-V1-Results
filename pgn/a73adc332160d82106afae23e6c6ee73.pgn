@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-luna/board_04"]
+[Black "Mistral-Large-3/board_07"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_03"]
+[OpeningName "Petroff Defense, Classical Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQ1RK1 w - - 4 8"]
+
+8. Nc3 c5 9. Bxe4 dxe4 10. Nxe4 Bf4 11. Bxf4 cxd4 12. Nxd4 Nd7 13. Bd6 Nc5 14. Bxc5 g5 15. Bxf8 f5 16. Nxg5 f4 17. Bh6 Qxg5 18. Bxg5 Bd7 19. Bxf4 Rc8 20. h4 a6 21. b4 Rc4 22. Bd6 Be8 23. f4 Bg6 24. f5 Bh5 25. g4 Bf7 26. a4 h6 27. a5 Bd5 28. Rb1 Rc8 29. h5 Rd8 30. Be7 Rd7 31. f6 Ba2 32. Rb2 Bc4 33. Rf4 Bd5 34. c3 Bc4 35. Rbf2 Bf7 36. Qd3 Rc7 37. R4f3 Rc4 38. Kh1 Rc7 39. Rf5 Rd7 40. c4 Rc7 41. c5 Rd7 42. R2f3 Rd5 43. Rxd5 Bxd5 44. Qg6+ Kh8 45. Qe8+ Kh7 46. Qg6+ Kh8 47. Qe8+ Kh7 48. Qg6+ Kh8 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_03"]
+[Black "gpt-6-luna/board_09"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_02"]
+[OpeningName "Four Knights Game, Scotch Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/p1p2ppp/5n2/3p4/1b6/2NB4/PPP2PPP/R1BQ1RK1 w - - 2 10"]
+
+10. Bg5 Bxc3 11. bxc3 h6 12. Bxf6 Qxf6 13. Kh1 Qxc3 14. Qh5 Be6 15. Bf5 Rae8 16. Bxe6 fxe6 17. Qg6 a5 18. Rae1 e5 19. Rd1 c6 20. Qd3 Qxd3 21. Rxd3 Rb8 22. Rd2 e4 23. Ra1 g5 24. Re1 Rb2 25. Ra1 a4 26. Re2 h5 27. Kg1 a3 28. Kf1 d4 29. Kg1 d3 30. Rxe4 dxc2 31. Ree1 Rxf2 32. Rac1 Rd2 33. Re8+ Kg7 34. Re7+ Kf6 35. Ree1 Rxa2 36. Re8 Rd1+ 37. Re1 Rxc1 38. Rxc1 Rb2 39. Rf1+ Kg7 40. Rc1 Rb1 41. Kf2 Rxc1 42. Kf3 Rf1+ 43. Ke4 c1=Q 44. Ke5 Qd2 45. Ke4 Re1+ 46. Kf3 Re3# 0-1

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_06"]
+[Black "gpt-5_6-luna/board_04"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_40"]
+[OpeningName "Réti Opening, Double Fianchetto"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1q1rk1/pbp1bppp/1p2pn2/3p4/2P5/1P3NP1/PB1PPPBP/RN1Q1RK1 w - - 1 8"]
+
+8. a4 c5 9. h4 Ne4 10. d3 Nd6 11. Nbd2 h5 12. Ne5 f6 13. Ng6 Re8 14. cxd5 exd5 15. e3 a5 16. Qxh5 f5 17. Qh8+ Kf7 18. Qxg7+ Ke6 19. Nf4+ Kd7 20. Nxd5 Ke6 21. Qg6+ Kd7 22. Nc4 Nxc4 23. Qxf5+ Kd6 24. Qg6+ Bf6 25. bxc4 Re5 26. Nxf6 Nc6 27. Bxc6 Bxc6 28. Bxe5+ Ke7 29. Nd5+ Kd7 30. Qd6+ Ke8 31. Qxc6+ Kf7 32. Qb7+ Ke6 33. Bf4 Rc8 34. Nxb6 Kf5 35. Qe4+ Kf6 36. Bg5+ Kg7 37. Bxd8 Rxd8 38. Qe7+ Kg8 39. Qxd8+ Kf7 40. Nd7 Kg6 41. Nxc5 Kg7 42. f4 Kg6 43. d4 Kg7 44. e4 Kg6 45. g4 Kh6 46. Rab1 Kg7 47. Rb7+ Kh6 48. Qg5# 1-0

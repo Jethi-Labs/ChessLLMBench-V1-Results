@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_04"]
+[Black "gpt-5_6-sol/board_07"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_38"]
+[OpeningName "English Opening, Reversed Sicilian"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp1bppp/1nn5/4p3/8/2N2NP1/PP1PPPBP/R1BQ1RK1 w kq - 4 8"]
+
+8. h4 O-O 9. a4 Be6 10. e4 f5 11. d3 a5 12. Ng5 Bxg5 13. Bxg5 Qd4 14. Be3 Qb4 15. exf5 Bxf5 16. Ra2 Be6 17. Bxb6 Bxa2 18. Bxc7 Qxb2 19. Nxa2 Qxa2 20. Bxc6 bxc6 21. Bxe5 Rad8 22. g4 c5 23. g5 Qa3 24. Qc2 Rxd3 25. Qc4+ Rf7 26. Rb1 Rd8 27. Bc3 g6 28. f4 Kf8 29. Ra1 Qxa1+ 30. Bxa1 Rd1+ 31. Kf2 Rxa1 32. Qxc5+ Kg8 33. Qc8+ Rf8 34. Qc4+ Rf7 35. Qc8+ Rf8 36. Qc4+ Rf7 37. Ke3 Re1+ 38. Kd3 Rd1+ 39. Ke3 Rd8 40. Qb5 Rf5 41. Qc4+ Kf8 42. Qc7 Re8+ 43. Kd3 Re7 44. Qc8+ Kf7 45. Qc4+ Re6 46. Qc7+ Re7 47. Qc4+ Re6 48. Qc7+ Re7 49. Qd6 Ke8 50. Qc6+ Kd8 51. Qb6+ Ke8 52. Qc6+ Kd8 53. Qb6+ Kd7 54. Qa7+ Kd6 55. Qa6+ Kd7 56. Qa7+ Kd6 57. Qb6+ Kd7 58. Qb7+ Kd8 59. Qb8+ Kd7 60. Kd4 Re6 61. Qb7+ Kd8 62. Qb8+ Kd7 63. Qb7+ Kd6 64. Qb6+ Kd7 65. Qa7+ Kd8 66. Qb8+ Kd7 1/2-1/2

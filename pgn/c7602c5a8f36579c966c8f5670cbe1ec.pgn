@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-sol/board_02"]
+[Black "DeepSeek-V4-Pro/board_10"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_40"]
+[OpeningName "Réti Opening, Double Fianchetto"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1q1rk1/pbp1bppp/1p2pn2/3p4/2P5/1P3NP1/PB1PPPBP/RN1Q1RK1 w - - 1 8"]
+
+8. cxd5 Nxd5 9. e4 Nb4 10. Nc3 Qd3 11. Ne1 Qd4 12. Nd5 Qxb2 13. Nxe7+ Kh8 14. a4 Qf6 15. e5 Qxe5 16. Bxb7 N8c6 17. Nxc6 Nxc6 18. Bxc6 Rac8 19. Rc1 Qb2 20. Bd7 Rcd8 21. Rxc7 Qe5 22. Qc2 Qe2 23. Rxa7 e5 24. d4 Qxc2 25. Nxc2 exd4 26. Nxd4 Rg8 27. Nc6 Ra8 28. Ne5 Rxa7 29. Nxf7# 1-0

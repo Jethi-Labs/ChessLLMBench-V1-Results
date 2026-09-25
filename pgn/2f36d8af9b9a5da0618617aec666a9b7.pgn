@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_09"]
+[Black "gpt-6-sol/board_02"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_42"]
+[OpeningName "Bird's Opening, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1qkb1r/pbpp2pp/1p2pn2/5p2/5P2/1P2PN2/PBPP2PP/RN1QKB1R w KQkq - 2 6"]
+
+6. Nc3 Nc6 7. a4 Bb4 8. Bd3 O-O 9. O-O d5 10. Ba3 Nd7 11. Nd4 Qe7 12. Nxc6 Bxc6 13. Bxb4 Qxb4 14. Nb5 Bxb5 15. Bxb5 Nc5 16. d4 Ne4 17. c4 Nd2 18. Bd7 Nxf1 19. Bxe6+ Kh8 20. Kxf1 dxc4 21. Bxc4 Rfe8 22. Qe1 Qd6 23. h3 Re7 24. Qd2 Rae8 25. Re1 a5 26. g4 Qd7 27. g5 c6 28. Kg2 b5 29. Bd3 Qd5+ 30. Kf2 b4 31. Bc4 Qd6 32. Kg2 h6 33. h4 g6 34. Kg3 hxg5 35. hxg5 Kg7 36. d5 cxd5 37. Qd4+ Kf8 38. Qh8+ Kf7 39. Qh7+ Kf8 40. Qh8+ Kf7 41. Qh7+ Kf8 42. Qh8+ 1/2-1/2

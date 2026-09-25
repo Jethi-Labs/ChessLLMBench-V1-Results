@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_08"]
+[Black "gpt-5_6-luna/board_05"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_11"]
+[OpeningName "Philidor Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp1bppp/3p1n2/8/3NP3/2N5/PPP1BPPP/R1BQ1RK1 b - - 6 7"]
+
+7... c5 8. a3 cxd4 9. f3 dxc3 10. b3 Nc6 11. Be3 a5 12. Bc4 Ne5 13. Kh1 g5 14. g3 Bh3 15. a4 Nxc4 16. Qd5 Nxd5 17. Bd4 Bxf1 18. f4 Bf6 19. h4 Bxd4 20. exd5 Ne3 21. fxg5 Bg2+ 22. Kh2 Bxd5 23. g4 Nxg4+ 24. Kg3 f5 25. Rd1 Be5+ 26. Kh3 Nf2# 0-1

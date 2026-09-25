@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_06"]
+[Black "gpt-5_6-luna/board_09"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_17"]
+[OpeningName "Vienna Game, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk1nr/ppp2pbp/2np2p1/4p3/4P3/2NP2P1/PPP2PBP/R1BQK1NR w KQkq - 0 6"]
+
+6. Nf3 a5 7. O-O f5 8. exf5 gxf5 9. Nh4 h5 10. Re1 Nd4 11. Be3 c5 12. Ng6 Rh7 13. Nf4 Nf6 14. a4 Kf7 15. Nfd5 Nxd5 16. Bxd5+ Kg6 17. h4 Bh6 18. Bxd4 cxd4 19. Nb5 Bg7 20. b3 Bf6 21. Qf3 Be7 22. Na3 Bf6 23. Qe2 f4 24. Be4+ Bf5 25. Bxf5+ Kxf5 26. Qe4+ Ke6 27. Qxh7 Qg8 28. Qxh5 fxg3 29. Nb5 Kd5 30. Qf3+ Ke6 31. fxg3 Bxh4 32. Nxd4+ Ke7 33. Qxb7+ Kf6 34. Rf1+ Kg5 35. Qe7+ Kg6 36. Qxh4 exd4 37. Rf6+ Kg7 38. Qh6# 1-0

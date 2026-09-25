@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_07"]
+[Black "grok-4_3/board_01"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_07"]
+[OpeningName "Ruy Lopez, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1b1kbnr/1pp3pp/p4p2/2p5/4P3/1N6/PPP2PPP/RNBR2K1 b kq - 0 9"]
+
+9... b6 10. Nxc5 bxc5 11. Bf4 c4 12. Bxc7 Bg4 13. Rd4 c3 14. Nxc3 a5 15. Bd8 f5 16. e5 a4 17. Rxg4 fxg4 18. Nxa4 Rxd8 19. Nc5 Bxc5 20. Kh1 Bxf2 21. Rb1 g3 22. b3 gxh2 23. Kxh2 g6 24. Rc1 g5 25. Ra1 g4 26. Rb1 g3+ 27. Kh3 h6 28. a3 h5 29. Rf1 Be3 30. Rf3 Bc1 31. Rxg3 Ne7 32. Rc3 h4 33. g4 hxg3+ 34. Kxg3 Nd5 35. e6 Nxc3 36. Kf2 Bxa3 37. Kf1 Nb1 38. Kg1 Nd2 39. Kf2 Nb1 40. Kf1 Rd2 41. Kg1 Nc3 42. Kf1 Rh1# 0-1

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_01"]
+[Black "gpt-6-astra/board_09"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_08"]
+[OpeningName "Ruy Lopez, Berlin Wall Ending"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bk1b1r/ppp2ppp/2p5/4Pn2/8/5N2/PPP2PPP/RNB2RK1 w - - 0 9"]
+
+9. a3 Be6 10. b3 f6 11. b4 a5 12. g4 Ne7 13. bxa5 Bxg4 14. a4 Bxf3 15. a6 Rxa6 16. a5 fxe5 17. Na3 Rxa5 18. c4 Kc8 19. c5 Nd5 20. h4 Bxc5 21. Be3 Nxe3 22. Nb5 Rxa1 23. Rb1 Rxb1+ 24. Kh2 Ng4+ 25. Kg3 Rg1+ 26. Kxf3 Rf8+ 27. Ke2 Rxf2+ 28. Kd3 Rg3+ 29. Kc4 Rc2+ 30. Nc3 Rgxc3# 0-1

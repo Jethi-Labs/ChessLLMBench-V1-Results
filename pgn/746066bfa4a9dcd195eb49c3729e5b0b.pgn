@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-sol/board_08"]
+[Black "gpt-5_6-sol/board_08"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. Nf3 Nc6 2. c4 Nf6 3. Nc3 e6 4. h4 Bd6 5. Nb5 Bc5 6. d4 Bb4+ 7. Bd2 Bxd2+ 8. Qxd2 O-O 9. Qf4 Ne8 10. d5 Nb4 11. Qd2 Qe7 12. d6 cxd6 13. Qxb4 a5 14. Qd2 b6 15. b3 Ba6 16. a4 Bxb5 17. axb5 h5 18. g3 Rb8 19. b4 Qf6 20. Ra4 Ra8 21. bxa5 Qd8 22. a6 Rc8 23. a7 Ra8 24. Nd4 Qc7 25. Qa2 Qc5 26. e3 Rc8 27. a8=R Rxa8 28. Rxa8 Qb4+ 29. Qd2 Qxd2+ 30. Kxd2 Nf6 31. Rxf8+ Kxf8 32. Bg2 Ng4 33. f4 Ne5 34. fxe5 dxe5 35. Ne2 Ke7 36. Nc3 g6 37. Na4 Kd8 38. Nxb6 Kc7 39. Na4 f5 40. b6+ Kd8 41. Rb1 Kc8 42. Nc5 d5 43. b7+ Kb8 44. Rb6 e4 45. Na6+ Ka7 46. b8=Q# 1-0

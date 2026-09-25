@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-luna/board_05"]
+[Black "DeepSeek-V4-Flash/board_01"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_22"]
+[OpeningName "Slav Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp2pppp/2n2n2/3p1b2/3P1B2/2N2N2/PP2PPPP/R2QKB1R w KQkq - 6 7"]
+
+7. Nh4 Be4 8. Qa4 Qa5 9. Qxa5 Nxa5 10. b4 Nh5 11. Bc1 Nc6 12. f3 Nxd4 13. Kd2 Bf5 14. Nxf5 Nxf5 15. g4 Nhg3 16. Rg1 Nxf1+ 17. Rxf1 Nh6 18. g5 Ng8 19. Bb2 h6 20. gxh6 Rxh6 21. Nxd5 Rd8 22. e4 e6 23. Rae1 exd5 24. exd5+ Ne7 25. Kc1 Rxh2 26. Rxe7+ Bxe7 27. Bxg7 Rxa2 28. Kb1 Re2 29. Rh1 Bxb4 30. Rh8+ Kd7 31. Rxd8+ Kxd8 32. Bf6+ Kd7 33. Bd4 a5 34. f4 Rd2 35. Bb2 Rxd5 36. Bf6 Rf5 37. Be5 Bf8 38. Bc3 Ke8 39. Ka1 Rxf4 40. Ka2 Rf2+ 41. Ka1 Rf5 42. Bb2 Rf2 43. Bd4 Rf5 44. Bb6 Rf3 45. Bc7 Ke7 46. Kb1 Rf5 47. Ka2 Rb5 48. Bf4 Rd5 49. Bc1 Re5 50. Bb2 Re6 51. Ba3+ Ke8 52. Bxf8 Kxf8 53. Kb1 Rb6+ 54. Kc1 a4 55. Kd2 Rc6 56. Kd1 Rb6 57. Ke1 Rc6 58. Kf1 Rb6 59. Kg1 Rc6 60. Kg2 Rb6 61. Kg1 Rc6 62. Kf1 Rb6 63. Ke2 Rc6 64. Kd1 Rb6 65. Kc2 a3 66. Kd3 Rc6 67. Ke3 Kg8 68. Ke2 Rb6 69. Kf3 Rc6 70. Kg4 Rb6 71. Kf3 Rc6 72. Ke2 Rb6 73. Kf3 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_05"]
+[Black "gpt-5_6-sol/board_06"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_30"]
+[OpeningName "Gruenfeld Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/pp2ppbp/6p1/2p5/3PP3/2P2N2/P3BPPP/1RBQK2R b K - 3 9"]
+
+9... Nc6 10. Bd3 cxd4 11. a4 dxc3 12. Nh4 Ne5 13. Bc2 Qxd1+ 14. Bxd1 f5 15. Bg5 Nd3+ 16. Kf1 fxe4 17. Be3 g5 18. a5 gxh4 19. h3 Rf5 20. f3 exf3 21. Bxf3 c2 22. Rc1 Nxc1 23. g3 Rxf3+ 24. Bf2 Bd4 25. g4 Rxf2+ 26. Ke1 Nd3# 0-1

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_09"]
+[Black "gpt-6-astra/board_01"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_13"]
+[OpeningName "Sicilian Defense, Alapin Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r3kb1r/pp3ppp/2n1pn2/2pq4/3P2b1/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 2 8"]
+
+8. h3 Bf5 9. c4 Qd7 10. dxc5 Bxc5 11. g4 Qxd1 12. Rxd1 Bc2 13. Rf1 h5 14. g5 Ne4 15. Nbd2 Ng3 16. Re1 O-O-O 17. Bd1 Bxd1 18. Rxd1 Ne2+ 19. Kf1 Nf4 20. Ng1 f6 21. h4 fxg5 22. hxg5 h4 23. Ne2 Nxe2 24. Kxe2 Rhf8 25. Rf1 Nd4+ 26. Kd1 Nf3 27. Kc2 Bxf2 28. Nxf3 Rxf3 29. Be3 Rdf8 30. Rxf2 Rxf2+ 31. Bxf2 Rxf2+ 32. Kd3 h3 33. b4 Rg2 34. Rf1 h2 35. a4 Rxg5 36. Rf8+ Kd7 37. Rh8 Rg2 38. Ke4 g5 39. Kf3 Rb2 40. b5 a6 41. Kg3 Rc2 42. Rxh2 Rxc4 43. Rh5 Rxa4 44. bxa6 bxa6 45. Rxg5 a5 46. Rb5 Ra2 47. Rb7+ Kd6 48. Rb6+ Ke7 49. Rb7+ Kf6 50. Rh7 a4 51. Rh6+ Ke5 52. Rh5+ Ke4 53. Rh4+ Kd5 54. Rb4 e5 55. Rb5+ Ke6 56. Kg4 a3 57. Rb6+ Kd7 58. Ra6 Ra1 59. Ra7+ Kc6 60. Ra6+ Kb5 61. Re6 a2 62. Rxe5+ Kc4 63. Ra5 Rg1+ 64. Kf5 a1=Q 65. Rxa1 Rxa1 66. Ke5 Ra5+ 67. Ke4 Ra2 68. Ke5 Re2+ 69. Kf4 Kd4 70. Kf5 Rf2+ 71. Ke6 Rf3 72. Kd7 Kd5 73. Ke7 Rf2 74. Kd7 Rf7+ 75. Kd8 Kd6 76. Kc8 Rc7+ 77. Kb8 Kc6 78. Ka8 Rc8+ 79. Ka7 Rf8 80. Ka6 Ra8# 0-1

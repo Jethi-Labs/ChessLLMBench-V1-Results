@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_10"]
+[Black "grok-4_3/board_05"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_48"]
+[OpeningName "Nimzowitsch Defense, Exchange Structure"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp1nppp/8/3qP3/4p3/2B5/PPP2PPP/R2QKB1R w KQkq - 1 10"]
+
+10. Qxd5 Nxd5 11. Bd4 e3 12. fxe3 Nxe3 13. Bxe3 a6 14. Bc4 a5 15. O-O a4 16. Rxf7 a3 17. Rxc7 axb2 18. Rxc8+ Rxc8 19. Kh1 bxa1=Q+ 20. Bf1 Qxf1+ 21. Bg1 Qxg1+ 22. Kxg1 Rxc2 23. Kh1 Rxa2 24. Kg1 Rxg2+ 25. Kxg2 b6 26. Kh1 b5 27. Kg1 b4 28. Kh1 b3 29. Kg1 b2 30. Kh1 b1=Q+ 31. Kg2 g6 32. Kh3 g5 33. Kg2 g4 34. Kf2 g3+ 35. Kxg3 h6 36. Kh3 h5 37. Kh4 Rh6 38. Kh3 h4 39. Kg2 h3+ 40. Kf2 Rh4 41. Kf3 Ra4 42. Kf2 Ra1 43. Kf3 Ra2 44. Kg3 Rxh2 45. Kxh2 Qa1 46. Kxh3 Qxe5 47. Kh4 Qa1 48. Kh5 Qb1 49. Kh6 Qa1 50. Kh5 Qb1 51. Kh6 Qa1 52. Kh5 1/2-1/2

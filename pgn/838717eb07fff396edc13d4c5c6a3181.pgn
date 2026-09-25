@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-sol/board_05"]
+[Black "gpt-6-luna/board_10"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "INSUFFICIENT_MATERIAL"]
+[OpeningId "opening_12"]
+[OpeningName "Scandinavian Defense, 3...Qa5 Mainline"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn2k2r/ppp2ppp/4pn2/q4b2/1bBP4/2N2N2/PPPB1PPP/R2QK2R w KQkq - 2 8"]
+
+8. a3 Bxc3 9. Bxc3 Qb6 10. Nh4 Be4 11. f3 Bd5 12. Bxd5 Nxd5 13. Qd2 Nc6 14. O-O g5 15. Qxg5 Nxd4 16. Kh1 Nxc3 17. bxc3 Nxc2 18. Rab1 Qa6 19. Qg7 Rf8 20. Qxh7 Nxa3 21. Ra1 Qc4 22. Qe4 Qxe4 23. fxe4 Nc4 24. Nf3 a5 25. h4 c5 26. h5 a4 27. g4 a3 28. g5 b5 29. h6 Rh8 30. Kg1 Ra5 31. Ra2 e5 32. Rb1 f6 33. Rh2 fxg5 34. Nxg5 a2 35. Ra1 b4 36. Rhxa2 Rxa2 37. Rxa2 Rxh6 38. Ra8+ Ke7 39. cxb4 Rg6 40. bxc5 Rxg5+ 41. Kf2 Rg4 42. Ra7+ Ke6 43. c6 Rf4+ 44. Ke2 Rxe4+ 45. Kf2 Rf4+ 46. Ke2 e4 47. c7 Kd7 48. Ra4 Nb6 49. Rd4+ Kxc7 50. Ke3 Rg4 51. Rxe4 Nd5+ 52. Kd4 Rxe4+ 53. Kxe4 1/2-1/2

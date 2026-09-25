@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_06"]
+[Black "grok-4_6/board_07"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_04"]
+[OpeningName "Petroff Defense, 3.d4 Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qk2r/pppb1ppp/3b4/3p4/3Pn3/3B4/PPP2PPP/RNBQ1RK1 w kq - 2 8"]
+
+8. f3 Nf6 9. Re1+ Be6 10. Nc3 O-O 11. Nb5 Kh8 12. Nxd6 Qxd6 13. c3 Rad8 14. Bg5 Qe7 15. Qb3 Rb8 16. g4 Qd6 17. a3 Rfc8 18. Qa4 Qb6 19. Qb4 Nd7 20. Bf4 Qxb4 21. axb4 Ra8 22. h4 Nf6 23. h5 Nd7 24. Kg2 Nb6 25. b5 Nc4 26. Ra2 Bd7 27. Bxc4 dxc4 28. Re7 Be6 29. Bxc7 Kg8 30. Bf4 Bd5 31. Rd7 Rd8 32. Rxa7 Rac8 33. Raxb7 Bxb7 34. Rxb7 Re8 35. d5 Re2+ 36. Kg3 Rxb2 37. d6 Rd8 38. d7 f6 39. h6 gxh6 40. Be3 Kf7 41. Bb6 Ke7 42. Bxd8+ Kxd8 43. b6 h5 44. gxh5 Rc2 45. Ra7 Rc1 46. b7 Rb1 47. Kf2 Rb2+ 48. Ke3 Rb5 49. Kd4 Ke7 50. Kxc4 Rb6 51. Kd4 Rb3 52. c4 Kd8 53. c5 Ke7 54. c6 Rb1 55. c7 Rd1+ 56. Ke4 f5+ 57. Ke5 Re1+ 58. Kxf5 Rd1 59. d8=Q+ Kf7 60. Qf6+ Kg8 61. b8=Q+ Rd8 62. cxd8=Q# 1-0

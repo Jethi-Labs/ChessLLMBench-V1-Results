@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_3/board_04"]
+[Black "gpt-5_6-luna/board_03"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_12"]
+[OpeningName "Scandinavian Defense, 3...Qa5 Mainline"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn2k2r/ppp2ppp/4pn2/q4b2/1bBP4/2N2N2/PPPB1PPP/R2QK2R w KQkq - 2 8"]
+
+8. a3 Bxc3 9. bxc3 b5 10. Bf1 Ne4 11. h3 Nd7 12. g3 c5 13. dxc5 Nxd2 14. c6 Nxf3+ 15. Qxf3 Ne5 16. Qd1 Qxc3+ 17. Qd2 Nf3+ 18. Ke2 Qxd2+ 19. Kxf3 Qd5+ 20. Ke2 Qxh1 21. c3 Qe4+ 22. Kd1 O-O-O 23. Bd3 Qxd3+ 24. Kc1 Qxc3# 0-1

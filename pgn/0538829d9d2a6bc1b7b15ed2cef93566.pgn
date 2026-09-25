@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_09"]
+[Black "DeepSeek-V4-Flash/board_07"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_35"]
+[OpeningName "Symmetrical English, Four Knights"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp1p1ppp/1qn1pn2/8/2PN4/2N3P1/PP2PP1P/R1BQKB1R w KQkq - 1 7"]
+
+7. Nxc6 bxc6 8. a3 Qa5 9. Bd2 Rb8 10. Ne4 Qf5 11. Nxf6+ gxf6 12. Qb1 Qxb1+ 13. Rxb1 Bxa3 14. b4 e5 15. Bg2 Rb6 16. Be3 Bxb4+ 17. Kf1 Rb8 18. Bxa7 Ra8 19. Be3 Bc3 20. Rc1 Bb7 21. Be4 Ba5 22. Ra1 h5 23. Bf3 f5 24. Ra2 f4 25. gxf4 Bc8 26. fxe5 Ba6 27. Rxa5 Rb8 28. Rxa6 f5 29. Rb6 Rxb6 30. Bxb6 f4 31. Rg1 Kf7 32. Be4 Ke8 33. Bg6+ Ke7 34. Rg2 h4 35. Kg1 Rh6 36. Bd4 h3 37. Rg4 d5 38. exd6+ Ke6 39. Bg7 Rxg6 40. Rxg6+ Kf5 41. Rf6+ Ke4 42. Re6+ Kf5 43. Rf6+ Ke4 44. d7 Ke5 45. d8=Q f3 46. e3 c5 47. Qd5# 1-0

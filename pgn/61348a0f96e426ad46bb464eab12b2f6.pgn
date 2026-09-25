@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_01"]
+[Black "DeepSeek-V4-Flash/board_06"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. a3 a6 2. c3 a5 3. b4 a4 4. d3 b6 5. e3 b5 6. f4 c6 7. g4 c5 8. bxc5 b4 9. h3 b3 10. d4 b2 11. Nd2 b1=Q 12. Rxb1 d6 13. c4 d5 14. e4 dxc4 15. Rb2 c3 16. c6 c2 17. e5 cxd1=Q+ 18. Kxd1 e6 19. Rb5 f6 20. h4 f5 21. g5 g6 22. Ke1 h6 23. Kd1 h5 24. c7 Na6 25. cxd8=Q+ Kf7 26. d5 exd5 27. e6+ Bxe6 28. Nb1 d4 29. Ne2 d3 30. Nd4 d2 31. Rb7+ Nc7 32. Nxd2 Nf6 33. gxf6 g5 34. hxg5 h4 35. g6+ Kxg6 36. f7 h3 37. N2b3 h2 38. Nd2 Nb5 39. N2f3 Nxa3 40. Ne1 Nb1 41. Nd3 a3 42. Ne1 a2 43. Nd3 a1=Q 44. Ne5+ Kh5 45. Ng6 Nd2 46. Nf3 Nb1 47. Ne7 Nd2 48. Nxd2 Ba2 49. Ng6 Bb1 50. Ne7 Ba2 51. Ng6 Bb1 52. Ne7 Ba2 1/2-1/2

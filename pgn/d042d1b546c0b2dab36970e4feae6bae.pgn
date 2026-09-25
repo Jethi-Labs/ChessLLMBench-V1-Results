@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_3/board_05"]
+[Black "DeepSeek-V4-Pro/board_05"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_12"]
+[OpeningName "Scandinavian Defense, 3...Qa5 Mainline"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn2k2r/ppp2ppp/4pn2/q4b2/1bBP4/2N2N2/PPPB1PPP/R2QK2R w KQkq - 2 8"]
+
+8. Bxe6 a6 9. Bxf5 Qxf5 10. a3 a5 11. axb4 Nfd7 12. bxa5 Nc6 13. b3 f6 14. g3 h5 15. h3 Nb4 16. g4 b5 17. gxf5 O-O-O 18. Nxb5 Nd5 19. Nxc7 Nb8 20. Nxd5 h4 21. Nxh4 Rh5 22. Qxh5 Rxd5 23. c3 Nc6 24. f3 g5 25. fxg6 f5 26. Nxf5 Nb4 27. cxb4 Rb5 28. f4 Rxb4 29. Bxb4 Kb7 30. h4 Ka6 31. d5 Kb5 32. a6 Kxb4 33. d6 Kxb3 34. a7 Kb2 35. a8=Q Kc2 36. d7 Kb2 37. d8=Q Kc2 38. g7 Kb2 39. g8=Q Kc2 40. Ne3+ Kb2 41. f5 Kc3 42. f6 Kb2 43. f7 Kb3 44. f8=Q+ Kb2 45. Nd1+ Kc2 46. Nb2 Kxb2 47. Rb1+ Kxb1 48. Rf1 Kc1 49. Rg1 Kb1 50. Rf1 Kc1 51. Rg1 Kb1 52. Rf1 1/2-1/2

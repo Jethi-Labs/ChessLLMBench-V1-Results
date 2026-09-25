@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_10"]
+[Black "gpt-5_6-terra/board_09"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_01"]
+[OpeningName "Four Knights Game, Symmetrical Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp2ppp/2np1n2/1B2p3/1b2P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 0 7"]
+
+7. h4 a6 8. Bxc6 bxc6 9. Bd2 h5 10. a3 Bxc3 11. Bxc3 c5 12. g3 a5 13. Ng5 Ng4 14. f4 Ne3 15. Qxh5 Qxg5 16. Qxg5 f6 17. Qg6 Be6 18. Qh5 Nxf1 19. Kxf1 f5 20. fxe5 fxe4+ 21. Ke2 Bf5 22. Qg5 dxe5 23. Bxe5 g6 24. Qe7 exd3+ 25. cxd3 Rf7 26. Qxc5 a4 27. d4 Rb8 28. d5 Re8 29. d6 cxd6 30. Qxd6 Rfe7 31. b4 axb3 32. Qd5+ Be6 33. Qd4 Bf7 34. Kd3 Rxe5 35. Qf2 Rd5+ 36. Kc3 Rc8+ 37. Kb2 Rc2+ 38. Qxc2 bxc2 39. Kxc2 g5 40. a4 gxh4 41. gxh4 Rd4 42. a5 Bg6+ 43. Kc3 Rxh4 44. a6 Rh3+ 45. Kd4 Rd3+ 46. Ke5 Re3+ 47. Kf6 Be4 48. a7 Rf3+ 49. Ke5 Ba8 50. Rc1 Rf8 51. Rc7 Re8+ 52. Kd4 Rf8 53. Rd7 Bc6 54. Rc7 Ba8 55. Re7 Rd8+ 56. Ke5 Kf8 57. Rh7 Kg8 58. Rc7 Rf8 59. Re7 Bf3 60. Kd6 Rf6+ 61. Ke5 Ra6 62. Kf4 Kf8 63. Rc7 Ra3 64. Rh7 Bd5 65. Rd7 Bc6 66. Rc7 Bf3 67. Rh7 Bc6 68. Rc7 Bd5 69. Ke5 Ra5 70. Kd4 Ke8 71. Rh7 Bc6 72. Rh8+ Kf7 73. Rh7+ Ke8 74. Rc7 Bd7 75. Rb7 Bc6 76. Rc7 Bd7 77. Ke3 Ra2 78. Kd4 Kd8 79. Rb7 Bc6 80. Rg7 Bd7 81. Rg8+ Be8 82. Rg7 Bd7 83. Rg8+ Be8 84. Rg7 Bc6 85. Kc5 Be4 86. Kc4 Ke8 87. Kd4 Kf8 88. Rc7 Bf3 89. Rh7 Kg8 90. Rc7 Kf8 91. Rh7 Ra1 92. Ke3 Bd5 93. Rd7 Bc6 94. Rc7 Bd5 95. Rd7 Bc6 96. Rc7 Bd5 97. Rd7 1/2-1/2

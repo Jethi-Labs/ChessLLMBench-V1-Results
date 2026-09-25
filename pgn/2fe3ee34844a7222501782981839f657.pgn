@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-sol/board_09"]
+[Black "gpt-6-astra/board_10"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_11"]
+[OpeningName "Philidor Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp1bppp/3p1n2/8/3NP3/2N5/PPP1BPPP/R1BQ1RK1 b - - 6 7"]
+
+7... c5 8. Nf3 Nc6 9. Bf4 a5 10. a4 Re8 11. Bc4 Be6 12. Bxe6 fxe6 13. e5 Nh5 14. g3 Nxf4 15. gxf4 Rf8 16. Qc1 Qe8 17. Ne4 Qg6+ 18. Ng3 Qg4 19. Ra3 c4 20. Rc3 Qxf4 21. Qxf4 Rxf4 22. exd6 Bxd6 23. Ng5 Bb4 24. Nxe6 Bxc3 25. Nxf4 Bxb2 26. Ne4 Be5 27. Ne2 Re8 28. f4 Bc7 29. N2g3 Nb4 30. Nd2 c3 31. Nde4 Bb6+ 32. Kh1 Bd4 33. Rc1 g6 34. Kg2 b6 35. Kf3 Rc8 36. Ne2 Bg7 37. h4 h5 38. Rg1 Rc6 39. Rg3 Kf7 40. Kf2 Nd5 41. Rg5 Ne7 42. Ke3 Nf5+ 43. Kd3 Nxh4 44. N4xc3 Nf5 45. Rg2 Rd6+ 46. Ke4 Rd2 47. Rg1 h4 48. Rd1 Bxc3 49. Nxc3 Rxc2 50. Nd5 Rc4+ 51. Ke5 Rc6 52. Ke4 h3 53. Rd2 Rc4+ 54. Ke5 Rxa4 55. Nxb6 Rb4 56. Nd5 Rb8 57. Nc7 a4 58. Rd7+ Ne7 59. Nd5 Re8 60. f5 h2 61. f6 h1=Q 62. fxe7 Qe1+ 63. Kd6 Qe6+ 64. Kc7 a3 65. Rd8 a2 66. Rxe8 Kxe8 67. Nb6 Qxe7+ 68. Kc6 a1=Q 69. Kb5 Qee5+ 70. Kc6 Qh1+ 71. Nd5 Qhxd5+ 72. Kb6 Qa5+ 73. Kc6 Qec7# 0-1

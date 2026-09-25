@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-luna/board_08"]
+[Black "Mistral-Large-3/board_10"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_30"]
+[OpeningName "Gruenfeld Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/pp2ppbp/6p1/2p5/3PP3/2P2N2/P3BPPP/1RBQK2R b K - 3 9"]
+
+9... Qd5 10. a3 Bh3 11. g3 Bf6 12. a4 Bc8 13. h3 Nc6 14. c4 h6 15. g4 h5 16. h4 a6 17. a5 Qxd4 18. e5 Qxd1+ 19. Bxd1 b5 20. cxb5 Na7 21. g5 Be6 22. exf6 axb5 23. fxe7 c4 24. exf8=Q+ Kh7 25. Qxa8 Bf5 26. Rb4 Nc8 27. Rxb5 Ne7 28. Nd4 Nc6 29. f3 Ne5 30. Rxe5 f6 31. Re7# 1-0

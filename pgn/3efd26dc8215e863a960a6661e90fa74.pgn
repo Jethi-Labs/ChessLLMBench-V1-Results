@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_03"]
+[Black "DeepSeek-V4-Flash/board_07"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_15"]
+[OpeningName "Alekhine Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp1bppp/1n1p4/8/2PP4/2NB4/PP3PPP/R1BQK1NR w KQ - 4 8"]
+
+8. Nf3 Kh8 9. O-O Qe8 10. Re1 Be6 11. d5 Qc8 12. dxe6 fxe6 13. Nd4 Rf6 14. Bg5 Nxc4 15. Bxc4 Rxf2 16. Bxe6 Qe8 17. Bxe7 Rxb2 18. Bd5 Qd7 19. Qf3 Qc8 20. Ne4 Qd7 21. Qf8# 1-0

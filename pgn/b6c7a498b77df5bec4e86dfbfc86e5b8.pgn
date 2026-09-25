@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_10"]
+[Black "grok-4_6/board_01"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_17"]
+[OpeningName "Vienna Game, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk1nr/ppp2pbp/2np2p1/4p3/4P3/2NP2P1/PPP2PBP/R1BQK1NR w KQkq - 0 6"]
+
+6. Bh6 Nxh6 7. a4 Be6 8. Kf1 Ng4 9. h4 Nf6 10. Rb1 O-O 11. Nh3 Qd7 12. b4 Nd4 13. Ke1 Bg4 14. f4 Bxd1 15. a5 Bxc2 16. b5 Bxb1 17. h5 Bxd3 18. hxg6 fxg6 19. Ng5 exf4 20. Bf3 h6 21. Bh5 Nxh5 22. Nf7 Rxf7 23. Rh3 Qxh3 24. gxf4 d5 25. Nb1 Qe3+ 26. Kd1 dxe4 27. Na3 Rxf4 28. a6 g5 29. Nb1 Rf1# 0-1

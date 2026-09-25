@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_01"]
+[Black "gpt-5_6-luna/board_03"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. f3 Nf6 2. e4 d5 3. exd5 Nxd5 4. Kf2 e5 5. Na3 Bc5+ 6. Ke1 Bxg1 7. Rxg1 Qh4+ 8. g3 Qxh2 9. Rg2 Qh1 10. Nc4 Bh3 11. Rf2 Nc6 12. Ne3 O-O-O 13. Nxd5 Rxd5 14. a3 b5 15. b3 Nd4 16. c4 Rc5 17. d3 a5 18. cxb5 Rxb5 19. Rb1 c5 20. a4 Rb6 21. Be3 f5 22. Bxd4 exd4 23. Ke2 Qg1 24. Bxh3 Re8+ 25. Kd2 Qxf2+ 26. Kc1 Qe3+ 27. Qd2 Rf6 28. Bg2 g5 29. Qxe3 Rxe3 30. Kd2 Rfe6 31. Rb2 Re1 32. Bf1 Rxf1 33. Rc2 Re5 34. f4 gxf4 35. gxf4 Rxf4 36. Kc1 Rf1+ 37. Kb2 Rfe1 38. Rc1 R5e2+ 39. Rc2 h5 40. Rxe2 Rxe2+ 41. Ka1 Rd2 42. Kb1 Rxd3 43. Ka2 f4 44. b4 f3 45. bxa5 f2 46. a6 f1=Q 47. a5 Qg2+ 48. Ka1 Rd1# 0-1

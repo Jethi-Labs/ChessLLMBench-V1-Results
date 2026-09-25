@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-sol/board_07"]
+[Black "gpt-6-astra/board_03"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_34"]
+[OpeningName "Colle System, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qk2r/pbpn1ppp/1p1bpn2/3p4/3P4/1P1BPN2/PBPN1PPP/R2QK2R w KQkq - 4 8"]
+
+8. O-O O-O 9. a4 a5 10. c4 Ng4 11. h3 Ngf6 12. g4 c5 13. g5 Nh5 14. cxd5 Bxd5 15. Ne4 Bxe4 16. Bxe4 Ra7 17. d5 f5 18. gxf6 Nhxf6 19. Ng5 Nxe4 20. Nxe4 Nf6 21. Nxf6+ gxf6 22. dxe6 Re7 23. f4 Rxe6 24. Qg4+ Kf7 25. Qh5+ Kg7 26. Qg4+ Kf7 27. Qh5+ Kg7 28. Qg4+ Kf7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_08"]
+[Black "gpt-6-luna/board_06"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_13"]
+[OpeningName "Sicilian Defense, Alapin Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r3kb1r/pp3ppp/2n1pn2/2pq4/3P2b1/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 2 8"]
+
+8. Bf4 cxd4 9. cxd4 Qe4 10. Be5 Nxe5 11. dxe5 Nd5 12. Bb5+ Ke7 13. Nc3 Bxf3 14. Nxe4 Bxd1 15. Raxd1 Rd8 16. a4 f5 17. Nd6 Rxd6 18. exd6+ Kxd6 19. Bc4 g5 20. Rd3 Bg7 21. Rfd1 Bxb2 22. Bxd5 exd5 23. Rxd5+ Ke6 24. Rd6+ Ke5 25. R1d5+ Ke4 26. f3+ Ke3 27. Re6+ Be5 28. Rexe5+ Kf4 29. Kf2 Rf8 30. g3# 1-0

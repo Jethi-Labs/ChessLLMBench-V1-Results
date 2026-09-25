@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_03"]
+[Black "gpt-5_6-sol/board_08"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_08"]
+[OpeningName "Ruy Lopez, Berlin Wall Ending"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bk1b1r/ppp2ppp/2p5/4Pn2/8/5N2/PPP2PPP/RNB2RK1 w - - 0 9"]
+
+9. Bg5+ Ke8 10. Rd1 Bd7 11. Nc3 h5 12. Rd3 Ne7 13. Re1 a5 14. Kh1 Be6 15. Nd4 Bc4 16. Bxe7 Bxe7 17. Rh3 Bb4 18. e6 Bxa2 19. Re2 Bc4 20. Re5 Rd8 21. Re4 Bxe6 22. Rg3 Bxc3 23. Rxc3 Kf8 24. Nxe6+ fxe6 25. Re1 Rh6 26. Rf3+ Kg8 27. Rb3 b5 28. Rc3 Rd6 29. Rd3 Rxd3 30. cxd3 g5 31. Re5 Rg6 32. Rc5 Rf6 33. Kg1 Rf5 34. Rxc6 Rd5 35. Rxc7 Rxd3 36. Rc8+ Kf7 37. Rc1 Rd2 38. Rb1 e5 39. Kf1 Kf6 40. Ra1 Rxb2 41. Rxa5 Kf5 42. Ra1 h4 43. Rd1 Ke4 44. Ke1 Ra2 45. Kf1 Kf5 46. Rd3 Ra1+ 47. Ke2 Rg1 48. g3 Rg2 49. gxh4 gxh4 50. h3 Ke4 51. Rb3 Kf4 52. Rxb5 Rh2 53. Rb3 Kf5 54. Kf1 Kf4 55. Kg1 Rxh3 56. Rxh3 Kg4 57. Kh2 Kh5 58. Re3 Kg5 59. Rxe5+ Kg4 60. Re3 Kf4 61. Kh3 Kg5 62. Re4 Kf6 63. Kxh4 Kf5 64. Rg4 Ke6 65. Kg5 Ke5 66. Kg6 Ke6 67. Rg5 Ke7 68. Kg7 Kd7 69. Rc5 Kd6 70. Rb5 Kc7 71. Kg8 Kc8 72. Rb2 Kd7 73. Rb6 Kd8 74. Rb7 Ke8 75. Rc7 Kd8 76. Rf7 Ke8 77. Rh7 Kd8 78. Rg7 Ke8 79. Rf7 Kd8 80. Kg7 Ke8 81. Rc7 Kd8 82. Ra7 Ke8 83. Kg8 Kd8 84. Rh7 Ke8 85. Rg7 Kd8 86. Ra7 Ke8 87. Kg7 Kd8 88. Kf7 Kc8 89. Kf8 Kd8 90. Re7 Kc8 91. Kg8 Kd8 92. Re6 Kd7 93. Rg6 Ke7 94. Rc6 Ke8 95. Rd6 Ke7 96. Rg6 Kd7 97. Rh6 Kd8 98. Rf6 Kd7 99. Kg7 Ke7 100. Rc6 Ke8 101. Rd6 Ke7 102. Rd5 Ke6 103. Ra5 Ke7 104. Ra6 Kd7 105. Rb6 Ke7 106. Kh7 Ke8 107. Rb7 Kf8 108. Kh8 Ke8 109. Kg8 Kd8 110. Kh7 Ke8 111. Kh8 Kf8 112. f3 Ke8 113. Rc7 Kd8 114. Rc5 Kd7 115. Kg8 Ke6 116. Rb5 Kf6 117. Rh5 Ke7 118. Rh6 Ke8 119. Rh7 Kd8 120. Ra7 Ke8 121. Rc7 Kd8 122. Rb7 Ke8 123. f4 Kd8 124. f5 Ke8 125. f6 Kd8 126. f7 Kc8 127. f8=Q+ Kxb7 128. Qd6 Kc8 129. Qb6 Kd7 130. Qc5 Ke6 131. Kg7 Kd7 132. Kf7 Kd8 133. Qc1 Kd7 134. Qc3 Kd6 135. Kg8 Ke7 136. Qc6 Kd8 137. Qb7 Ke8 138. Qb1 Kd8 139. Qc1 Ke8 140. Qc8+ Ke7 141. Qa6 Ke8 142. Qa7 Kd8 143. Qa1 Kd7 144. Qc1 Ke7 145. Qh6 Kd7 146. Qb6 Ke8 147. Qb7 Kd8 148. Qb1 Kc8 149. Qb4 Kd8 150. Kg7 Kc7 151. Qb5 Kd6 152. Kf7 Kc7 153. Ke6 Kd8 154. Qb8# 1-0

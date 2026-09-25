@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_02"]
+[Black "grok-4_3/board_01"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_48"]
+[OpeningName "Nimzowitsch Defense, Exchange Structure"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp1nppp/8/3qP3/4p3/2B5/PPP2PPP/R2QKB1R w KQkq - 1 10"]
+
+10. e6 Bxe6 11. Bxg7 Qxd1+ 12. Rxd1 Rg8 13. Be5 Bxa2 14. Bxc7 e3 15. fxe3 a6 16. Bd6 Nf5 17. Bf4 a5 18. Bb5+ Ke7 19. O-O a4 20. Rd7+ Kf8 21. Ra1 Be6 22. Rxa4 Rxa4 23. Rd8+ Ke7 24. Rxg8 Ra1+ 25. Kf2 Kf6 26. g4 Nxe3 27. Bxe3 b6 28. Bxb6 Rb1 29. Bd3 h6 30. Bd4+ Ke7 31. Rh8 Bxg4 32. Rxh6 f6 33. Rxf6 Bh5 34. Kg3 Rc1 35. Rf2 Rb1 36. Kf4 Rc1 37. Kg5 Bd1 38. Kh6 Bg4 39. Kg7 Bh5 40. Kg8 Bg4 41. Bc5+ Ke6 42. Be3 Ra1 43. Rf4 Bh5 44. Bc4+ Ke5 45. Rf2 Bg4 46. Bc5 Bh5 47. Bd3 Bg4 48. Kg7 Bd7 49. Be3 Bg4 50. Rg2 Bf3 51. Rg5+ Kd6 52. Rf5 Bh1 53. Bf4+ Kc6 54. Rf6+ Kc5 55. Be3+ Kb4 56. Rb6+ Ka4 57. Ra6+ Kb4 58. Bd2+ Kc5 59. Rxa1 Bg2 60. Ra4 Bh1 61. Be3+ Kd5 62. Ra5+ Kc6 63. Ra6+ Kd5 64. Kf6 Bg2 65. c4# 1-0

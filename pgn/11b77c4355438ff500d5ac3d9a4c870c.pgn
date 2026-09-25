@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_04"]
+[Black "DeepSeek-V4-Pro/board_09"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "TIMEOUT"]
+[OpeningId "opening_49"]
+[OpeningName "Queen's Gambit Accepted, Queenless Ending"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnb1k2r/1p3ppp/p3pn2/2b5/2B5/4PN2/PP3PPP/RNBR2K1 w kq - 0 9"]
+
+9. Kf1 Nc6 10. Ng1 Ng4 11. Ke1 Nxh2 12. Bf1 Nxf1 13. b3 Nb4 14. a4 Nc2+ 15. Ke2 Nxa1 16. Kd3 Nh2 17. Rf1 Nxf1 18. Ba3 Nxb3 19. f3 Bxe3 20. Kc2 Nd4+ 21. Kd1 Bxg1 22. Bc1 Ne3+ 23. Kd2 Nb3+ 24. Kc3 Nxc1 25. Kd2 Nb3+ 26. Ke2 Nd4+ 27. Kd2 Nxg2 28. Nc3 Nf4 29. Ne4 Nxf3+ 30. Kc1 Be3+ 31. Kb1 Kd7 32. a5 Kc6 33. Nc3 Ne5 34. Nd1 Bd2 35. Nf2 Bxa5 36. Ne4 Nd5 37. Ka1 Bc3+ 38. Kb1 Bd4 39. Ka2 1-0

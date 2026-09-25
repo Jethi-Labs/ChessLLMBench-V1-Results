@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-luna/board_03"]
+[Black "gpt-6-astra/board_10"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_17"]
+[OpeningName "Vienna Game, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk1nr/ppp2pbp/2np2p1/4p3/4P3/2NP2P1/PPP2PBP/R1BQK1NR w KQkq - 0 6"]
+
+6. a4 Nge7 7. Nge2 O-O 8. h4 a5 9. f4 Bg4 10. fxe5 Bxe5 11. Qd2 Nd4 12. Nxd4 Bxd4 13. b3 Be5 14. Kf2 Nc6 15. Kg1 Bxg3 16. Qg5 Qxg5 17. Bxg5 Be5 18. Bd2 Nd4 19. Ra2 c6 20. Bh6 Rfe8 21. Bd2 f5 22. exf5 Nxf5 23. Bh3 Bd4+ 24. Kh2 Bf3 25. Bxf5 Be5+ 26. Kg1 gxf5 27. Rh3 Bg4 28. Rh1 f4 29. h5 f3 30. h6 Bd4+ 31. Kh2 f2 32. Rb1 Bf5 33. b4 axb4 34. Ne4 Be6 35. Raa1 Bxa1 36. Rxa1 Rxa4 37. Nf6+ Kf7 38. Nxe8 Rxa1 39. Nxd6+ Kg8 40. Bxb4 f1=Q 41. Kg3 Qg1+ 42. Kf4 Qd4+ 43. Ne4 Rf1+ 44. Kg3 Qe3+ 45. Kg2 Qh3# 0-1

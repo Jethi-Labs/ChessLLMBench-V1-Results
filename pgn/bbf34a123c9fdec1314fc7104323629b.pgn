@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_05"]
+[Black "Mistral-Large-3/board_01"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_23"]
+[OpeningName "Symmetrical Tarrasch Defense"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 5 9"]
+
+9. e3 c4 10. Nh4 Nd7 11. e4 dxe4 12. d5 Nce5 13. Na4 Bxh4 14. g4 Nf3+ 15. Bxf3 c3 16. Nxc3 e3 17. fxe3 Bf2+ 18. Rxf2 Nb6 19. Na4 Qg5 20. a3 a6 21. b3 f6 22. h4 g6 23. hxg5 Bxg4 24. gxf6 h5 25. Nxb6 Bh3 26. a4 a5 27. d6 Rae8 28. b4 h4 29. b5 Bf1 30. d7 g5 31. e4 Be2 32. f7+ Kh8 33. dxe8=Q Bf1 34. e5 Bc4 35. e6 Bd5 36. e7 Rxe8 37. fxe8=Q+ Kh7 38. Nc4 Bc6 39. bxc6 h3 40. Be4+ Kh6 41. Bb2 bxc6 42. Nd2 c5 43. Nb1 c4 44. Nd2 c3 45. Bxc3 g4 46. Nf3 gxf3 47. Bd2+ Kg7 48. Bh6+ Kxh6 49. Qc1+ Kg7 50. Rg2+ Kf6 51. Bxf3 h2+ 52. Rxh2 Ke6 53. Be2 Kf6 54. Bd3 Ke6 55. Be2 Kf6 56. Bd3 Ke6 57. Bg6 Ke5 58. Bd3 Kf6 59. Be4 Ke6 60. Bg6 Ke5 61. Raa2 Kd5 62. Bb1 Ke6 63. Bd3 Kf6 64. Bc2 Ke6 65. Bd3 Kf6 66. Bh7 Ke6 67. Rab2 Kf6 68. Bd3 Ke6 69. Bc2 Kd5 70. Bd1 Kd6 71. Bb3 Ke5 72. Bd1 Ke4 73. Be2 Kd5 74. Bd1 Kd6 75. Rbe2 Kd5 76. Bb3+ Kd4 77. Bd1 Kd3 78. Bb3 Kd4 79. Bd1 Kd3 80. Bb3 Kd4 1/2-1/2

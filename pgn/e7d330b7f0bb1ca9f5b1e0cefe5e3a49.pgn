@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_07"]
+[Black "grok-4_3/board_04"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_15"]
+[OpeningName "Alekhine Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp1bppp/1n1p4/8/2PP4/2NB4/PP3PPP/R1BQK1NR w KQ - 4 8"]
+
+8. Nf3 d5 9. b3 a6 10. a3 a5 11. g3 a4 12. h3 c6 13. b4 c5 14. g4 f6 15. h4 f5 16. b5 f4 17. cxd5 c4 18. g5 g6 19. h5 h6 20. d6 Nd5 21. b6 Ne3 22. fxe3 Na6 23. e4 Nb4 24. axb4 a3 25. b5 a2 26. d5 Bf6 27. e5 Be7 28. e6 Bf6 29. gxf6 g5 30. d7 g4 31. d6 g3 32. e7 g2 33. f7+ Kg7 34. dxc8=Q g1=N 35. d7 Ne2 36. e8=Q Ng1 37. Nb1 c3 38. Nbd2 c2 39. Nb1 axb1=B 40. Nxg1 f3 41. Ne2 f2+ 42. Kf1 Ba2 43. Nc3 Bb1 44. Nxb1 Rxa1 45. Nd2 Rb1 46. Nxb1 cxb1=N 47. Bb2+ Nc3 48. Bxc3+ Qf6 49. Bxf6+ Kxf6 50. Qxf8 Ke5 51. d8=Q Kf4 52. Qxh6+ Kg3 53. Rh3# 1-0

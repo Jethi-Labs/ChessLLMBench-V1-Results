@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_04"]
+[Black "DeepSeek-V4-Pro/board_10"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_20"]
+[OpeningName "Queen's Gambit Declined, Mainline"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/p1p1bpp1/1p2pn1p/3p4/2PP3B/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 8"]
+
+8. a4 dxc4 9. Bxc4 g5 10. Bg3 Bb4 11. O-O Bb7 12. h4 Bxc3 13. bxc3 gxh4 14. Bxh4 Bxf3 15. Qxf3 Nbd7 16. Bb5 Kh8 17. Bxd7 Kh7 18. Bc6 Rc8 19. Bxf6 Qd6 20. Be4+ Kg8 21. Qg4# 1-0

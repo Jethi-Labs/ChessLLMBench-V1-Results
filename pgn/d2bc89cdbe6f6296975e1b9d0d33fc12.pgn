@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_08"]
+[Black "gpt-5_6-terra/board_09"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_20"]
+[OpeningName "Queen's Gambit Declined, Mainline"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/p1p1bpp1/1p2pn1p/3p4/2PP3B/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 8"]
+
+8. cxd5 exd5 9. Bxf6 Bxf6 10. Bb5 g5 11. O-O c6 12. Ba4 b5 13. Nxb5 cxb5 14. Bxb5 a6 15. Bd3 Nc6 16. Qc2 Nb4 17. Qd2 Nxd3 18. Qxd3 a5 19. Rfb1 Ba6 20. Qc2 g4 21. Ne5 Bxe5 22. dxe5 f5 23. exf6 Qxf6 24. Rd1 Rac8 25. Qd2 Rc5 26. Rac1 Rxc1 27. Rxc1 Bb7 28. Rc2 Qd8 29. Rc5 a4 30. Rc2 h5 31. Qe2 Qf6 32. Qb5 Qa6 33. Qxa6 Bxa6 34. Rc3 Rb8 35. Rc2 Bd3 36. Rd2 a3 37. b3 Rc8 38. Rd1 Be2 39. Ra1 Rc2 40. Kh1 h4 41. Kg1 Bd3 42. Rd1 Rxa2 43. Kh1 Be4 44. Kg1 Bc2 45. Rc1 Bxb3 46. Rb1 Rb2 47. Ra1 a2 48. h3 Rb1+ 49. Kh2 Rxa1 50. hxg4 Rf1 51. g3 a1=Q 52. Kh3 Rh1+ 53. Kg2 h3+ 54. Kf3 Bd1+ 55. Kf4 Qf6# 0-1

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_07"]
+[Black "grok-4_3/board_05"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_20"]
+[OpeningName "Queen's Gambit Declined, Mainline"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/p1p1bpp1/1p2pn1p/3p4/2PP3B/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 8"]
+
+8. Bxf6 gxf6 9. cxd5 exd5 10. Bb5 f5 11. Qc2 f4 12. exf4 h5 13. Ne5 h4 14. Nc6 Nxc6 15. Bxc6 h3 16. Bxa8 hxg2 17. Rg1 b5 18. Nxd5 Qxd5 19. Bxd5 b4 20. Rxg2+ Bg5 21. Rxg5+ Kh8 22. Qxc7 b3 23. Bxf7 Rxf7 24. Qxf7 bxa2 25. Qg8# 1-0

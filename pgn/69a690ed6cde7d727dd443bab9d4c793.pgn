@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-sol/board_07"]
+[Black "gpt-5_6-sol/board_02"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_45"]
+[OpeningName "Four Knights Game, Forcing Line"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqkbnr/pp3ppp/2p3n1/3BP3/3P4/2N5/PPP2PPP/R1BQK2R w KQkq - 0 9"]
+
+9. Bb3 f6 10. e6 Nh6 11. Bxh6 gxh6 12. O-O Be7 13. a4 a5 14. f4 f5 15. Qd3 O-O 16. Bc4 Qd6 17. Qe3 h5 18. b3 h4 19. Kh1 h5 20. Rad1 b6 21. d5 Qc7 22. d6 Bxd6 23. e7+ Kh7 24. exf8=Q Nxf8 25. Qd2 Bb4 26. Qe1 Ng6 27. g3 b5 28. Be2 Qg7 29. Rd3 Bb7 30. Bxh5 c5+ 31. Kg1 Be4 32. Bxg6+ Qxg6 33. Rd7+ Kg8 34. Qd2 bxa4 35. Rd8+ Kg7 36. Qd7+ Qf7 37. Nxe4 Rxd8 38. Qxd8 fxe4 39. Qg5+ Qg6 40. Qxh4 axb3 41. f5 Qf6 42. Qg4+ Kf8 43. cxb3 Qd4+ 44. Kh1 e3 45. Qf3 Qd3 46. Qa8+ Kf7 47. Qb7+ Kg8 48. Qb8+ Kf7 49. Qb7+ Kg8 50. Qb8+ Kf7 51. Qc7+ Kg8 52. Qc8+ Kh7 53. Ra1 Qxb3 54. Qc7+ Kg8 55. f6 Qf7 56. Qc8+ Kh7 57. Qf5+ Qg6 58. Qf3 c4 59. f7 e2 60. f8=Q Bxf8 61. Qxe2 Qc6+ 62. Qg2 Qxg2+ 63. Kxg2 Bb4 64. h4 Kg6 65. g4 Kf6 66. Ra2 Ke5 67. Kf3 c3 68. h5 Kf6 69. Re2 Bd6 70. h6 a4 71. g5+ Kg6 72. Re6+ Kxg5 73. h7 Kf5 74. Rxd6 Ke5 75. Rd1 Ke6 76. h8=Q c2 77. Qc8+ Ke5 78. Qxc2 a3 79. Qc6 a2 80. Rd5# 1-0

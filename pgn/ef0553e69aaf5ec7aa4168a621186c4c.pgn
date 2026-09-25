@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_01"]
+[Black "gpt-5_6-sol/board_02"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_36"]
+[OpeningName "Symmetrical English, Pure Mirror"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/pp1pnpbp/2n1p1p1/2p5/2P5/2N1P1P1/PP1PNPBP/R1BQK2R w KQkq - 2 7"]
+
+7. Nb5 O-O 8. d4 cxd4 9. exd4 d5 10. cxd5 Nxd5 11. a4 a6 12. Nbc3 Nde7 13. d5 exd5 14. Nxd5 Nxd5 15. Qxd5 Qe8 16. f4 Bd4 17. h4 Be6 18. Qf3 Bc4 19. Kd2 Bc5 20. Bf1 Rd8+ 21. Ke1 Bd5 22. Qg4 Bxh1 23. Bd2 Nd4 24. Qh3 Qe3 25. Qd7 Rxd7 26. Kd1 Qb3+ 27. Kc1 Qc2# 0-1

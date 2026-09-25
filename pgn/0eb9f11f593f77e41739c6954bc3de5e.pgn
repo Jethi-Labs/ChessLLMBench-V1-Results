@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-luna/board_09"]
+[Black "grok-4_3/board_04"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_04"]
+[OpeningName "Petroff Defense, 3.d4 Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qk2r/pppb1ppp/3b4/3p4/3Pn3/3B4/PPP2PPP/RNBQ1RK1 w kq - 2 8"]
+
+8. f3 Bxh2+ 9. Kxh2 Qh4+ 10. Kg1 a6 11. fxe4 Qf2+ 12. Rxf2 a5 13. exd5 a4 14. b4 a3 15. Re2+ Kd8 16. Nxa3 c6 17. c4 c5 18. bxc5 b6 19. cxb6 Bh3 20. gxh3 f6 21. b7 f5 22. bxa8=Q+ Kc7 23. Nb5+ Kb6 24. c5# 1-0

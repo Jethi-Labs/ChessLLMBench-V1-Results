@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_05"]
+[Black "gpt-5_6-sol/board_04"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "FIFTY_MOVE"]
+[OpeningId "opening_36"]
+[OpeningName "Symmetrical English, Pure Mirror"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/pp1pnpbp/2n1p1p1/2p5/2P5/2N1P1P1/PP1PNPBP/R1BQK2R w KQkq - 2 7"]
+
+7. Ne4 d6 8. Qb3 f5 9. N4c3 a5 10. Kf1 O-O 11. Bf3 h5 12. Kg2 Ne5 13. Nf4 Nxf3 14. Kxf3 e5 15. Nfd5 Nxd5 16. cxd5 Qc7 17. Kg2 c4 18. Qc2 e4 19. Ne2 Be5 20. Nf4 Bxf4 21. gxf4 Qc5 22. b3 b5 23. bxc4 bxc4 24. Bb2 Qxd5 25. Qc3 Qb7 26. Qh8+ Kf7 27. Qf6+ Ke8 28. Qxg6+ Ke7 29. Bd4 c3 30. Bxc3 Qb5 31. Qg5+ Ke6 32. Qxh5 Rg8+ 33. Kh3 Ke7 34. Qh4+ Ke8 35. Qf6 Qe2 36. Rhg1 Qh5+ 37. Qh4 Qf7 38. Rxg8+ Qxg8 39. Qh5+ Kf8 40. Qh6+ Ke8 41. Qg7 Qxg7 42. Bxg7 a4 43. Bd4 d5 44. Kh4 Be6 45. Kg5 Kf7 46. Kh6 Rc8 47. Kh7 Rc2 48. Bc3 d4 49. exd4 Rxa2 50. Rxa2 Bxa2 51. Bb4 Kf6 52. Bc5 Be6 53. Ba3 Bf7 54. Bd6 Ke6 55. Be5 a3 56. d5+ Kxd5 57. Kg7 Ke6 58. Bc3 a2 59. Bf6 Be8 60. Be5 Bh5 61. Kg8 Kd5 62. Bf6 Bf3 63. Kg7 Kc4 64. Bc3 Bg4 65. Kf7 Bh3 66. Kf6 Kd5 67. Be5 Kc4 68. Kg5 Kd3 69. Bc3 Kc4 70. Kh4 Bf1 71. Kh5 Bh3 72. Bf6 Kd5 73. Kh4 Bg2 74. Kg5 Bh3 75. Be5 Kc4 76. Kh4 Bf1 77. Bf6 Kb3 78. Kg5 Bh3 79. Bd4 Kc4 80. Bb2 Kc5 81. Kh4 Bf1 82. Bf6 Kc4 83. Kg5 Bh3 84. Kh6 Kd3 85. Bc3 Ke2 86. Bd4 Kd3 87. Bf6 Ke2 88. Bd4 Kd3 89. Bf6 a1=Q 90. Bxa1 Kxd2 91. Bf6 Ke2 92. Bh4 Kd3 93. Bg3 Kd4 94. Kh7 Kd5 95. Bh4 Ke6 96. Kg7 Kd7 97. Bf6 Kc6 98. Bb2 Kd5 99. Kg8 Ke6 100. Kh7 Kd5 101. Ba1 Kc4 102. Be5 Kd3 103. Bf6 Ke2 104. Bh4 Ke1 105. Bg3 Kd2 106. Kg8 Kd3 107. Kg7 Ke2 108. Kf7 Kd3 109. Ke6 Kc4 110. Kd7 Kd3 111. Kc8 Kd4 112. Bh4 Kc4 113. Bf6 Kd3 114. Kb7 Ke2 115. Bh4 Kf3 116. Bg3 Ke2 117. Kb8 Kd2 118. Bh4 Bg4 119. Ka8 Kd3 120. Ka7 Kc4 121. Bf6 Bh3 122. Kb8 Kd3 123. Be7 Ke2 124. Bh4 Kf3 125. Bg3 Ke2 126. Ka7 Kf3 127. Ka8 Kg4 128. Kb8 Bf1 129. Ka7 Kh3 130. Ka8 Be2 131. Kb8 Bf3 132. Kc7 Kg2 133. Kc8 Bg4 134. Kb8 Bh3 135. Kb7 Kf3 136. Kc6 Bg4 137. Kc7 Bh3 138. Kb6 Ke2 139. Bh4 Bg4 140. Ka7 Kd3 1/2-1/2

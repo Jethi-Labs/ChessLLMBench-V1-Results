@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-sol/board_03"]
+[Black "DeepSeek-V4-Flash/board_02"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_29"]
+[OpeningName "Nimzo-Indian Defense, 4.e3"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp3ppp/2n1pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQ1RK1 w - - 2 8"]
+
+8. a3 Bxc3 9. bxc3 dxc4 10. Bxc4 cxd4 11. cxd4 Qxd4 12. exd4 Nxd4 13. Qxd4 Ng4 14. Qxg4 e5 15. Qe4 Bh3 16. gxh3 Rfc8 17. Nxe5 Rxc4 18. Nxc4 Rc8 19. Qxb7 Rxc4 20. Qa8+ Rc8 21. Qxc8# 1-0

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_08"]
+[Black "Mistral-Large-3/board_04"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_09"]
+[OpeningName "Scotch Game, Mieses Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r3kb1r/p1ppqp1p/b1p3p1/3nP3/2P5/1P6/P3QPPP/RNB1KB1R w KQkq - 0 10"]
+
+10. f3 Qxe5 11. a4 d6 12. g4 Bg7 13. h4 Qxe2+ 14. Bxe2 Bxa1 15. a5 Nb4 16. g5 Bd4 17. f4 O-O 18. h5 gxh5 19. Kd1 d5 20. Na3 c5 21. Nb5 Bxb5 22. Bd3 Nxd3 23. f5 dxc4 24. Bf4 Nxf4 25. Kc2 cxb3+ 26. Kxb3 c4+ 27. Ka3 c3 28. Kb3 Bd3 29. f6 c2 30. Rc1 h4 31. g6 Bxf6 32. gxh7+ Kxh7 33. a6 Kg8 34. Rg1+ Bg6 35. Rc1 h3 36. Rf1 h2 37. Rh1 Nd5 38. Rxh2 c1=Q 39. Ra2 Qc3+ 40. Ka4 Rad8 41. Rb2 Qxb2 42. Ka5 Rfe8 43. Ka4 Re2 44. Ka5 Qc3+ 45. Kb5 Bd4 46. Ka4 Be3 47. Kb5 Bd4 48. Ka4 Be3 49. Kb5 Bd4 1/2-1/2

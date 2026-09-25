@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_07"]
+[Black "gpt-6-sol/board_02"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_29"]
+[OpeningName "Nimzo-Indian Defense, 4.e3"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp3ppp/2n1pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQ1RK1 w - - 2 8"]
+
+8. cxd5 Nxd5 9. Nxd5 Qxd5 10. Qc2 cxd4 11. Bxh7+ Kh8 12. Be4 Qd6 13. Rd1 e5 14. Bxc6 bxc6 15. Qe4 f5 16. Qh4+ Kg8 17. exd4 e4 18. Ne5 Be6 19. Be3 Bd5 20. Kh1 Rab8 21. Qf4 Ba5 22. Bd2 Bd8 23. Bc3 g5 24. Qe3 f4 25. Qe2 f3 26. gxf3 exf3 27. Qa6 Qc7 28. Qd3 Qh7 29. Qxh7+ Kxh7 30. Nd7 Rb7 31. Nxf8+ Kh6 32. Re1 Re7 33. Rxe7 Bxe7 34. Nd7 Bd6 35. Nf6 Bc4 36. Ne4 Be7 37. Ng3 Kg6 38. Bd2 Bd5 39. Bc1 a5 40. Bd2 a4 41. Rc1 a3 42. b3 Bf6 43. Be3 Be7 44. Ra1 Bb4 45. Rg1 Be7 46. Nf1 Kf5 47. Nd2 g4 48. Nc4 Bxc4 49. bxc4 Bf6 50. d5 cxd5 51. cxd5 Be7 52. Rd1 Bd6 53. Kg1 Ke4 54. Rd4+ Kf5 55. Rd2 Ke5 56. Kh1 Ke4 57. Rd4+ Ke5 58. Rd3 Kf5 59. Rd1 Ke4 60. Rd2 Ke5 61. Bh6 Kf5 62. Rd3 Ke4 63. Rd1 Ke5 64. Bg7+ Ke4 65. Rd4+ Kf5 66. Rc4 Be7 67. Rc6 Bh4 68. Rc2 Ke4 69. Rd2 Bg5 70. Rd1 Bh4 71. Kg1 Bg5 72. Bf8 Kf5 73. Bxa3 Ke5 74. Kh1 Bh4 75. Bc5 Bg5 76. Kg1 Ke4 77. Rd4+ Kf5 78. Kh1 Bf6 79. Rb4 Bc3 80. Rc4 Be1 81. Be3 Ba5 82. Kg1 Be1 83. Kf1 Ba5 84. Bd4 Bd8 85. Kg1 Ke4 86. Be3+ Kf5 87. Rf4+ Ke5 88. Rxg4 Be7 89. Rg7 Bd6 90. Rd7 Bf8 91. Kh1 Bb4 92. Rb7 Ba3 93. Rb3 Bd6 94. Rd3 Ke4 95. Rd4+ Kf5 96. Rh4 Ke5 97. Rh5+ Ke4 98. Bb6 Bf4 99. Rh4 Kf5 100. Rxf4+ Ke5 101. Rd4 Kd6 102. Rd3 Kd7 103. d6 Kc6 104. d7 Kxb6 105. d8=Q+ Kb5 106. Rb3+ Kc4 107. Qa5 Kd4 108. Qb5 Ke4 109. Rb4# 1-0

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_06"]
+[Black "DeepSeek-V4-Pro/board_08"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_35"]
+[OpeningName "Symmetrical English, Four Knights"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp1p1ppp/1qn1pn2/8/2PN4/2N3P1/PP2PP1P/R1BQKB1R w KQkq - 1 7"]
+
+7. e3 Bc5 8. Na4 Qb4+ 9. Bd2 Nxd4 10. exd4 Qxa4 11. Qxa4 Bxd4 12. Qa3 Ng4 13. f4 Nf2 14. Bc3 Nxh1 15. Bxd4 Rg8 16. Qf3 Nxg3 17. hxg3 g6 18. Bd3 Kd8 19. O-O-O Kc7 20. c5 h6 21. Ba6 f6 22. Bxf6 d6 23. cxd6+ Kb6 24. Qb3+ Kxa6 25. Qa4+ Kb6 26. Bd4# 1-0

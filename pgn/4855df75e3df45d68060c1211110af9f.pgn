@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_10"]
+[Black "DeepSeek-V4-Flash/board_02"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_37"]
+[OpeningName "Symmetrical English, Hedgehog Structure"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1qk2r/pb2bppp/1p1ppn2/8/2PQ4/2N2NP1/PP2PPBP/R1B2RK1 w kq - 0 9"]
+
+9. e4 Bxe4 10. Nxe4 Nxe4 11. Qxg7 Nxf2 12. Qxh8+ Bf8 13. Rxf2 Nc6 14. Be3 Ne7 15. Nd4 Nc6 16. Bxc6+ Qd7 17. Bxd7+ Kxd7 18. Rxf7+ Be7 19. Qxa8 b5 20. Qxa7+ Kc8 21. Qxe7 bxc4 22. Qxd6 c3 23. bxc3 e5 24. Qxe5 h6 25. Bxh6 Kd8 26. Kh1 Kc8 27. Be3 Kd8 28. Rb7 Kc8 29. Rb2 Kd7 30. Qd5+ Kc7 31. Qe5+ Kd7 32. Qd5+ Kc7 33. Qe5+ Kd7 1/2-1/2

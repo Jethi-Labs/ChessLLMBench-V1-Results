@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_08"]
+[Black "grok-4_6/board_07"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_15"]
+[OpeningName "Alekhine Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp1bppp/1n1p4/8/2PP4/2NB4/PP3PPP/R1BQK1NR w KQ - 4 8"]
+
+8. a4 Nc6 9. a5 Nd7 10. d5 Nb4 11. Bb1 Ne5 12. Na2 Bg4 13. f3 Nxa2 14. Bxa2 Bf5 15. g4 Bh4+ 16. Kd2 Bd3 17. Qa4 Qe7 18. Kc3 Be1+ 19. Bd2 Bxd2+ 20. Kxd2 Qg5+ 21. Kd1 Nxf3 22. Nxf3 Qxg4 23. Qb3 Qxf3+ 24. Kd2 Qe2+ 25. Kc1 Qe3+ 26. Kd1 Qd4 27. Kc1 Qf4+ 28. Kd1 Be4 29. Re1 Bf3+ 30. Kc2 Qxh2+ 31. Kb1 Be4+ 32. Kc1 Kh8 33. a6 bxa6 34. c5 dxc5 35. Qc3 Qh4 36. b4 cxb4 37. Qxb4 Qg5+ 38. Qd2 Qf6 39. Qb2 Qf4+ 40. Kd1 Rab8 41. Qa3 Qe5 42. Bb3 Qc3 43. Rxe4 Qd3+ 44. Kc1 Qxe4 45. Kb2 Rb4 46. Qa5 Qc4 47. Ra3 Rfb8 48. Ka1 Rxb3 49. Rxb3 Qxb3 50. Qb4 Rxb4 51. d6 Qb1# 0-1

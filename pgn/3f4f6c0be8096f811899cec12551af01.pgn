@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-luna/board_06"]
+[Black "gpt-6-luna/board_01"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_39"]
+[OpeningName "Réti Opening, Symmetrical King's Fianchetto"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp1pppbp/2n2np1/2p5/2P5/2N2NP1/PP1PPPBP/R1BQ1RK1 w - - 2 7"]
+
+7. d4 cxd4 8. Nxd4 e5 9. Nxc6 dxc6 10. Qxd8 Rxd8 11. Bg5 h6 12. Be3 Be6 13. f4 Ng4 14. Bc5 Bxc4 15. Be7 Rd7 16. b3 Rxe7 17. bxc4 exf4 18. gxf4 Bxc3 19. Rad1 Ne3 20. Kf2 Rae8 21. Bf3 g5 22. f5 a5 23. a4 g4 24. Bxg4 Nxg4+ 25. Kg1 Ne3 26. Rc1 Bd2 27. f6 Nxf1 28. Rxf1 Rxe2 29. h4 Be3+ 30. Kh1 Re4 31. Rg1+ Kf8 32. Rg8+ Kxg8 33. c5 Rxh4# 0-1

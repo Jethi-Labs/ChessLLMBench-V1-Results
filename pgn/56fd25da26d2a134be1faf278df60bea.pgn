@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_09"]
+[Black "gpt-5_6-terra/board_08"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_24"]
+[OpeningName "Catalan Opening, Open Mainline"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/2p1bppp/p3pn2/1p6/2QP4/5NP1/PP2PPBP/RNB2RK1 w - b6 0 9"]
+
+9. Qd3 c5 10. Nc3 c4 11. Qe3 h5 12. Ne5 Ra7 13. d5 Qc7 14. dxe6 fxe6 15. Qd4 Bc5 16. Qd2 Qxe5 17. Kh1 Nh7 18. Qe1 Bb7 19. Bxb7 Rxb7 20. Bf4 Qf6 21. Ne4 Qd4 22. Nxc5 Qxc5 23. Qc3 Qc6+ 24. Qf3 e5 25. Qxc6 Nxc6 26. Be3 Na5 27. Rfd1 g5 28. Rd6 Rbb8 29. Rxa6 Ra8 30. Rg6+ Kh8 31. Rb1 g4 32. Rh6 Rf5 33. Rb6 e4 34. Bd4+ Kg8 35. Rg6+ Kf8 36. Rh6 Kg8 37. Rc1 b4 38. Rb6 Rd5 39. Rd1 b3 40. Rg6+ Kf8 41. Bg7+ Kf7 42. Rxd5 Kxg6 43. Bd4 bxa2 44. Rd6+ Kf7 45. b4 cxb3 46. Rd7+ Kg6 47. Rd5 Ra7 48. Rd6+ Kg5 49. Rd5+ Kg6 50. Rd6+ Kg5 51. Rd5+ Kh6 52. Rd6+ Nf6 53. Rxf6+ Kg5 54. Rf8 Rd7 55. Rg8+ Kh6 56. Rh8+ Kg6 57. Rg8+ Kh6 58. Rh8+ Kg6 59. Rg8+ Kf5 60. Rf8+ Kg5 61. Rg8+ Kf5 62. Rf8+ Ke6 63. Rf6+ Ke7 64. Rc6 Nxc6 65. Bc3 Rd2 66. Kg2 b2 67. Bxd2 a1=Q 68. Bc3 b1=Q 69. Bxa1 Qxa1 70. f3 exf3+ 71. exf3 Qa2+ 72. Kg1 gxf3 73. Kf1 Qg2+ 74. Ke1 Qe2# 0-1

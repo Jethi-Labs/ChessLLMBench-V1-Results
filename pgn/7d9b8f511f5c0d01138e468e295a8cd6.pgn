@@ -1,0 +1,13 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "Mistral-Large-3/board_01"]
+[Black "DeepSeek-V4-Pro/board_05"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_00"]
+[OpeningName "Standard Starting Position"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+
+1. a3 b6 2. b3 b5 3. d3 b4 4. e3 bxa3 5. c4 a2 6. b4 axb1=Q 7. c5 d6 8. d4 dxc5 9. h3 c4 10. h4 c3 11. b5 c2 12. Qd3 Nc6 13. h5 Nb4 14. Be2 a6 15. Nh3 a5 16. Bf1 a4 17. Ng5 a3 18. Ne6 a2 19. Kd2 c6 20. Qa3 c5 21. h6 c4 22. Nxf8 Rxa3 23. hxg7 c3+ 24. Ke2 e6 25. Rh4 e5 26. Rh2 e4 27. Rh4 f6 28. f4 exf3+ 29. Ke1 f2+ 30. Kxf2 f5 31. gxh8=N f4 32. Ne6 f3 33. Ng5 Nf6 34. e4 fxg2 35. Bxg2 Nd3+ 36. Kg1 h6 37. Nh7 h5 38. Rh1 h4 39. Bh3 Nxc1 40. Nxf6+ Qxf6 41. Bf1 Ne2+ 42. Kg2 c1=Q 43. Bxe2 h3+ 44. Kh2 c2 45. Ng6 Qcf4+ 46. Nxf4 Qb2 47. Nd3 c1=Q 48. Nxc1 Bg4 49. Rb1 a1=Q 50. Nb3 Qxe2+ 51. Kg1 Bf3 52. Nc5 h2+ 53. Rxh2 Bh1 54. Nd3 Bg2 55. Nc1 Bf1 56. Nb3 Bg2 57. Nc1 Bxe4 58. Nxe2 Bxb1 59. Nc3 Bd3+ 60. Nd1 Bb1 61. Rf2 Bd3 62. Ra2 Bxb5 63. Rb2 Bf1 64. Ra2 Bd3 65. Rb2 Bb1 66. Rf2 Bd3 67. Rc2 Bxc2 68. Kh2 Bxd1 69. d5 Bc2 70. Kg2 Ba4 71. Kh2 Bb5 72. Kg2 Bf1+ 73. Kg1 Be2+ 74. Kg2 Bf1+ 75. Kg1 Be2+ 76. Kg2 Bf1+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-luna/board_03"]
+[Black "gpt-6-luna/board_03"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_14"]
+[OpeningName "Sicilian Defense, Moscow Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r3kb1r/pp1q1ppp/2n1pn2/3p4/3PP3/5N2/PP3PPP/RNBQR1K1 w kq - 0 10"]
+
+10. Nc3 dxe4 11. Nxe4 Nxe4 12. Rxe4 O-O-O 13. a4 f5 14. Rh4 Be7 15. Bg5 Bxg5 16. Nxg5 h6 17. Nf3 g5 18. Rh5 g4 19. Ne1 Qe8 20. Rh4 Rxd4 21. Qc2 a5 22. Nf3 Rd5 23. Ne1 Kb8 24. Qc1 Nd4 25. Qe3 h5 26. Nd3 Ka8 27. b4 Nc2 28. Qc1 Nxa1 29. Qxa1 Rxd3 30. bxa5 Qd8 31. h3 Rd1+ 32. Qxd1 Qxd1+ 33. Kh2 Rd8 34. hxg4 hxg4 35. f3 Qe1 36. Rh5 g3+ 37. Kh3 Rg8 38. Rg5 Rh8+ 39. Rh5 Rxh5# 0-1

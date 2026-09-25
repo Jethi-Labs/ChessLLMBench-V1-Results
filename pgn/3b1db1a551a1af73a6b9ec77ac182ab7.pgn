@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_06"]
+[Black "DeepSeek-V4-Flash/board_10"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_31"]
+[OpeningName "King's Indian Defense, Orthodox"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 1 9"]
+
+9. a4 Bg4 10. h3 Bxf3 11. Bxf3 Nexd5 12. exd5 Nxd5 13. cxd5 Qf6 14. Nb5 Qxf3 15. gxf3 Kh8 16. Nxc7 Rac8 17. Nb5 Rxc1 18. Qxc1 Bf6 19. Nxd6 Bh4 20. Qe3 Bxf2+ 21. Rxf2 Rg8 22. Qxe5+ Rg7 23. Nxf7+ Kg8 24. Qe8# 1-0

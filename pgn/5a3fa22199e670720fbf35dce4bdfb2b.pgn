@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-sol/board_04"]
+[Black "grok-4_6/board_06"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_08"]
+[OpeningName "Ruy Lopez, Berlin Wall Ending"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bk1b1r/ppp2ppp/2p5/4Pn2/8/5N2/PPP2PPP/RNB2RK1 w - - 0 9"]
+
+9. Rd1+ Bd7 10. Ng5 Nh6 11. c4 Kc8 12. Nc3 Be8 13. Nge4 Nf5 14. g4 Ne7 15. a4 Ng6 16. f4 Bd7 17. Nf2 Bc5 18. Ne4 Bxf2+ 19. Nxf2 Ne7 20. a5 Be6 21. c5 Bb3 22. Rd3 Bc4 23. Rd4 Bb5 24. f5 Nd5 25. e6 fxe6 26. fxe6 Re8 27. Re4 Nf6 28. Re5 Bc4 29. e7 Nd7 30. Re3 Nxc5 31. Rf3 Nd7 32. Re3 Nf6 33. Ra4 Bb5 34. Rf4 Nd5 35. Rf7 Nxe3 36. Bxe3 Kd7 37. Bc5 Rg8 38. b4 Ke8 39. Rf8+ Kd7 40. Rf7 Rae8 41. Rf8 Bc4 42. Rf4 Bb3 43. Rf3 Bd5 44. Rf8 Be6 45. Nd3 Kc8 46. Ne5 Kb8 47. a6 Bd5 48. Nd7+ Kc8 49. axb7+ Kxb7 50. h4 Ka6 51. g5 Be4 52. Bd4 Kb5 53. Bc5 Ra8 54. Rf4 Bc2 55. Rf2 Bb3 56. Rf3 Ka4 57. Ne5 Bd5 58. Rf1 Be4 59. Rf4 Bc2 60. Nxc6 a6 61. Nd4 Bb3 62. Rf1 Ba2 63. b5 Rab8 64. Ra1 Rxb5 65. Rxa2# 1-0

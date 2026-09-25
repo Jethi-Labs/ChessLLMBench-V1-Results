@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_10"]
+[Black "gpt-5_6-luna/board_05"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_30"]
+[OpeningName "Gruenfeld Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/pp2ppbp/6p1/2p5/3PP3/2P2N2/P3BPPP/1RBQK2R b K - 3 9"]
+
+9... cxd4 10. cxd4 Bg4 11. h3 Bxf3 12. Bxf3 Qxd4 13. Rxb7 Qxd1+ 14. Kxd1 e5 15. a4 a6 16. g4 h6 17. Be3 Nc6 18. Be2 Rad8+ 19. Ke1 a5 20. f4 exf4 21. Bxf4 Rd4 22. Rc7 Rxe4 23. Rxc6 Rxf4 24. Rc4 Rxc4 25. Bxc4 Rc8 26. Bb3 Rc1+ 27. Bd1 Bc3+ 28. Ke2 g5 29. Kd3 Be5 30. Ke4 Bd6 31. Kd5 Bb4 32. Bf3 Rxh1 33. Bxh1 f6 34. Ke6 Bc3 35. Kf5 Kg7 36. Bd5 Be5 37. Bc4 Bd6 38. Be2 Bc5 39. Bc4 Bb6 40. Ke4 Kf8 41. Bd3 Bc7 42. Kf5 Kg7 43. Be4 Bd8 44. Ke6 Kf8 45. Bd3 Kg8 46. Kd7 Bb6 47. Kc6 Be3 48. Bc4+ Kh8 49. Kd5 Bf2 50. Kc6 Be1 51. Bd3 Bc3 52. Kc5 Bb4+ 53. Kd5 Kg8 54. Ke6 Bc3 55. Be4 Be5 56. Ba8 Bd4 57. Be4 Be5 58. Bd5 Kf8 59. Kf5 Ke7 60. Kg6 Kd6 61. Bf3 Kc7 62. Kxh6 Kb8 63. Kh5 Bg3 64. Kg6 Be5 65. Kf5 Bd4 66. Ke6 Kc8 67. Kd5 Be5 68. Kc6 Bc7 69. Bd5 Bd8 70. Be6+ Kb8 71. Bf5 Be7 72. Kb5 Bb4 73. Kb6 Be1 74. Kc6 Ka8 75. Bd3 Bc3 76. Be4 Kb8 77. Bf5 Bd2 78. Be6 Bb4 79. Bf5 Bd2 80. Be6 Be1 81. Kb6 Bc3 82. Kc6 Ka7 83. Bd5 Bd2 84. Be4 Bf4 85. Kb5 Bd2 86. Kc6 Bc3 87. Bd5 Kb8 88. Be6 Ba1 89. Kb5 Bc3 90. Kb6 Be1 91. Bf5 Bb4 92. Bd7 Bd2 93. Be6 Be1 94. Kc6 Bc3 95. Bd7 Bd4 96. Bf5 Bf2 97. Be4 Be1 98. Kd7 Bg3 99. Ke6 Be5 100. h4 gxh4 101. g5 h3 102. gxf6 Bd4 103. Ke7 h2 104. f7 Bc5+ 105. Ke8 Ba3 106. f8=Q Bxf8 107. Kxf8 Kc7 108. Ke7 Kc8 109. Kd6 Kd8 110. Bf3 Ke8 111. Ke5 Ke7 112. Kf4 Ke8 113. Kg3 h1=R 114. Bxh1 Kd7 115. Kf4 Kc7 116. Ke5 Kc8 117. Kd6 Kd8 118. Bd5 Ke8 119. Bc4 Kf8 120. Kc6 Ke7 121. Kb5 Kd8 122. Kxa5 Ke8 123. Kb5 Kf8 124. a5 Ke7 125. a6 Ke8 126. a7 Kd8 127. a8=Q+ Kd7 128. Qf8 Kc7 129. Qe7+ Kb8 130. Kc6 Ka8 131. Qb7# 1-0

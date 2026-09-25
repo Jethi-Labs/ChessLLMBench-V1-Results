@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_04"]
+[Black "Mistral-Large-3/board_10"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_01"]
+[OpeningName "Four Knights Game, Symmetrical Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp2ppp/2np1n2/1B2p3/1b2P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 0 7"]
+
+7. a3 Ba5 8. b4 b6 9. Bxc6 Bd7 10. Bxa8 a6 11. Bd5 c6 12. Bb3 Ng4 13. h3 g6 14. hxg4 Qf6 15. bxa5 bxa5 16. Bg5 d5 17. Bxf6 Rc8 18. Nxe5 Bf5 19. gxf5 Re8 20. exd5 Re6 21. dxe6 fxe6 22. Bxe6+ Kf8 23. Rb1 g5 24. Rb8# 1-0

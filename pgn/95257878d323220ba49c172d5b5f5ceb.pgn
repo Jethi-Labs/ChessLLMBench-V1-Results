@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_3/board_01"]
+[Black "grok-4_6/board_02"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_16"]
+[OpeningName "Bishop's Opening, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp2ppp/2np1n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 6"]
+
+6. Na4 Bb4+ 7. c3 Ba5 8. b4 Bb6 9. Nxb6 axb6 10. Bb5 Bd7 11. a3 O-O 12. g3 Kh8 13. h3 Qe7 14. a4 d5 15. Bxc6 Bxc6 16. a5 dxe4 17. Ng1 Rfd8 18. d4 exd4 19. cxd4 Qxb4+ 20. Kf1 Rxd4 21. Qc2 Nd5 22. Bg5 Bb5+ 23. Ne2 Nc3 24. f3 Bxe2+ 25. Kf2 Bd3 26. Qc1 bxa5 27. f4 Nd5 28. g4 f6 29. Bh4 Rc4 30. Rb1 Rxc1 31. Rbxc1 Qd2+ 32. Kg3 Qxf4+ 33. Kg2 Qd2+ 34. Bf2 Nf4+ 35. Kg3 Ne2+ 36. Kg2 Nxc1 37. Rxc1 Qxc1 38. Bg3 Bf1+ 39. Kh2 Qc2+ 40. Bf2 Qxf2+ 41. Kh1 Qg2# 0-1

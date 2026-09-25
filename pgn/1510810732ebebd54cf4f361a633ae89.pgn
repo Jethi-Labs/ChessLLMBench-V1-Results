@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-luna/board_09"]
+[Black "DeepSeek-V4-Flash/board_02"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_21"]
+[OpeningName "Queen's Gambit Declined, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn2kb1r/pp3p1p/2p2pb1/3p4/3P4/2N1P3/PP3PPP/R3KBNR w KQkq - 0 10"]
+
+10. Nge2 Bb4 11. a3 Bxc3+ 12. Nxc3 O-O 13. h4 Re8 14. b4 Rxe3+ 15. fxe3 Na6 16. Bxa6 bxa6 17. g4 Re8 18. Kd2 Rxe3 19. Kxe3 a5 20. h5 axb4 21. axb4 Bxh5 22. Rxh5 c5 23. bxc5 f5 24. Rxf5 a6 25. c6 a5 26. c7 a4 27. Rxa4 f6 28. Ra7 h6 29. c8=Q# 1-0

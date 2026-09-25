@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_09"]
+[Black "gpt-6-sol/board_08"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_47"]
+[OpeningName "Slav Defense, Chebanenko Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r2qkb1r/3n1ppp/p1p1pn2/1p1p4/2PP2b1/1PN1PN2/P3BPPP/R1BQ1RK1 w kq - 2 9"]
+
+9. c5 b4 10. Na4 Ne4 11. Bd2 a5 12. a3 Qb8 13. axb4 axb4 14. h3 Nxd2 15. Qxd2 Bxf3 16. Bxf3 Be7 17. e4 O-O 18. exd5 exd5 19. Rfe1 Re8 20. Bg4 Nf6 21. Bf5 g6 22. Bd3 h5 23. Nb6 Rxa1 24. Rxa1 Bd6 25. Qxb4 Bh2+ 26. Kh1 Ne4 27. Bxe4 Qc7 28. Bxd5 cxd5 29. Nxd5 Qd8 30. Qa4 Kf8 31. Qc4 Bc7 32. b4 f5 33. b5 Qc8 34. b6 Bd6 35. Nf6 Qe6 36. Qxe6 Rxe6 37. cxd6 Rxf6 38. b7 Rxd6 39. b8=Q+ Ke7 40. Ra7+ Ke6 41. Qb3+ Kf6 42. Rf7+ Kg5 43. Qe3+ Kh4 44. Qf4# 1-0

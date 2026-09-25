@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_03"]
+[Black "gpt-5_6-terra/board_07"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "INSUFFICIENT_MATERIAL"]
+[OpeningId "opening_15"]
+[OpeningName "Alekhine Defense, Exchange Variation"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp1bppp/1n1p4/8/2PP4/2NB4/PP3PPP/R1BQK1NR w KQ - 4 8"]
+
+8. Qc2 f5 9. Nf3 a5 10. Be3 f4 11. Bxh7+ Kh8 12. Bc1 Nxc4 13. Nd5 c6 14. Nxf4 Rxf4 15. Bxf4 Nxb2 16. Bc1 Na4 17. Bd3 b5 18. Bf4 g5 19. Be3 g4 20. Nd2 Bh4 21. Bf5 Na6 22. Bxc8 Qxc8 23. Qg6 Ra7 24. Qxd6 Nb4 25. Qe5+ Kg8 26. Qe4 Nc3 27. Qg6+ Rg7 28. Qh5 Nc2+ 29. Kf1 Nxa1 30. Qxh4 Rh7 31. Qg5+ Rg7 32. Qc5 Nd5 33. Ke2 g3 34. Rxa1 gxh2 35. Rc1 Qg4+ 36. Nf3 Qxg2 37. Qxc6 Nxe3 38. Qe8+ Kh7 39. a3 Nc2 40. Qe4+ Kg8 41. Qe6+ Kh8 42. Qc8+ Rg8 43. Qxc2 Re8+ 44. Ne5 h1=Q 45. Rxh1+ Qxh1 46. Qg6 Qa8 47. Kd2 Re7 48. Nf7+ Rxf7 49. Qxf7 Qe4 50. Qf8+ Kh7 51. Qf6 Qd5 52. Qh4+ Kg6 53. Qg4+ Qg5+ 54. Qxg5+ Kxg5 55. Ke3 Kf5 56. Kf3 a4 57. d5 Ke5 58. d6 Kxd6 59. Ke4 b4 60. Kd3 bxa3 61. Kc2 a2 62. Kb2 a1=Q+ 63. Kxa1 Kc5 64. Ka2 Kb4 65. f3 Kc4 66. Ka3 Kd4 67. Kxa4 Ke3 68. f4 Kxf4 1/2-1/2

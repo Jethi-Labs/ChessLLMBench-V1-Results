@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Pro/board_06"]
+[Black "grok-4_6/board_10"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_19"]
+[OpeningName "King's Gambit Declined"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bqk2r/1pp2ppp/p1np1n2/2b1p3/2B1PP2/2NP1N2/PPP3PP/R1BQK2R w KQkq - 0 7"]
+
+7. a3 Bg4 8. b3 Bd4 9. Nxd4 Bxd1 10. Nxd1 Nxd4 11. c3 Nc2+ 12. Kf1 Nxa1 13. g3 b5 14. h3 bxc4 15. a4 Nxb3 16. d4 Nxc1 17. g4 Nxe4 18. h4 Ng3+ 19. Ke1 Nd3+ 20. Kd2 Nxh1 21. a5 exd4 22. cxd4 Qxh4 23. d5 Qe1+ 24. Kc2 Nhf2 25. f5 Qxd1+ 26. Kc3 Qxg4 27. f6 gxf6 28. Kc2 Qg5 29. Kb1 c3 30. Ka1 Qd2 31. Kb1 c2+ 32. Ka1 c1=Q# 0-1

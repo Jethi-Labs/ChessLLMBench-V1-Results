@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-sol/board_08"]
+[Black "gpt-6-astra/board_03"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "FIFTY_MOVE"]
+[OpeningId "opening_42"]
+[OpeningName "Bird's Opening, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1qkb1r/pbpp2pp/1p2pn2/5p2/5P2/1P2PN2/PBPP2PP/RN1QKB1R w KQkq - 2 6"]
+
+6. c4 Nc6 7. Nc3 Bd6 8. Nb5 O-O 9. Nxd6 cxd6 10. Be2 Nb4 11. O-O a5 12. Nd4 Qe8 13. a3 Qg6 14. g3 Nc6 15. d3 d5 16. a4 dxc4 17. dxc4 Rfd8 18. Ba3 Ne4 19. Bh5 Qf6 20. Bb2 Qe7 21. Bf3 Nxd4 22. Bxd4 Ra6 23. Qd3 Rc8 24. g4 d6 25. Rad1 e5 26. fxe5 dxe5 27. Bb2 g6 28. Qd7 Qxd7 29. Rxd7 Bc6 30. Bxe4 Bxd7 31. Bb7 Ra7 32. Bxc8 Bxc8 33. gxf5 Bxf5 34. Bxe5 Bc2 35. Bd4 Bxb3 36. Bxb6 Re7 37. Bxa5 Rxe3 38. Rf4 Re5 39. Bc3 Rg5+ 40. Kf2 Bxa4 41. h4 Rc5 42. Bb4 Rf5 43. Ke3 Bc6 44. Rxf5 gxf5 45. c5 Kf7 46. h5 Ke6 47. h6 Ke5 48. Bc3+ Kd5 49. Kf4 Kxc5 50. Kxf5 Kd5 51. Bb2 Be8 52. Ba1 Bg6+ 53. Kf4 Bd3 54. Ke3 Bc2 55. Bc3 Bg6 56. Bg7 Be4 57. Bc3 Bg6 58. Bf6 Bf5 59. Kf4 Bd3 60. Be5 Bc2 61. Ba1 Bd3 62. Bg7 Bg6 63. Bf6 Bd3 64. Bb2 Bg6 65. Bg7 Bd3 66. Bf6 Bc2 67. Bc3 Bd3 68. Ba1 Be4 69. Bg7 Bg6 70. Bb2 Bd3 71. Ke3 Bg6 72. Bc3 Be4 73. Bg7 Bf5 74. Bf6 Be4 75. Bg7 Bf5 76. Bf6 Be4 77. Bd8 Bf5 78. Kf4 Bg6 79. Ke3 Bf5 80. Bb6 Ke5 81. Bd4+ Kd5 82. Bb2 Bg6 83. Kf3 Bh5+ 84. Kf4 Bg6 85. Bh8 Bd3 86. Bf6 Bc2 87. Bc3 Bd3 88. Ba5 Kd4 89. Bd8 Kd5 90. Bc7 Bc2 91. Ba5 Bg6 92. Bc7 Bc2 93. Be5 Bd3 94. Bh8 Be4 95. Ke3 Bg6 96. Kf3 Bf5 97. Ke3 Bg6 98. Kf4 Bd3 99. Be5 Bc2 100. Ba1 1/2-1/2

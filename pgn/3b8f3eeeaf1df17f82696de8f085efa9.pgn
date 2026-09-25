@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_10"]
+[Black "gpt-6-sol/board_08"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_25"]
+[OpeningName "Catalan Opening, Closed"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnbq1rk1/pp2bppp/2p1pn2/3p4/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 0 7"]
+
+7. Bg5 dxc4 8. Nc3 h6 9. Bxf6 Bxf6 10. Qa4 b5 11. Qxa7 Rxa7 12. Bh3 Bxd4 13. Nxd4 Qxd4 14. Bxe6 Bxe6 15. Nxb5 cxb5 16. Kh1 Qxb2 17. Rac1 Qxe2 18. Rxc4 Qxf1# 0-1

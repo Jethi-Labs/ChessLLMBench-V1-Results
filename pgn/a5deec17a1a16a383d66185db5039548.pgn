@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-astra/board_05"]
+[Black "gpt-6-sol/board_03"]
+[Result "0-1"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_42"]
+[OpeningName "Bird's Opening, Symmetrical"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1qkb1r/pbpp2pp/1p2pn2/5p2/5P2/1P2PN2/PBPP2PP/RN1QKB1R w KQkq - 2 6"]
+
+6. a3 Bd6 7. c3 O-O 8. d3 Nd5 9. g3 Nxe3 10. Qe2 Nxf1 11. h3 Nxg3 12. Qg2 Nxh1 13. Qxh1 Bxf4 14. a4 Nc6 15. b4 Ne5 16. c4 Bxf3 17. Bxe5 Qh4+ 18. Kf1 Bxh1 19. Bxf4 Qxf4+ 20. Ke1 Qe5+ 21. Kd2 Qb2+ 22. Kd1 Bf3+ 23. Ke1 Qe2# 0-1

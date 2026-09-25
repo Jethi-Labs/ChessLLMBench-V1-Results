@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "grok-4_6/board_08"]
+[Black "DeepSeek-V4-Pro/board_09"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "TIMEOUT"]
+[OpeningId "opening_46"]
+[OpeningName "Gruenfeld Defense, Qb3 Line"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1q1rk1/1b2ppbp/p4np1/1pP5/4P3/1QN2N2/PP2BPPP/R1B1K2R w KQ - 1 11"]
+
+11. Qc2 Ng4 12. Ng5 Nf6 13. Be3 Nfd7 14. Kf1 Bf6 15. Nd5 Bxg5 16. Bxg5 Nc6 17. Qc3 b4 18. Nxb4 Nxb4 19. Bh6 Ne5 20. Qxe5 f6 21. Qc3 Bxe4 22. Qxb4 Bxg2+ 23. Kxg2 Qd5+ 24. Bf3 Qd3 25. Be4 Qe2 26. Bxf8 Rxf8 27. Rhe1 Qg4+ 28. Kh1 Kh8 29. Qb7 Rf7 30. Bd5 Rf8 31. Qxe7 Qc8 32. Bb7 Qd8 33. Qxd8 Rxd8 34. c6 a5 35. c7 Rf8 36. Rad1 Rc8 37. Bxc8 Kg7 38. Be6 a4 39. c8=Q 1-0

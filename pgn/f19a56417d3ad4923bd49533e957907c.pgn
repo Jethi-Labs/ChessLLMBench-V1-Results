@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_01"]
+[Black "gpt-5_6-luna/board_04"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_27"]
+[OpeningName "Queen's Indian Defense"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rn1qk2r/p3bppp/bpp1pn2/3p4/2PP4/1PB2NP1/P3PPBP/RN1QK2R w KQkq d6 0 9"]
+
+9. cxd5 Nxd5 10. Bf1 f5 11. Ne5 c5 12. dxc5 bxc5 13. Bg2 g5 14. Nc6 Nxc3 15. Nxd8 Nxd1 16. Nxe6 Bf6 17. Bxa8 Bxa1 18. Kxd1 Bd4 19. e3 Be5 20. Nxg5 Bd3 21. Kd2 Bb5 22. Rd1 h5 23. Kc2 Be2 24. Rd5 Ba1 25. Rxf5 Rf8 26. Rxf8+ Kxf8 27. Ne6+ Kg8 28. Nxc5 a5 29. Bd5+ Kh8 30. Nb7 Na6 31. a3 Nc7 32. Bc6 Nb5 33. Bxb5 Bxb5 34. Nxa5 Bd7 35. Nd2 Bf5+ 36. e4 Bd7 37. Nf1 Bf6 38. Ne3 h4 39. gxh4 Bxh4 40. f3 Be7 41. Kb2 Bf6+ 42. Kb1 Be5 43. Nf1 Bh3 44. Nc4 Bc7 45. Nce3 Be5 46. a4 Bd4 47. b4 Kg8 48. f4 Bd7 49. Nc2 Bb6 50. b5 Bc5 51. Kb2 Bd6 52. f5 Be5+ 53. Kb1 Kh8 54. h3 Bc3 55. Ng3 Bf6 56. Na1 Kg8 57. Nc2 Bc8 58. a5 Be5 59. Nh1 Bb7 60. Nf2 Bg3 61. Ng4 Kh8 62. Nf6 Bh4 63. Nd5 Bf2 64. Nc3 Bc8 65. Kb2 Bd7 66. Kb3 Be8 67. Kc4 Ba7 68. Nd4 Bxd4 69. Kxd4 Bd7 70. Ke5 Kh7 71. a6 Bc8 72. Na4 Kg8 73. h4 Kh7 74. a7 Bb7 75. Nb6 Kh6 76. f6 Kh7 77. a8=Q Bxa8 78. Nxa8 Kg6 79. h5+ Kxh5 80. b6 Kg6 81. b7 Kh7 82. b8=Q Kg6 83. Ke6 Kg5 84. e5 Kh5 85. Ke7 Kh6 86. Qc7 Kh7 87. Ke8+ Kh6 88. Ke7 Kh5 89. Ke8 Kg4 90. Kd8 Kf3 91. Ke8 Kg2 92. Kd8 Kf3 93. Ke8 Kg2 94. Kd8 Kf3 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-6-sol/board_01"]
+[Black "DeepSeek-V4-Pro/board_10"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_23"]
+[OpeningName "Symmetrical Tarrasch Defense"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 5 9"]
+
+9. Be3 cxd4 10. Nxd4 Nb4 11. a3 Qa5 12. axb4 Qxb4 13. Nb3 Be6 14. Bxd5 Nxd5 15. Nxd5 Bxd5 16. Qxd5 Rfd8 17. Qe5 Qxb3 18. Qxe7 Re8 19. Rxa7 Rxa7 20. Qxe8# 1-0

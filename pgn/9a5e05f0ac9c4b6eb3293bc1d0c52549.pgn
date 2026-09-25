@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_04"]
+[Black "DeepSeek-V4-Pro/board_10"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_35"]
+[OpeningName "Symmetrical English, Four Knights"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp1p1ppp/1qn1pn2/8/2PN4/2N3P1/PP2PP1P/R1BQKB1R w KQkq - 1 7"]
+
+7. c5 Bxc5 8. Nxc6 Qxc6 9. Rg1 Bd6 10. Bg2 Qc5 11. Be3 Qe5 12. Bf4 Qc5 13. Bxd6 Qc4 14. Be5 Ng4 15. Bxg7 Rg8 16. b3 Qc5 17. Bd4 Qd6 18. Rh1 Ne5 19. Kf1 Rg7 20. Ne4 Qd5 21. Nf6+ Kf8 22. Nxd5 exd5 23. Bxe5 Rg5 24. Qxd5 Kg8 25. Rc1 Rf5 26. Be4 Rg5 27. Rc2 Rb8 28. Bxh7+ Kxh7 29. Qxf7+ Kh6 30. Bxb8 Rg7 31. Bf4+ Kh7 32. Qf6 Rg4 33. Qf5+ Kg7 34. Qxg4+ Kh7 35. Rxc8 d6 36. Bxd6 b6 37. Rc7+ Kh6 38. Rxa7 b5 39. Rb7 b4 40. Rxb4 Kh7 41. Bc5 Kh6 42. Be3+ Kh7 43. Bc5 Kh6 44. Be3+ Kh7 45. Bc5 1/2-1/2

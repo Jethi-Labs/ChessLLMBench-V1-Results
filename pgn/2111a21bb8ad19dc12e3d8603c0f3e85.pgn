@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "gpt-5_6-terra/board_07"]
+[Black "Mistral-Large-3/board_04"]
+[Result "1-0"]
+[TimeControl "10+0.1"]
+[Termination "CHECKMATE"]
+[OpeningId "opening_49"]
+[OpeningName "Queen's Gambit Accepted, Queenless Ending"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnb1k2r/1p3ppp/p3pn2/2b5/2B5/4PN2/PP3PPP/RNBR2K1 w kq - 0 9"]
+
+9. a4 Bxe3 10. fxe3 Nc6 11. Nc3 O-O 12. h4 e5 13. b3 Bf5 14. Ba3 Nd4 15. exd4 exd4 16. Nxd4 Ne4 17. Bxf8 Nxc3 18. Rf1 Rxf8 19. Nxf5 Nxa4 20. bxa4 Rd8 21. Ne7+ Kh8 22. Rxf7 Rd2 23. Rf8# 1-0

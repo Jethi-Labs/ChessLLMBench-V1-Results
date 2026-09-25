@@ -1,0 +1,15 @@
+[Event "ChessLLMBench"]
+[Site "ChessLLMBench"]
+[White "DeepSeek-V4-Flash/board_06"]
+[Black "Mistral-Large-3/board_04"]
+[Result "1/2-1/2"]
+[TimeControl "10+0.1"]
+[Termination "REPETITION"]
+[OpeningId "opening_43"]
+[OpeningName "Petroff Defense, Queen Exchange Line"]
+[OpeningPoolVersion "1"]
+[OpeningPoolHash "9ff8f3ed4cef011da93217d391973035c5474e44b9d70be15c7996d561466667"]
+[SetUp "1"]
+[FEN "rnb1k2r/ppp1bppp/3p1n2/6B1/8/3P1N2/PPP1BPPP/RN2K2R w KQkq - 1 9"]
+
+9. a3 Nc6 10. b3 O-O 11. c3 Bf5 12. g3 d5 13. h3 Ne4 14. a4 Nxg5 15. b4 Nxf3+ 16. Bxf3 Bxd3 17. c4 Bxb4+ 18. Nd2 Bxc4 19. g4 Nd4 20. h4 Nxf3+ 21. Kd1 Bxd2 22. a5 d4 23. g5 d3 24. h5 Bxg5 25. a6 bxa6 26. h6 gxh6 27. Rb1 d2 28. Ra1 Nd4 29. f3 Nxf3 30. Rb1 Nd4 31. Ra1 Be3 32. Rb1 Bd3 33. Ra1 Rad8 34. Rb1 Bxb1 35. Re1 dxe1=Q+ 36. Kxe1 Bd3 37. Kd1 Rfe8 38. Ke1 Be4 39. Kd1 Bd3 40. Ke1 Be4 41. Kd1 Bd3 1/2-1/2
